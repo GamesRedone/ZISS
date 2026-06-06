@@ -73,7 +73,7 @@ Learn more about them in the [Starter Guide](https://github.com/GamesRedone/ZISS
 <br><br><br><br>
 # :video_game: **Revamped Survival Mode & New Gameplay Features**
 
-The official survival mode shipped with Anniversary Edition has been fleshed out to be a more balanced, harsh, survival experience. As well as many new gameplay features have been added to enrich the Vanilla experience. Taking features from many other games such as Enshrouded, Valheim, The Witcher, and even Red Dead Redemption, the game feels modern and fresh. With the default difficulty preset you will find most survival mechanics are rather unobtrusive to gameplay, but you can crank up the *"Realism"* if your looking for a true challenge.
+The official survival mode shipped with Anniversary Edition has been fleshed out to be a more balanced, harsh, survival experience. As well as many new gameplay features have been added to enrich the Vanilla experience. Taking features from many other games such as Enshrouded, Valheim, The Witcher, and even Red Dead Redemption, the game feels modern and fresh. With the default difficulty preset you will find most survival mechanics are rather unobtrusive to gameplay, but you can crank up the *"Realism"* if you're looking for a true challenge.
 
 - Survival Mechanics have been reworked and many new vanilla friendly gameplay features have been added
 - Thirst & hydration mechanics have been added to accompany the Hunger/Thirst/Fatigue mechanics of the official Anniversary Edition Survival Mode
