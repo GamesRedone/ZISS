@@ -114,9 +114,11 @@ Checkout the **[Survival Mode & New Gameplay Features](https://github.com/GamesR
 
 <div align="center">
 
->*Most changes to progression are disabled in the Vanilla+ preset.*
+*Most changes to progression are disabled in the Vanilla+ preset*
 
 </div>
+
+<br>
 
 :thumbsup: **The locations of artifacts have *NOT* been changed.**
 
