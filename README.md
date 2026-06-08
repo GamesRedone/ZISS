@@ -177,9 +177,43 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 ## **Reporting Issues**
 
-As of v1.0 ZISS is stable, but if your game does crash, a crash log will appear in a TxT  open on your screen.
+<br>
 
-Please include this when reporting a crash related issue.
+**I will only respond to issues [reported on GitHub](https://github.com/GamesRedone/ZISS/issues).**
+
+<br>
+
+**As of v1.0 ZISS is stable, but if your game does crash, a crash log will appear in a `.txt` file open on your screen.**
+
+Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).
+
+<br>
+
+**If you changed you MCM settings/disabled any mods and did *NOT* create a custom difficulty preset and/or MO2 profile...**
+
+I will *NOT* be able to help you.
+
+<br>
+
+If your game will not launch or something else is really messed up...
+
+**...and you did *NOT* create a custom preset/profile...**
+
+I would recommend reinstalling ZISS *(delete the specific folder where the modlist was installed)* or [resetting your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets).
+
+<br><br>
+
+**You must upload a copy of your custom preset and/or profile for support.**
+
+<br>
+
+💾 MCM recorder saves all presets as `.json` files
+
+> Checkout the last part of [Saving your settings with MCM Recorder](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder) for more info.<br><br>I need a `.7z` file of your `empty mod`.
+
+:open_file_folder: MO2 Profiles are saved in your ZISS folder (i.g. `C:\ZISS\profiles`)
+
+> I need a `.7z` file of the entire folder for the profile (i.g. `C:\ZISS\profiles\PROFILE NAME`)
 
 <br><br><br>
 
