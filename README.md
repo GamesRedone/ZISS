@@ -179,19 +179,19 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 <br>
 
-**I will only respond to issues [reported on GitHub](https://github.com/GamesRedone/ZISS/issues).**
+**Please report any bugs or issues you run into [here on GitHub](https://github.com/GamesRedone/ZISS/issues).**
 
 <br>
 
 **As of v1.0 ZISS is stable, but if your game does crash, a crash log will appear in a `.txt` file open on your screen.**
 
-Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).
+> Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).
 
 <br>
 
 **If you changed you MCM settings/disabled any mods and did *NOT* create a custom difficulty preset and/or MO2 profile...**
 
-I will *NOT* be able to help you.
+**I will *NOT* be able to help you.**
 
 <br>
 
@@ -199,7 +199,7 @@ If your game will not launch or something else is really messed up...
 
 **...and you did *NOT* create a custom preset/profile...**
 
-I would recommend reinstalling ZISS *(delete the specific folder where the modlist was installed)* or [resetting your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets).
+I would recommend [resetting your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets) or reinstalling ZISS *(delete the specific folder where the modlist was installed)*.
 
 <br><br>
 
