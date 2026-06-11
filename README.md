@@ -1,7 +1,7 @@
 # Z.I.S.S. (Zora's Immersive Survival Souls)
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/logo_v1.0.png)
 
-<h4 align="center">Read Me | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
+<h4 align="center"><h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | Read Me | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
 ---
 
@@ -23,7 +23,7 @@
 <br><br>
 ## **Introduction**
 
-ZISS is a lightweight, highly configurable, collection of mods that transforms Skyrim AE into a modern survival RPG. With a focus on improving gameplay and visuals, and the option to turn off survival mode, this mod list does not turn Skyrim into another game.
+ZISS is a lightweight, highly configurable, collection of mods that transforms Skyrim AE into a modern survival RPG. With a focus on improving gameplay and visuals, and the option to turn off survival mode, this modlist does not turn Skyrim into another game.
 
 ZISS is here to enhance the Vanilla Skyrim experience, not change it.
 
@@ -86,12 +86,10 @@ Learn more about them in the **[Starter Guide](https://github.com/GamesRedone/ZI
 
 </div>
 
-**The official survival mode shipped with Anniversary Edition has been fleshed out to be a more balanced, harsh, survival experience.** 
+**The official survival mode shipped with Anniversary Edition has been fleshed out to be a more balanced, harsh, survival experience. With the default difficulty preset you will find most survival mechanics are rather unobtrusive to gameplay, but you can crank up the *"Realism"* if you're looking for a true challenge.**
 
-*With the default difficulty preset you will find most survival mechanics are rather unobtrusive to gameplay, but you can crank up the **"Realism"** if you're looking for a true challenge.*
-
-- Survival Mechanics have been reworked and many new vanilla friendly gameplay features have been added
-- Thirst & hydration mechanics have been added to accompany the Hunger/Thirst/Fatigue mechanics of the official Anniversary Edition Survival Mode
+- Survival Mechanics have been reworked
+- Thirst & hydration mechanics have been added
 - There's a new alternative death system (Disabled in Vanilla+ and No Survival presets)
 - There are many new abilities that allow you to interact with the world in new ways
 - A handful of new survival skills have been added
@@ -151,7 +149,7 @@ Learn about how AI was improved and all there is to explore in the [Starter Guid
 
 ## **List Contents**
 
-The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/).  
+The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/z-i-s-s-v1-0).  
 
 Some mods may not be in the *"right"* category on Load Order Library, this is due to load order restrictions.
 
@@ -219,7 +217,13 @@ I would recommend [resetting your MCM settings](https://github.com/GamesRedone/Z
 
 ## **Credits and Thanks**
 
-> All of the mods listed here are required for ZISS to function.
+<br>
+
+*Big thank you to all the talented developers out there that make modlists like this possible.*
+
+<br>
+
+Special thanks to the Wabbajack Team
 
 DavidJCobb for Cobb Encumbrance
 
@@ -240,5 +244,7 @@ Fhaarkas for SkyHud
 GiraPomba for Helmet Toggle 2
 
 mrowrpurr for MCM Recorder
+
+> All of the mods listed here must be downloaded from their original source for ZISS to function.
 
 <br><br><br><br><br><br><br><br>
