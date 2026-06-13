@@ -171,7 +171,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 
 <br>
 
-:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) will be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) may be ignored.
 
 <br>
 
@@ -401,7 +401,7 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 
 > *Never disabled a mod before? It's really easy, click the uncheck the checkbox next to the mod and it's disabled! Just make sure to create a new profile in MO2. Checkout the [Optional Mods](#Optional-Mods) section to learn how.<br><br>Do ***NOT*** change the load order any of the mods.*
 
-:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) will be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) may be ignored.
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_increaseframes.jpg)
 
@@ -415,7 +415,7 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 
 >*Do *NOT* pick and choose, just disable them all. Some of these mods have the capacity to break the game. This is more of a last resort.<br><br>Do ***NOT*** change the load order any of the mods.*
 
-:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) will be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) may be ignored.
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_parallaxgen.jpg)
 > *Also disable PGPatcher and PGPatcher output. They are not in this section but you can find them easily by using the search bar within MO2 at the bottom of the mod list.*
@@ -432,7 +432,7 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 
 <br>
 
-:warning: If you add any mods to ZISS, and run into issues, your issue/bug reports will be ignored. Modify at your own risk!
+:warning: If you add any mods to ZISS, and run into issues, your issue/bug reports may be ignored. Modify at your own risk!
 
 :no_entry: Do not add any animation or texture / mesh mods that are incompatible with Nemesis or PGPatcher. If you do add any animations or texture / mesh mods, run Nemesis to load the animations and PGPatcher to load the meshes and textures (Parallax Gen).
 > *Here is a guide by SoftGaming on using [Nemesis](https://youtu.be/--W1jhyKHU0?t=146) and a guide by Darkfox127 on how to use [PGPatcher](https://youtu.be/-ZbQBQ05_Ss?t=556). Do not mess with the settings in Nemesis or PGPatcher unless you know what your doing. **THIS CAN BREAK THE GAME**.*
