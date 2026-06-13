@@ -1,11 +1,15 @@
 # Z.I.S.S. | Customization Guide
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/logo_customizationguide_v1.0.png)
 
-<h4 align="center"><a href="https://github.com/GamesRedone/ZISS/tree/main">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | Customization Guide </h4>
+<h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/tree/main">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | Customization Guide </h4>
 
 ---
 
 <br><br>This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><br><br><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<br>
+
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
 
 <br>
 
