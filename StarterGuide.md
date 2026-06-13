@@ -1,11 +1,15 @@
 # Z.I.S.S. | Starter Guide
 <img src="https://github.com/GamesRedone/ZISS/blob/main/Images/logo_starterguide_v1.0.png" loading="lazy">
 
-<h4 align="center"><a href="https://github.com/GamesRedone/ZISS/blob/main/README.md">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | Starter Guide | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
+<h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/README.md">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | Starter Guide | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
 ---
 
 <br><br>This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><br><br><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<br>
+
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
 
 <br>
 
@@ -47,6 +51,8 @@
   - [Why is there no quicksave?](#Why-is-there-no-quicksave)
 
   - [What is this new icon I see when entering a new space?](#What-is-this-new-icon-I-see-when-entering-a-new-space)
+
+  - [Where are the screenshots and save files?](#where-are-the-screenshots-and-save-files)
 
 <br>
 
@@ -222,7 +228,7 @@ The larger of the two bars below the icons indicates Cold Exposure, the smaller 
 :warning: It took a while to get the HUD & UI to function correctly with all of the other mods included in ZISS. It is highly recommended you do *NOT* disable or modify the configuration of any of the HUD or UI mods. With the exception of [Skyrim Souls](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods).
 > If you do, and run into issues, your issue/bug reports will be ignored. Modify at your own risk!
 
-:page_with_curl: There are many mods included in ZISS that work together to produce the final HUD & UI you see in the game. I am not going to list them here. The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/).
+:page_with_curl: There are many mods included in ZISS that work together to produce the final HUD & UI you see in the game. I am not going to list them here. The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/z-i-s-s-v1-0).
 > *Some mods may not be in the "right" category on Load Order Library, this is due to load order restrictions. NEVER change the load order.*
 
 <br>
@@ -238,6 +244,8 @@ ZISS has been configured with controller users in mind. Keyboard and mouse users
 - `=/+` = Change shoulder Camera View
 - `Shift` + `E` = [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) *(Allows you to pet animals among many other things)*
 - `H` = Calls horse *(No matter what horse you have it will run to you)*
+- `0/)` = Toggle helmet/hood on/off
+- `-/_` = Toggle Photo Mode (Checkout the [FAQs section](#where-are-the-screenshots-and-save-files) to see where these are saved)
 
 <br><br>
 <img src="https://github.com/GamesRedone/ZISS/blob/main/Images/controls_controller.jpg" loading="lazy">
@@ -479,7 +487,7 @@ The following dungeons have been nearly doubled in size and are now much more in
 </details>
 
 <br><br>
-:page_with_curl: There are over a hundred mods included in ZISS that add diversity, enhance the lighting, weather, and textures / meshes. I am not going to list them all here, but these are some of my favorites. The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/).
+:page_with_curl: There are over a hundred mods included in ZISS that add diversity, enhance the lighting, weather, and textures / meshes. I am not going to list them all here, but these are some of my favorites. The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/z-i-s-s-v1-0).
 >*Some mods may not be in the "right" category on Load Order Library, this is due to load order restrictions. NEVER change the load order.*
 
 :pencil2: Checkout the [Optional Mods](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how to remove some of the new locations or location enhancements.
@@ -554,7 +562,6 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 - **Instincts** |  Nearby harvestable resources, wood nodes, animals, people, and dead bodies to glow. 
 - **Primitive Cooking** | Use sticks and rocks to cook basic recipes
 - **Create Item** | Craft useful items from anywhere
-- **Track** | Search the surrounding area for game
 - **Citizens Control** | Access in game menu for immersive citizens
 - **MINPCs Party Teleport Debug Spell** | Teleport MINPCs Party to you
 - **Remove Projectiles** | Removes fallen projectiles from the game *(Only use if the game is running very poorly)*
@@ -572,6 +579,7 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 > *All of these abilities have were added by mods on the list*
 
 - **Forage** *(Use the expanded instincts ability to forage instead)*
+- **Track** *(Use the expanded instincts ability to hunt instead)*
 - **Harvest Wood** *(Harvest wood directly from trees instead)*
 - **Weathersense**
 - **Sense Direction**
@@ -726,7 +734,7 @@ If your looking for more info on a specific new item, feature or balancing chang
 
 <br><br>
 
-:page_with_curl: There are many other mods included in ZISS other then the ones listed here pertaining to survival mode and gameplay. Only the major changes have been focused on here. You can find the full mod list on [Load Order Library](https://loadorderlibrary.com/).
+:page_with_curl: There are many other mods included in ZISS other then the ones listed here pertaining to survival mode and gameplay. Only the major changes have been focused on here. You can find the full mod list on [Load Order Library](https://loadorderlibrary.com/lists/z-i-s-s-v1-0).
 >*Some mods may not be in the "right" category on Load Order Library, this is due to load order restrictions. NEVER change the load order.*
 
 :pencil2: Checkout the [Key Balancing Changes](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how to modify or remove any of the gameplay balancing changes.
@@ -875,11 +883,10 @@ If you enter encounter zones whose minimum level is higher than the player's cur
 
 <br>
 
-## ***Where are the screenshots/save files?***
+## ***Where are the screenshots and save files***
 
-📷 Screenshots from [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) by [powerofthree](https://www.nexusmods.com/skyrimspecialedition/users/2148728) are saved in the `overwrite` folder.
-
-<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/howto_overwrite.jpg" loading="lazy">
+📷 Screenshots from [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) by [powerofthree](https://www.nexusmods.com/skyrimspecialedition/users/2148728) are saved in your `Documents` folder.
+> *(e.g. C:\Users\USERNAME\Documents\My Games\Skyrim Special Edition\Photos)*
 
 💾 When using the Default ZISS MO2 Profile, save files are profile specific. 
 
