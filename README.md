@@ -9,6 +9,10 @@
 
 <br>
 
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
+
+<br>
+
 ## **Navigation**
 <br>
 
@@ -56,11 +60,11 @@ ZISS is here to enhance the Vanilla Skyrim experience, not change it.
 
 <div align="center">
 
-# :crossed_swords: ***Souls Like Combat... that isn't soul crushing***
+# :crossed_swords: ***Fair and Balanced Souls Like Combat***
 
 </div>
 
-**Without overdoing the difficulty, souls like combat has been introduced to Skyrim. You'll find all the features your used to from other souls like games such as ;**
+**Rewarding, skill-based, souls like combat has been introduced to Skyrim. You'll find all the features your used to from other souls like games such as ;**
 
 - Flinching
 - iFrames
@@ -68,13 +72,34 @@ ZISS is here to enhance the Vanilla Skyrim experience, not change it.
 - Backstabs & Parries
 - Stamina Usage / Stamina Drain
 - Attack Commitment (Animation-Locking)
-- Equipment Weight (fat rolling)
+- Equipment Weight (Fat rolling)
 
-With over 500 new animations, gameplay is smooth and "It just works"&trade;.
+With over 700 new animations, gameplay is smooth and "It just works"&trade;.
 
 **[Six Difficulty Presets](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#difficulty-presets)** offer a range of new challenges, from Vanilla+ to Hardcore, allowing you to choose how to return to Tamriel.
 
 Learn more about them in the **[Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md)**
+
+<br><br><br><br>
+
+![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/readme01_v1.0.png)
+
+<div align="center">
+
+# :milky_way: ***Explore a lively version of Tamriel***
+
+</div>
+
+**Everything from advanced lighting, parallax textures, enhanced weather, and improved physics have been included to bring out the beauty of the classic game in a performance friendly way.**
+
+- Landscapes and interiors now look stunning with lots of new diverse models and colorful flora and fauna. 
+- Many new dynamic NPCs now roam the world
+- Improved AI, extended voice lines, more dialog options, and a new party system make the world feel alive
+- There are hundreds of new random encounters,  surprises, and secrets at every turn
+- Discover new hidden hideouts, mountaintops, and treasures. Even some dungeons even have new layouts to make your travels a little more interesting.
+
+
+Learn about how AI was improved and all there is to explore in the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#improved-ai-and-new-random-encounters).
 
 <br><br><br><br>
 
@@ -86,17 +111,19 @@ Learn more about them in the **[Starter Guide](https://github.com/GamesRedone/ZI
 
 </div>
 
-**The official survival mode shipped with Anniversary Edition has been fleshed out to be a more balanced, harsh, survival experience. With the default difficulty preset you will find most survival mechanics are rather unobtrusive to gameplay, but you can crank up the *"Realism"* if you're looking for a true challenge.**
+**The official survival mode shipped with Anniversary Edition has been fleshed out to be a more balanced, harsh, survival experience. As well as many new gameplay features have been added to enrich the Vanilla experience.**
 
-- Survival Mechanics have been reworked
-- Thirst & hydration mechanics have been added
-- There's a new alternative death system (Disabled in Vanilla+ and No Survival presets)
+*With the default difficulty preset you will find most survival mechanics are rather unobtrusive to gameplay, but you can crank up the *"Realism"* if you're looking for a true challenge.*
+
+- There's a new alternative death system *(Disabled in Vanilla+ and No Survival presets)*
 - There are many new abilities that allow you to interact with the world in new ways
 - A handful of new survival skills have been added
 - Progression has been added to carry weight with some new larger backpacks being added to the game
 - Some new craftable and purchasable items have been added to help out survival mode players
 - Many new hidden locations and repeatable side quests have been added. All with varying rewards ranging from small sums of gold to new passive abilities for seeking them out.
-- Inns are now more then just a place to grab a drink and rest your head. With new mini games and even the ability to hail a carriage
+- Inns are now more then just a place to grab a drink and rest your head. With new mini games and even the ability to hail a carriage.
+- Survival Mechanics have been reworked
+- Thirst & hydration mechanics have been added
 
 If you'd like to take a more in depth look at the gameplay changes ZISS makes to Skyrim...
 
@@ -120,30 +147,9 @@ Checkout the **[Survival Mode & New Gameplay Features](https://github.com/GamesR
 
 :thumbsup: **The locations of artifacts have *NOT* been changed.**
 
-For those looking for more challenging yet fair gameplay, you will find loot spawns, encounter zones, experience gain, and XP scaling have all been balanced to add true progression to Skyrim. No longer can you just plow through every enemy you come across. With the default difficulty preset loot will be harder to find and leveling up will prove to be more of a goal to work towards in the beginning.
+No longer can you just plow through every enemy you come across. With the default difficulty preset loot will be harder to find and leveling up will prove to be more of a goal to work towards in the beginning. With loot spawns, encounter zones, experience gain, and XP scaling all balanced. The game feels challenging yet fair.
 
 The **[Progression](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#progression)** section of the **[Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md)** contains all the details.
-
-<br><br><br><br>
-
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/readme01_v1.0.png)
-
-<div align="center">
-
-# :milky_way: ***Explore a lively version of Tamriel***
-
-</div>
-
-**Everything from advanced lighting, parallax textures, enhanced weather, and improved physics have been included to bring out the beauty of the classic game in a performance friendly way.**
-
-- Landscapes and interiors now look stunning with lots of new diverse models and colorful flora and fauna. 
-- Many new dynamic NPCs now roam the world
-- Improved AI, extended voice lines, more dialog options, and a new party system make the world feel alive
-- There are hundreds of new random encounters,  surprises, and secrets at every turn
-- Discover new hidden hideouts, mountaintops, and treasures. Even some dungeons even have new layouts to make your travels a little more interesting.
-
-
-Learn about how AI was improved and all there is to explore in the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#improved-ai-and-new-random-encounters).
  
 <br><br><br><br>
 
