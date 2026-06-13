@@ -9,6 +9,10 @@
 
 <br>
 
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
+
+<br>
+
 ## **Navigation**
 <br>
 
