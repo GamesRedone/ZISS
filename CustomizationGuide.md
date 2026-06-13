@@ -72,7 +72,6 @@ ZISS uses [Complete Controller Setup](https://www.nexusmods.com/skyrimspecialedi
 :thumbsup: You can customize the D-Pad *"combo"* buttons with [Gamepad++](https://www.nexusmods.com/skyrimspecialedition/mods/27007) in game from the MCM.
 
 :raised_hand: Before you change any settings, I suggest reading [Saving your settings (MCM Recorder)](#Saving-your-settings-with-MCM-Recorder). MCM Recorder will *NOT* take a snapshot of your current settings. It works by recording every button press or value you enter into the MCM.
-> *If you don't wish to save these settings across multiple saves you can ignore this disclaimer.*
 
 <br>
 
@@ -85,10 +84,6 @@ ZISS uses [Complete Controller Setup](https://www.nexusmods.com/skyrimspecialedi
 	> Do *NOT* change `A` + `D-Pad: Right` (`Combo + Single Press`)
 
 3. Go to the presets tab and click `Save Preset`
-
-<details><summary>Screenshot</summary>
-
-</details>
 
 <br>
 
@@ -117,17 +112,9 @@ you are changing from one save file to another and they are both use different d
         2. Type: "nsetstage ski_configmanagerinstance 1"
         3. Press [enter]
 
-	<details><summary>Screenshot</summary>
-
-	</details>
-
 4. Go to MCM recorder within the MCM and run `"1 ZISS - Settings Loader"`
 
 	> *Ensure you are in a safe spot, it may take a few minutes, if interrupted you must start from `Step 1`. Wait for the settings to load.*
-
-	<details><summary>Screenshot</summary>
-
-	</details>
 
 <br><br>
 
@@ -155,15 +142,7 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 3. Launch the game, create a new character and wait for MCM recorder to finish running. Then save the game.
 	> This just ensures the settings get saved correctly, so don't worry, you can load them back up on your existing save when your done.
 
-	<details><summary>Screenshot</summary>
-
-	</details>
-
 4. Open the Mod Configuration Menu and go to `MCM Recorder` click on `1 ZISS - Settings Loader`. Click `Yes` on the pop up and close the MCM.
-
-	<details><summary>Screenshot</summary>
-
-	</details>
 
 5. Click `Add to recording`. You will get a pop up letting you know that the recording has restarted. You can now begin to make changes in the MCM.
 	>If you click on `Run` by mistake, load the save you created in `Step 2`. This happened to me at times when using a controller. Mouse and keyboard is recommend for this part.<br><br>
@@ -171,16 +150,14 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 
 6. When you are done making the changes to your settings, return to `MCM Recorder` in the MCM and click `FINISH RECORDING`
 
-	<details><summary>Screenshot</summary>
-
-	</details>
-
 8. Continue playing with the new character, or return to an existing save. If are returning to a existing save file, be sure to [reset your MCM Settings](#Resetting-MCM-Settings-and-Switching-Between-Difficulty-Presets) after you load back in to apply the changes you made to the difficulty preset.
 
 <br>
 
+⚠️ If you update ZISS you will lose any existing settings you may have saved. You must mark these files in an `empty mod` so Wabbajack skips over them durring an update.
+
 :floppy_disk: MCM recorder saves all of the steps of all recordings as `.json` files named after the mod they configure.
-> *You can find the files in your MO2 `Overwrite` folder under `McmRecorder` > `1 ZISS - Settings Loader`. If you want to backup these files, create an `empty mod` in MO2 and drag the `McmRecorder` folder from `Overwrite` to the `empty mod`. GamerPoets has a [great video](https://www.youtube.com/watch?v=Ksp_yPq637s) describing how. Do NOT rename the folder `1 ZISS - Settings Loader` within the `MCMRecorder` Folder. You can rename your `empty mod` whatever you'd like (e.g. "My Custom Preset"). Just be sure to load the mod you create LAST in your load order (the bottom).*
+> *You can find the files in your MO2 `Overwrite` folder under `McmRecorder` > `1 ZISS - Settings Loader`. If you want to backup these files, create an `empty mod` in MO2 and drag the `McmRecorder` folder from `Overwrite` to the `empty mod`. GamerPoets has a [great video](https://www.youtube.com/watch?v=Ksp_yPq637s) describing how. Do NOT rename the folder `1 ZISS - Settings Loader` within the `MCMRecorder` Folder. You can rename your `empty mod` whatever you'd like (e.g. "My Custom Preset") just include [NoDelete] at the start of the name (e.g. `[NoDelete]My Custom Preset`) so Wabbajack skips over the files. Be sure to load the mod you create LAST in your load order (the bottom).*
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_overwrite.jpg)
 
@@ -194,7 +171,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 
 <br>
 
-:warning: If you choose to deactivate any mod *NOT* listed below, do so at your own risk of corrupting your save files. Your issue/bug report(s) will be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) will be ignored.
 
 <br>
 
@@ -203,9 +180,9 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 1. Click the dropdown next to `Profile` in top section of MO2 where it says `"ZISS - Default"` and click `Manage`
 2. Select `"ZISS - Default"` and click `Copy`
 3. Enter any name you'd like and click `OK`
-<details><summary>Screenshot</summary>
 
-</details>
+:floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
+> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` after update.
 
 <br>
 
@@ -287,7 +264,6 @@ Change almost every key combat modifier right from the MCM.
 <br>
 
 :raised_hand: Before you change any settings, I suggest reading [Saving your settings (MCM Recorder)](#Saving-your-settings-with-MCM-Recorder). MCM Recorder will *NOT* take a snapshot of your current settings. It works by recording every button press or value you enter into the MCM.
-> *If you don't wish to save these settings across multiple saves you can ignore this disclaimer.*
 
 <br>
 <details><summary>Click Here to Show Settings</summary>
@@ -323,7 +299,6 @@ Don't like the balancing within the ZISS presets? Change it right from the MCM! 
 <br>
 
 :raised_hand: Before you change any settings, I suggest reading [Saving your settings (MCM Recorder)](#Saving-your-settings-with-MCM-Recorder). MCM Recorder will *NOT* take a snapshot of your current settings. It works by recording every button press or value you enter into the MCM.
-> *If you don't wish to save these settings across multiple saves you can ignore this disclaimer.*
 
 :warning: If you want to change the carry weight, do not touch the settings for [Cobb Encumbrance](https://www.nexusmods.com/skyrimspecialedition/mods/18362) in the MCM. Carry Weight is controlled by [Carry That Weight](https://www.nexusmods.com/skyrimspecialedition/mods/50144), change the settings in that mod instead.
 > *Cobb Encumbrance only allows running, sprinting and dodging while encumbered to function normally with the new character animations.*
@@ -398,10 +373,6 @@ Some Performance tweaks will effect existing saves. If you are unsure about ZISS
 
 2. Type `"coc whiterun"` and press enter
 
-<details><summary>Screenshot</summary>
-
-</details>
-
 This will spawn you in Whiterun with some gold and loot. Run around, talk to some people, go in and out of buildings... This area is one of the High-Density (script-heavy) areas within the game if you get good frames here you should be okay!
 > *During this test you may run into some unexpected bugs when interacting with NPCs or if you try to complete a quest. That is expected, this test will only tell you if the game is running well. If it runs "okay" try changing your MCM settings. If it runs "poorly" try disabling some mods.*
 
@@ -413,7 +384,6 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 <br>
 	
 :raised_hand: Before you change any settings, I suggest reading [Saving your settings (MCM Recorder)](#Saving-your-settings-with-MCM-Recorder). MCM Recorder will *NOT* take a snapshot of your current settings. It works by recording every button press or value you enter into the MCM.
-> *If you don't wish to save these settings across multiple saves you can ignore this disclaimer.*
 
 
 | Mod Name | Mod Author | Discription | Setting | Impact Level |
@@ -431,6 +401,8 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 
 > *Never disabled a mod before? It's really easy, click the uncheck the checkbox next to the mod and it's disabled! Just make sure to create a new profile in MO2. Checkout the [Optional Mods](#Optional-Mods) section to learn how.<br><br>Do ***NOT*** change the load order any of the mods.*
 
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) will be ignored.
+
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_increaseframes.jpg)
 
 </details>
@@ -442,6 +414,8 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 <details><summary>Click Here to Show Mods</summary>
 
 >*Do *NOT* pick and choose, just disable them all. Some of these mods have the capacity to break the game. This is more of a last resort.<br><br>Do ***NOT*** change the load order any of the mods.*
+
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) will be ignored.
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_parallaxgen.jpg)
 > *Also disable PGPatcher and PGPatcher output. They are not in this section but you can find them easily by using the search bar within MO2 at the bottom of the mod list.*
@@ -458,7 +432,7 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 
 <br>
 
-:warning: If you add any mods to ZISS that are not listed as compatible mods, and run into issues, your issue/bug reports will be ignored. Modify at your own risk!
+:warning: If you add any mods to ZISS, and run into issues, your issue/bug reports will be ignored. Modify at your own risk!
 
 :no_entry: Do not add any animation or texture / mesh mods that are incompatible with Nemesis or PGPatcher. If you do add any animations or texture / mesh mods, run Nemesis to load the animations and PGPatcher to load the meshes and textures (Parallax Gen).
 > *Here is a guide by SoftGaming on using [Nemesis](https://youtu.be/--W1jhyKHU0?t=146) and a guide by Darkfox127 on how to use [PGPatcher](https://youtu.be/-ZbQBQ05_Ss?t=556). Do not mess with the settings in Nemesis or PGPatcher unless you know what your doing. **THIS CAN BREAK THE GAME**.*
@@ -476,15 +450,16 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 2. Select `"ZISS - Default"` and click `Copy`
 3. Enter any name you'd like and click `OK`
 
-<details><summary>Screenshot</summary>
-
-</details>
+:floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
+> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` after update.
 
 <br>
 
 **Compatible Mods**
 
 <details><summary>Click Here to Show Mods</summary>
+
+Coming soon
 
 </details>
 
