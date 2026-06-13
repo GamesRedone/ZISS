@@ -9,7 +9,9 @@
 
 <br>
 
+<a href="https://ko-fi.com/gamesredone">
 <img src="https://github.com/GamesRedone/ZISS/blob/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
+<a>
 
 <br>
 
@@ -237,19 +239,27 @@ The larger of the two bars below the icons indicates Cold Exposure, the smaller 
 
 :thumbsup: You can now setup some custom keybinds on the controller!
 
-ZISS has been configured with controller users in mind. Keyboard and mouse users will not notice much of a difference to the [controls](https://static.wikia.nocookie.net/elderscrolls/images/f/f1/Kbd-elder-scrolls-v-the-skyrim.svg/revision/latest/scale-to-width-down/1000?cb=20180421181218).
+ZISS has been configured controller users in mind. Keyboard and mouse users will not notice much of a difference to the [controls](https://elderscrolls.fandom.com/wiki/Controls_(Skyrim)?file=Kbd-elder-scrolls-v-the-skyrim.svg).
 <br><br><br>
-**New Additional Keyboard keybinds (Do *NOT* change):**
+**New Additional Keyboard keybinds :**
 
-- `=/+` = Change shoulder Camera View
-- `Shift` + `E` = [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) *(Allows you to pet animals among many other things)*
-- `H` = Calls horse *(No matter what horse you have it will run to you)*
+- `Double Press` `ALT` = Dodge
+- `Press` `Middle Mouse Wheel` = Lock on
+  > You may want to change `MCM`>`True Directional Movement`>`Target Lock`>`Target Switch Mouse Sensitivity`
+
+- `=/+` (Do *NOT* change) = Change shoulder Camera View
+- `Shift` + `E` (Do *NOT* change) = [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) *(Allows you to pet animals among many other things)*
+- `H` (Do *NOT* change) = Calls horse *(No matter what horse you have it will run to you)*
 - `0/)` = Toggle helmet/hood on/off
 - `-/_` = Toggle Photo Mode (Checkout the [FAQs section](#where-are-the-screenshots-and-save-files) to see where these are saved)
 
 <br><br>
 <img src="https://github.com/GamesRedone/ZISS/blob/main/Images/controls_controller.jpg" loading="lazy">
 > *These controls can be found in game within the MCM under `"Complete Controller Setup"`*
+
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/howto_wheeler.gif">
+
+> *You can equipped both left and right hand with wheeler.<br>Hover over the item you wish to equipped and press `A` for right, `B` for left.<br>Items you favorite will automatically be added to the Wheeler and will be visably shown on your charachter.*
 
 <br>
 
@@ -260,6 +270,7 @@ Now a keyboard and mouse is mostly only required for text inputs, and with [Auto
 - `A` + `D-Pad: Right` = Change shoulder Camera View
 - `A` + `D-Pad: Up` = [Dynamic Activation Key](https://www.nexusmods.com/skyrimspecialedition/mods/96273) *(Allows you to pet animals among many other things)*
 - `Double Press` `D-Pad: Right` = Calls horse *(No matter what horse you have it will run to you)*
+- `Press` `Right Stick` = Cycle through selected item *(third person only)*
 
 :pencil2: Checkout the [Custom Controller Keybinds](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#custom-controller-keybinds) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how to set custom keybinds on the controller.
 
