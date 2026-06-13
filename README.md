@@ -3,6 +3,10 @@
 
 <h4 align="center"><h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | Read Me | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
+
 ---
 
 <br><br>This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><br><br><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
