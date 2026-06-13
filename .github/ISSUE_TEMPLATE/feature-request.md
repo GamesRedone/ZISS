@@ -9,22 +9,12 @@ assignees: GamesRedone
 
 <br>
 
-# **Is your Feature Request related to a issue/bug?**
+Is your Feature Request related to a issue/bug? (Y/N) :
 
-If so, please include your issue number.
+If so, Issue Number : Don't have an issue number? Please report the issue first before suggesting a fix.
 
-*Don't have an issue number?* Please report the issue first before suggesting a fix.
+Describe the solution you'd like: A clear and concise description of what you want fixed, or how you want it fixed.
 
-<br>
-
-**Describe the solution you'd like**
-
-A clear and concise description of what you want fixed, or how you want it fixed.
-
-<br>
-
-**Feature Request**
-
-If it is not a solution to an issue/bug, please describe the feature you want added to the game.
+Feature Request: If it is not a solution to an issue/bug, please describe the feature you want added to the game.
 
 <br><br>
