@@ -197,7 +197,8 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 **As of v1.0 ZISS is stable, but if your game does crash, a crash log will appear in a `.txt` file open on your screen.**
 
-> Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).
+> Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).<br>
+> Microsoft OneDrive users should pause OneDrive syncing or explicitly exclude your `My Games/Skyrim Special Edition` directory from OneDrive's backup scope. Otherwise the log may not appear.
 
 <br>
 
@@ -211,7 +212,7 @@ If your game will not launch or something else is really messed up...
 
 **...and you did *NOT* create a custom preset/profile...**
 
-I would recommend [resetting your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets) or reinstalling ZISS *(delete the specific folder where the modlist was installed)*.
+I would recommend you clear the `Overwrite` folder and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets), or reinstalling ZISS *(delete the specific folder where the modlist was installed)*.
 
 <br><br>
 
