@@ -196,7 +196,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 3. Enter any name you'd like and click `OK`
 
 :floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
-> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` after update.
+> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
 
 <br>
 
@@ -296,6 +296,10 @@ Change almost every key combat modifier right from the MCM.
 
 </details>
 
+<br>
+
+:warning: There are hundreds of settings you can tweak in the MCM, some of them may cause issues. Unless you know what you are doing, stick to only changing the settings mentioned in this guide.
+
 <br><br>
 
 # **Key Balancing Changes**
@@ -373,7 +377,7 @@ Don't like the balancing within the ZISS presets? Change it right from the MCM! 
 
 <br>
 
-📃 There are hundreds of settings you can tweak in the MCM, only the Key Balancing Changes and other main settings are covered here.
+:warning: There are hundreds of settings you can tweak in the MCM, some of them may cause issues. Unless you know what you are doing, stick to only changing the settings mentioned in this guide.
 
 :mag: You can find even more key settings to tweak in the [Key Combat Modifiers](#Key-Combat-Modifiers) section. Many mods can also be [fully disabled](#Optional-Mods).
 
@@ -465,7 +469,7 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 3. Enter any name you'd like and click `OK`
 
 :floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
-> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` after update.
+> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
 
 <br>
 
