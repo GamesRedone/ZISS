@@ -74,6 +74,7 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 
 | Requirement | Minimum | Recommended |
 | :--- | :--- | :--- |
+| **OS** | 64-bit Windows 10 or Windows 11 (latest version)| |
 | **Processor** | [Intel Core i7-11800H](https://www.cpubenchmark.net/cpu.php?id=4358&cpu=Intel+Core+i7-11800H+%40+2.30GHz) / [AMD Ryzen 7 5800h](https://www.cpubenchmark.net/cpu.php?id=3907&cpu=AMD+Ryzen+7+5800H) | - |
 | **Graphics** | [NVIDIA GeForce RTX 3050 Ti Laptop](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+Ti+Laptop+GPU&id=4393) / [Radeon RX 7900M](https://www.notebookcheck.net/AMD-Radeon-RX-7900M-GPU-Benchmarks-and-Specs.760883.0.html) | - |
 | **Memory** | 16 GB RAM | 24 GB RAM |
@@ -113,16 +114,29 @@ Follow these five steps to ensure you have the correct required game files insta
 
 <br>2. **Use a fresh install**
 
->[All mods will be installed completely separate from your Steam installation of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31720), so a fresh install is required to ensure ZISS runs smoothly. This is especially true if you have ever modded Skyrim in the past and have used [ENB](http://enbdev.com/download.html) or [SKSE](https://skse.silverlock.org/) before.
+>[All mods will be installed completely separate from your Steam installation of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31720), so a fresh install is required to ensure ZISS runs smoothly. This is especially true if you have ever modded Skyrim in the past and have used [ENB](http://enbdev.com/download.html) or [SKSE](https://skse.silverlock.org/) before.<br><br>
+>To fully uninstall Skyrim, uninstall through Steam and delete the Skyrim Special Edition folder that Steam was using.<br>As well as the Skyrim Special Edition folder inside `\Documents\My Games`.<br><br>
+
+✋ You can install the game in any location ***EXCEPT*** Program files.
+> If you have multiple drives you can simply install it on to the secondary drive. If you do not have a secondary drive you can [follow this guide](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide#step-1-download-the-tool) to install it in a seperate location on your `C:\` drive.<br><br>Do ***NOT*** use an external hard drive.
 
 :no_entry: ***DO NOT* "Verify Integrity of Game Files" through Steam.**
-> *If you ever have, or are unsure if you ever have, you should remove all game files and reinstall the game.*
+> *If you ever have, or are unsure if you ever have, you should remove fully remove all game files (see step 2), and reinstall the game.*
 
 <br>3. **Launch the game and check that all Creation Club content has been downloaded**
+> The game should prompt you to download all Creation Club content included with Aniversary Edition. If for whatever reason you are missing some of the content, or you just want to make sure you have all the content, follow the 3 steps below.
 
     1. Launch the game and select `"Creations"` from the `Main Menu`.
     2. Access the `Options`, and select `"Download all owned Creation Club Creations"`.
     3. The Creation Club content you are missing will now download, this may take some time if you are missing a lot of the content.
+
+:no_entry: ***DO NOT* tab out during the download**
+> *Some files may be skipped, or the download may get stuck. If it gets stuck, close the window and follow the 3 steps above.*
+
+🔍 **Check your `Skryrim Special Edition\Data` folder to ensure you have the correct version of these files :**<br><br>
+**`ccBGSSSE037-curios.esl` and `ccBGSSSE037-curios.bsa`**
+> The version you need must be spelled with a ***LOWER CASE*** `c` (e.g. `ccBGSSSE037-curios.esl` ***NOT*** `ccBGSSSE037-Curios.esl`)<br>
+> If you have the wrong version, delete these two files, `"Creations"` from the `Main Menu`, search for `Rare Curios` and download.
 
 <br>4. **Stop Steam from automatically updating**
 
