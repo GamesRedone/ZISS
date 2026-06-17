@@ -197,8 +197,9 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 **As of v1.0 ZISS is stable, but if your game does crash, a crash log will appear in a `.txt` file open on your screen.**
 
-> Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).<br>
-> Microsoft OneDrive users should pause OneDrive syncing or explicitly exclude your `My Games/Skyrim Special Edition` directory from OneDrive's backup scope. Otherwise the log may not appear.
+> Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).<br><br>
+> Microsoft OneDrive users should pause OneDrive syncing or explicitly exclude your `My Games/Skyrim Special Edition` directory from OneDrive's backup scope. Otherwise the log may not appear.<br><br>
+> You can find the logs in `C:\Users\[YOUR USERNAME]\Documents\My Games\Skyrim Special Edition\SKSE`, search the folder with the term "crash"
 
 <br>
 
@@ -239,6 +240,7 @@ I would recommend you clear the `Overwrite` folder and [reset your MCM settings]
 <br>
 
 Special thanks to the Wabbajack Team
+
 
 DavidJCobb for Cobb Encumbrance
 
