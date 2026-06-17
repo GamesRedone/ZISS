@@ -136,7 +136,7 @@ Follow these five steps to ensure you have the correct required game files insta
 🔍 **Check your `Skryrim Special Edition\Data` folder to ensure you have the correct version of these files :**<br><br>
 **`ccBGSSSE037-curios.esl` and `ccBGSSSE037-curios.bsa`**
 > The version you need must be spelled with a ***LOWER CASE*** `c` (e.g. `ccBGSSSE037-curios.esl` ***NOT*** `ccBGSSSE037-Curios.esl`)<br>
-> If you have the wrong version, delete these two files, `"Creations"` from the `Main Menu`, search for `Rare Curios` and download.
+> If you have the wrong version, delete these two files, launch the game, select `"Creations"` from the `Main Menu`, search for `Rare Curios` and download.
 
 <br>4. **Stop Steam from automatically updating**
 
