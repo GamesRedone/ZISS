@@ -72,7 +72,7 @@ ZISS is here to enhance the Vanilla Skyrim experience, not change it.
 
 </div>
 
-**Rewarding, skill-based, souls like combat has been introduced to Skyrim. You'll find all the features your used to from other souls like games such as ;**
+**Rewarding, skill-based, soulslike combat has been introduced to Skyrim. You'll find all the features your used to from other souls like games such as ;**
 
 - Flinching
 - iFrames
@@ -175,15 +175,35 @@ Checkout the main changes ZISS makes to Skyrim in the [Starter Guide](https://gi
 
 ## **Common Issues & Bugs**
 
-As of ZISS v1.0 most known issues and bugs from closed testing have been resolved.
+As of ZISS v1.0.1 most known issues and bugs from closed testing have been resolved.
 
 That does not mean you won't run into bugs or other issues, it just is far less likely. Earlier versions of ZISS were only tested on 4 separate systems, so there will most likely be some issues you may run into that we may not have in closed testing.
 
-:incoming_envelope: Please [report any issue or bug you run into](#Reporting-Issues) so It can be corrected.
+<br>
+
+👍 If you do run into an issue or a bug, reloading your previous save typically corrects the issue temporarily.
+
+:incoming_envelope: Please [report any issue or bug you run into](#Reporting-Issues) so It can be permanently corrected.
 
 :no_entry: Do *NOT* use any console commands such as `"set gamehour to"` or `"coc"` in normal gameplay.
 
 > Reload to a previous save if you have. You will run into issues with NPC buildup and/or quests.
+
+<br>
+
+### **Known Issues**
+
+- **Vanilla Landscape Corrections.esp** has been disabled because it causes the game to crash, currently working on a fix.
+
+- **First Person Eating/Drinking animations** do not currently show up / sometimes clip with camera. This is due to the "fNearDistance" settings. Currently working on a fix so that the animations show up properly without causing [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting).
+
+- **Photo Mode** sometimes breaks idle animations (character stuck on certain idle animation) when you use the "Expressions" feature. This is a known issue of Photo Mode and I ***MIGHT*** work on a compatibility patch if requested. For now, you can correct the issue by simply reloading your previous save, or by advoiding the "Expressions" feature altogether.
+
+- **FrostSpellsNoSlow.esp** has been added in v1.0.1 due to vanilla frost / slow bug that is exacerbated by the animation mods included in ZISS. I will ***NOT*** be working on a fix unless requested. I always found the slow effect rather an annoying feature with the increased difficulty and the soulslike combat of ZISS, so I personally don't see the need to have this feature included.
+
+- **RaceMenu** has be disabled because it causes the players head to disappear at times when using the "Presets" feature. This is a known issue of RaceMenu and I will ***NOT*** be working on a fix, even if requested. If you would like to use RaceMenu, just do ***NOT*** use the "Presets" feature. Support will not be offered if you enable RaceMenu.
+
+- **R.A.S.S.** has been setup to prevent a bug that causes your charachter and NPCs to glow when it rains. Do not change the settings within the MCM.
 
 <br><br><br>
 
@@ -213,7 +233,8 @@ If your game will not launch or something else is really messed up...
 
 **...and you did *NOT* create a custom preset/profile...**
 
-I would recommend you clear the `Overwrite` folder and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets), or reinstalling ZISS *(delete the specific folder where the modlist was installed)*.
+I would recommend you clear the `Overwrite` folder and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets), or reinstall ZISS. 
+>Delete the specific folder where the modlist was installed to uninstall (e.g. `C:\ZISS`)
 
 <br><br>
 
@@ -241,6 +262,7 @@ I would recommend you clear the `Overwrite` folder and [reset your MCM settings]
 
 Special thanks to the Wabbajack Team
 
+<br>
 
 DavidJCobb for Cobb Encumbrance
 
