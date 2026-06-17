@@ -203,8 +203,6 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 - **RaceMenu** has be disabled because it causes the players head to disappear at times when using the "Presets" feature. This is a known issue of RaceMenu and I will ***NOT*** be working on a fix, even if requested. If you would like to use RaceMenu, just do ***NOT*** use the "Presets" feature. Support will not be offered if you enable RaceMenu.
 
-- **R.A.S.S.** has been setup to prevent a bug that causes your charachter and NPCs to glow when it rains. Do not change the settings within the MCM.
-
 <br><br><br>
 
 ## **Reporting Issues**
@@ -212,6 +210,15 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 <br>
 
 **Please report any bugs or issues you run into [here on GitHub](https://github.com/GamesRedone/ZISS/issues).**
+
+<br>
+
+Support is ***NOT*** provided in regards to :
+
+- Hardware, software, or basic computer problems
+- Bugs, crashes, and issues present in the Vanilla game
+- Gameplay guidance
+- Refusal to read provided instructions
 
 <br>
 
@@ -223,11 +230,7 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 <br>
 
-**If you changed you MCM settings/disabled any mods and did *NOT* create a custom difficulty preset and/or MO2 profile...**
-
-**I will *NOT* be able to help you.**
-
-<br>
+**If you changed you MCM settings/disabled any mods and did *NOT* create a custom difficulty preset and/or MO2 profile, I will *NOT* be able to help you.**
 
 If your game will not launch or something else is really messed up...
 
@@ -236,11 +239,9 @@ If your game will not launch or something else is really messed up...
 I would recommend you clear the `Overwrite` folder and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets), or reinstall ZISS. 
 >Delete the specific folder where the modlist was installed to uninstall (e.g. `C:\ZISS`)
 
-<br><br>
+<br>
 
 **You must upload a copy of your custom preset and/or profile for support.**
-
-<br>
 
 💾 MCM recorder saves all presets as `.json` files
 
