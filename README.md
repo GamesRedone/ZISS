@@ -199,7 +199,7 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 > Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).<br><br>
 > Microsoft OneDrive users should pause OneDrive syncing or explicitly exclude your `My Games/Skyrim Special Edition` directory from OneDrive's backup scope. Otherwise the log may not appear.<br><br>
-> You can find the logs in `C:\Users\[YOUR USERNAME]\Documents\My Games\Skyrim Special Edition\SKSE`, search the folder with the term "crash"
+> You can find the logs in...<br>`C:\Users\[YOUR USERNAME]\Documents\My Games\Skyrim Special Edition\SKSE`<br> Search this folder with the term "crash"
 
 <br>
 
