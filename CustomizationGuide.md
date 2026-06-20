@@ -123,7 +123,7 @@ you are changing from one save file to another and they are both use different d
 2. Launch the game, load your save, and reset MCM settings in Skyrim's console
 
         1. Press [~] while in game
-        2. Type: "nsetstage ski_configmanagerinstance 1"
+        2. Type: "setstage ski_configmanagerinstance 1"
         3. Press [enter]
 
 4. Go to MCM recorder within the MCM and run `"1 ZISS - Settings Loader"`
