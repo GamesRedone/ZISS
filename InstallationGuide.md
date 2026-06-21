@@ -48,6 +48,8 @@
 
   - [Freeing Up Storage Space (Post Installation)](#Freeing-Up-Storage-Space-Post-Installation)
 
+- [How to update](#how-to-update)
+
 <br>
 
 # **Introduction**
@@ -294,5 +296,45 @@ This is because of how they inject code, rewrite game memory, and modify core ga
 ## ***Freeing Up Storage Space Post Installation***
 
   You can delete the downloads folder once the list has successfully and installed to free back up ~20gb. (e.g. `ZISS/downloads`)
+
+  Just know that if you do this...
+  
+  When you update ZISS all mods, not just the changes from the last update, will have to be downloaded and installed again.
+
+<br><br>
+
+## ***How to update***
+
+If you have not used Wabbajack before, don't worry, unless you have deleted your to downloads folder, you will not need to download and install all the mods again. Only the changes download, and your save will be good.
+
+⚠️ **Be sure to backup any customizations you have made within the MCM or MO2.**
+
+
+<details><summary>Show Guide</summary><br>
+
+If you did not change many settings, it may be easier to just configure them again once the update completes. I know this is a pretty early hotfix so I apologize to those who just configured your settings and were ***NOT*** looking to [save them/use them across multiple saves](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder).
+
+1. [Backup your MCM Recording in an `empty mod`](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder)
+> If you already have modified a Difficulty Preset's existing settings
+
+2. Backup your Overwrite folder in an `empty mod` and active the newly created mod
+> Right click the `Overwrite` folder > create `empty mod` > name it `[NoDelete]Overwrite`
+
+3. Backup your MO2 profile (If you disabled any optional mods)
+> MO2 profiles are located in your profiles folder (i.g. `ZISS\profiles\My Custom Profile\`).<br><br>Backup the entire folder.<br><br>Drag the folder back into the profiles folder after update ***BEFORE*** launching MO2
+
+</details>
+
+<br>
+
+1. [Download ZISS v1.0.2 (Main File)](https://www.nexusmods.com/skyrimspecialedition/mods/181971) and place the `.wabbajack` file in Wabbajack folder (e.g. `C"\Wabbajack"`)
+
+2. Open the ZISS Wabbajack file and click `Install`. You will get a warning `Confirm File Deletion` click `Continue`
+
+3. Launch the game, load your save and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets)
+> Be sure to activate the new mod...<br>
+> `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` <br>
+> Deactivate after. This prevents errors when loading settings.
+
   
 <br><br><br><br><br><br><br><br>
