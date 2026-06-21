@@ -118,7 +118,8 @@ you are changing from one save file to another and they are both use different d
 **You must reset your MCM settings**
 
 1. Before you launch the game you must [disable the preset your currently using and enable the preset you want to use in MO2](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#selecting-a-preset).
-	> If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.
+	> If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br>
+ 	> As of v1.0.2 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.	
 
 2. Launch the game, load your save, and reset MCM settings in Skyrim's console
 
