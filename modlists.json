@@ -23,7 +23,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/GamesRedone/ZISS/blob/main/Images/ziss_thumbnail_wj.webp",
+      "image": "https://raw.githubusercontent.com/GamesRedone/ZISS/refs/heads/main/Images/ziss_thumbnail_wj.webp",
       "readme": "https://github.com/GamesRedone/ZISS/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/ZISS%20(Zora's%20Immersive%20Survival%20Souls).wabbajack_e19e7f34-c4f3-46b8-a4b7-5a3d5c47e06d",
       "machineURL": "ZISS",
@@ -38,7 +38,7 @@
       "NumberOfInstalledFiles": 68873,
       "SizeOfInstalledFiles": 29612438621
     },
-    "version": "1.0.1"
+    "version": "1.0.2"
   }
 ]
 
