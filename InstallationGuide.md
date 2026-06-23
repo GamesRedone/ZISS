@@ -327,7 +327,7 @@ If you did not change many settings, it may be easier to just configure them aga
 
 <br>
 
-1. [Download ZISS v1.0.2 (Main File)](https://www.nexusmods.com/skyrimspecialedition/mods/181971) and place the `.wabbajack` file in Wabbajack folder (e.g. `C"\Wabbajack"`)
+1. [Download ZISS v1.0.4 (Main File)](https://www.nexusmods.com/skyrimspecialedition/mods/181971) and place the `.wabbajack` file in Wabbajack folder (e.g. `C"\Wabbajack"`)
 
 2. Open the ZISS Wabbajack file and click `Install`. You will get a warning `Confirm File Deletion` click `Continue`
 
