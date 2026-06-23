@@ -118,10 +118,10 @@ you are changing from one save file to another and they are both use different d
 **You must reset your MCM settings**
 
 1. Before you launch the game you must [disable the preset your currently using and enable the preset you want to use in MO2](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#selecting-a-preset).
-	> If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br>
- 	> As of v1.0.2 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.	
+	> If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br><br>
+ 	> As of v1.0.4 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.	
 
-2. Launch the game, load your save, and reset MCM settings in Skyrim's console
+2. Launch the game, load your save, and reset MCM settings in Skyrim's console. If you get a 
 
         1. Press [~] while in game
         2. Type: "setstage ski_configmanagerinstance 1"
@@ -130,6 +130,9 @@ you are changing from one save file to another and they are both use different d
 4. Go to MCM recorder within the MCM and run `"1 ZISS - Settings Loader"`
 
 	> *Ensure you are in a safe spot, it may take a few minutes, if interrupted you must start from `Step 1`. Wait for the settings to load.*
+
+⚠️ When switching between presets you may also get a false positive save corrupted message, don't worry your save should be fine.
+> (e.g.) Says your save is corrupt but there really is no issue.
 
 <br><br>
 
