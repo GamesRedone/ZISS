@@ -65,7 +65,7 @@ Often there are many different mods that do the same / similar thing. The ones i
 <br><br>
 
 :floppy_disk: It's always a good idea to backup your save files first, just in case your save files get corrupted.
-> MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (i.g. `ZISS\profiles\ZISS - Default\saves`)<br><br>
+> MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (e.g. `ZISS\profiles\ZISS - Default\saves`)<br><br>
 > If you are not using Profile Specific Saves with your MO2 Profile, your files are found in<br>`Documents\My Games\Skyrim Special Edition\Saves`
 
 :no_entry_sign: Do *NOT* `Right Click` > `Reinstall` or change the load order any of the mods in MO2. Always be sure to have `ZISS - Settings loader` active in MO2.
@@ -133,8 +133,8 @@ you are changing from one save file to another and they are both use different d
 
 	> *Ensure you are in a safe spot, it may take a few minutes, if interrupted you must start from `Step 1`. Wait for the settings to load.*
 
-⚠️ When switching between presets you may also get a false positive save corrupted message, don't worry your save should be fine.
-> (e.g.) Says your save is corrupt but there really is no issue. Click here to learn more.
+⚠️ When switching between presets you may also get a [false positive save corrupted message](#help-i-corrupted-my-save), don't worry your save should be fine.
+> (e.g.) Says your save is corrupt but there really is no issue.
 
 <br><br>
 
@@ -191,7 +191,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 
 <br>
 
-:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) may be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of [corrupting existing save files](#help-i-corrupted-my-save). Your issue/bug report(s) may be ignored.
 
 <br>
 
@@ -202,7 +202,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 3. Enter any name you'd like and click `OK`
 
 :floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
-> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
+> MO2 profiles are located in your `profiles` folder (e.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
 
 <br>
 
@@ -222,7 +222,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 :mag: Checkout the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md) to learn more about what these mods do
 
 :floppy_disk: It's always a good idea to backup your save files first, just in case your save files get corrupted.
-> MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (i.g. `ZISS\profiles\ZISS - Default\saves`)<br><br>
+> MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (e.g. `ZISS\profiles\ZISS - Default\saves`)<br><br>
 > If you are not using Profile Specific Saves with your MO2 Profile, your files are found in<br>`Documents\My Games\Skyrim Special Edition\Saves`
 
 | Mod Name | Category |  New Save Required? |
@@ -425,7 +425,7 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 
 > *Never disabled a mod before? It's really easy, click the uncheck the checkbox next to the mod and it's disabled! Just make sure to create a new profile in MO2. Checkout the [Optional Mods](#Optional-Mods) section to learn how.<br><br>Do ***NOT*** change the load order any of the mods.*
 
-:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) may be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of [corrupting existing save files](#help-i-corrupted-my-save). Your issue/bug report(s) may be ignored.
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_increaseframes.jpg)
 
@@ -439,7 +439,7 @@ This will spawn you in Whiterun with some gold and loot. Run around, talk to som
 
 >*Do *NOT* pick and choose, just disable them all. Some of these mods have the capacity to break the game. This is more of a last resort.<br><br>Do ***NOT*** change the load order any of the mods.*
 
-:warning: If you choose to deactivate any mod listed below, do so at your own risk of corrupting existing save files. Your issue/bug report(s) may be ignored.
+:warning: If you choose to deactivate any mod listed below, do so at your own risk of [corrupting existing save files](#help-i-corrupted-my-save). Your issue/bug report(s) may be ignored.
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_parallaxgen.jpg)
 > *Also disable PGPatcher and PGPatcher output. They are not in this section but you can find them easily by using the search bar within MO2 at the bottom of the mod list.*
@@ -475,7 +475,7 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 3. Enter any name you'd like and click `OK`
 
 :floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
-> MO2 profiles are located in your `profiles` folder (i.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
+> MO2 profiles are located in your `profiles` folder (e.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
 
 <br>
 
@@ -491,7 +491,7 @@ Coming soon
 
 # **Help I corrupted my save**
 
-Most likely you have not corrupted your save.
+You most likely you have not corrupted your save.
 
 When switching between presets you may get a false positive save corrupted message (Says your save is corrupt but there really is no issue)
 > Don't worry your save should be fine. You can also [back up your save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) if you want to be safe.
