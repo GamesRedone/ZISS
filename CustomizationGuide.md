@@ -493,7 +493,7 @@ Coming soon
 
 You most likely you have not corrupted your save.
 
-**When switching between presets you may get a false positive save corrupted message**
+**When switching between presets you may get a false positive save corrupted message**<br>
 ***(Says your save is corrupt but there really is no issue)***
 > Don't worry your save should be fine. You can also [back up your save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) if you want to be safe.
 
