@@ -918,4 +918,6 @@ If you are not using Profile Specific Saves with your MO2 Profile, your files ar
 
 <br>
 
+❓ A full list of all FAQs can be found [in our Discord's FAQs channel](https://discord.com/invite/WejTdPFBbk).
+
 <br><br><br><br><br><br><br><br>
