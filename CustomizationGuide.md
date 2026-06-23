@@ -44,6 +44,8 @@
 
 - [Adding Mods](#Adding-Mods)
 
+- [Help I corrupted my save](help-i-corrupted-my-save)
+
 <br>
 
 # **Introduction**
@@ -132,7 +134,7 @@ you are changing from one save file to another and they are both use different d
 	> *Ensure you are in a safe spot, it may take a few minutes, if interrupted you must start from `Step 1`. Wait for the settings to load.*
 
 ⚠️ When switching between presets you may also get a false positive save corrupted message, don't worry your save should be fine.
-> (e.g.) Says your save is corrupt but there really is no issue.
+> (e.g.) Says your save is corrupt but there really is no issue. Click here to learn more.
 
 <br><br>
 
@@ -484,5 +486,19 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 Coming soon
 
 </details>
+
+<br><br>
+
+# **Help I corrupted my save**
+
+Most likely you have not corrupted your save.
+
+When switching between presets you may get a false positive save corrupted message (Says your save is corrupt but there really is no issue)
+> Don't worry your save should be fine. You can also [back up your save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) if you want to be safe.
+
+Just press enter on the error messages and load your save again. The error message may occur multiple times before the save loads.
+
+
+⚠️ If you disable/enable or add any mods to or from the mod list *(Other then the ZISS mods/presets)* you may actaully corrupt your save file. Always create a MO2 profile and [backup your save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) before doing so. The Optional Mods sections goes over [how to create a profile in MO2](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#optional-mods).
 
 <br><br><br><br><br><br><br><br>
