@@ -249,6 +249,9 @@ ZISS has been configured controller users in mind. Keyboard and mouse users will
 <br><br><br>
 **New Additional Keyboard keybinds :**
 
+- `Q` (Do *NOT* change)= Now opens the wheeler menu, replacing the favorites menu.
+  > Any items favorited will automatically be added to the wheeler. `Left Mouse Button` to equip right, `Right Mouse Button` to equip left.
+
 - `Double Press` `ALT` = Dodge
 - `Press` `Middle Mouse Wheel` = Lock on
   > You may want to change `MCM`>`True Directional Movement`>`Target Lock`>`Target Switch Mouse Sensitivity`
@@ -907,8 +910,8 @@ If you enter encounter zones whose minimum level is higher than the player's cur
 
 💾 When using the Default ZISS MO2 Profile, save files are profile specific. 
 
-These are located in your ZISS folder (i.g. `"C:\ZISS"`) 
-> *(i.g. `ZISS\profiles\ZISS - Default\saves`)*
+These are located in your ZISS folder (e.g. `"C:\ZISS"`) 
+> *(e.g. `ZISS\profiles\ZISS - Default\saves`)*
 
 If you are not using Profile Specific Saves with your MO2 Profile, your files are found in...
 > *`Documents\My Games\Skyrim Special Edition\Saves`*
