@@ -292,6 +292,11 @@ This is because of how they inject code, rewrite game memory, and modify core ga
 - **Not a `"whitelisted"` download**
 
     This happens sometimes when I update the list. Check the Nexus page to see if there are any updates.
+
+<br>
+
+❓ A full list of all FAQs can be found [in our Discord's FAQs channel](https://discord.com/invite/WejTdPFBbk).
+
 <br><br>
 ## ***Freeing Up Storage Space Post Installation***
 
