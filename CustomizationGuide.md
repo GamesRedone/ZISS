@@ -4,7 +4,7 @@
 <h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/tree/main">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | Customization Guide </h4>
 
 <p align="center">
-<a href="https://discord.com/invite/2VVv23JDds">
+<a href="https://discord.com/invite/WejTdPFBbk">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 </p>
