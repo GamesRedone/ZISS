@@ -44,7 +44,7 @@
 
 - [Adding Mods](#Adding-Mods)
 
-- [Help I corrupted my save](help-i-corrupted-my-save)
+- [Help I corrupted my save](#help-i-corrupted-my-save)
 
 <br>
 
