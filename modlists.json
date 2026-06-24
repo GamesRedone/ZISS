@@ -25,18 +25,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/GamesRedone/ZISS/refs/heads/main/Images/ziss_thumbnail_wj.webp",
       "readme": "https://github.com/GamesRedone/ZISS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ZISS%20(Zora's%20Immersive%20Survival%20Souls).wabbajack_e19e7f34-c4f3-46b8-a4b7-5a3d5c47e06d",
+      "download": "https://authored-files.wabbajack.org/ZISS%20(Zora's%20Immersive%20Survival%20Souls).wabbajack_d61056c8-084c-46b3-b43f-106d60e4df9c",
       "machineURL": "ZISS",
-      "discordURL": "https://discord.gg/2VVv23JDds"
+      "discordURL": "https://discord.com/invite/WejTdPFBbk"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "sqPRop1IzKE=",
-      "Size": 13125159,
+      "Hash": "1wIwHYVzZe8=",
+      "Size": 13125161,
       "NumberOfArchives": 570,
       "SizeOfArchives": 24588723088,
       "NumberOfInstalledFiles": 68888,
-      "SizeOfInstalledFiles": 29613237322
+      "SizeOfInstalledFiles": 29613237330
     },
     "version": "1.0.4"
   }
