@@ -230,6 +230,7 @@ Installation can be completed in as little as an hour or two depending on your i
     > *([Click Here](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#antivirus-exclusions) to learn how)*
 
 5. Download `Z.I.S.S. V1.0.4.zip` from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/181971), extract, and place the `.wabbajack` file into the Wabbajack folder you made in step 1 (e.g. `C:\Wabbajack`). Double click the `.wabbajack` file to start installation.
+    > *You can now go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead.<br>It will automatically begin the install for ZISS within Wabbajack.*
 
 8. Set your installation folder to the folder you made in step 3 *(e.g. "C:\ZISS")*<br>
     > *Your downloads folder should be set automatically If it isn’t, set it to `ZISS\downloads`*<br>
@@ -317,7 +318,7 @@ If you have not used Wabbajack before, don't worry, unless you have deleted your
 
 <details><summary>Show Guide</summary><br>
 
-If you did not change many settings, it may be easier to just configure them again once the update completes. I know this is a pretty early hotfix so I apologize to those who just configured your settings and were ***NOT*** looking to [save them/use them across multiple saves](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder).
+If you did not change many settings, it may be easier to just configure them again once the update completes.
 
 1. [Backup your MCM Recording in an `empty mod`](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder)
 > If you already have modified a Difficulty Preset's existing settings
