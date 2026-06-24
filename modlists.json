@@ -1,13 +1,13 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "ZISS (Zora's Immersive Survival Souls)",
+    "title": "ZISS (Zora\u0027s Immersive Survival Souls)",
     "description": "ZISS is a lightweight, highly configurable, collection of mods that transforms Skyrim AE into a modern survival RPG. With a focus on improving gameplay and visuals, and the option to turn off survival mode, this modlist does not turn Skyrim into another game. ZISS is here to enhance the Vanilla experience, not change it.",
     "author": "Games Redone",
     "maintainers": [
       "github/GamesRedone"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Combat Overhaul",
       "DLC Required",
@@ -16,29 +16,39 @@
       "Steam",
       "Survival",
       "Total Overhaul",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/GamesRedone/ZISS/refs/heads/main/Images/ziss_thumbnail_wj.webp",
       "readme": "https://github.com/GamesRedone/ZISS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ZISS%20(Zora's%20Immersive%20Survival%20Souls).wabbajack_d61056c8-084c-46b3-b43f-106d60e4df9c",
+      "download": "https://authored-files.wabbajack.org/ZISS%20(Zora\u0027s%20Immersive%20Survival%20Souls).wabbajack_d61056c8-084c-46b3-b43f-106d60e4df9c",
       "machineURL": "ZISS",
-      "discordURL": "https://discord.com/invite/WejTdPFBbk"
+      "discordURL": "https://discord.com/invite/WejTdPFBbk",
+      "websiteURL": "",
+      "nexusCollection": {
+        "collectionId": "466929",
+        "slug": "wdztqv",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "1wIwHYVzZe8=",
       "Size": 13125161,
       "NumberOfArchives": 570,
       "SizeOfArchives": 24588723088,
       "NumberOfInstalledFiles": 68888,
-      "SizeOfInstalledFiles": 29613237330
+      "SizeOfInstalledFiles": 29613237330,
+      "TotalSize": 54201960418
     },
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "0001-01-01T00:00:00",
+    "repositoryName": ""
   }
 ]
-
