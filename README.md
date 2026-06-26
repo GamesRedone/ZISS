@@ -175,7 +175,7 @@ Checkout the main changes ZISS makes to Skyrim in the [Starter Guide](https://gi
 
 ## **Common Issues & Bugs**
 
-As of ZISS v1.0.4 most known issues and bugs from closed testing have been resolved.
+As of ZISS v1.0.5 most known issues and bugs from closed testing have been resolved.
 
 That does not mean you won't run into bugs or other issues, it just is far less likely. Earlier versions of ZISS were only tested on 4 separate systems, so there will most likely be some issues you may run into that we may not have in closed testing.
 
