@@ -322,7 +322,7 @@ If you did not change many settings, it may be easier to just configure them aga
 1. [Backup your MCM Recording in an `empty mod`](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder)
 > If you already have modified a Difficulty Preset's existing settings
 
-2. Backup your Overwrite folder in an `empty mod` and active the newly created mod
+2. Backup your Overwrite folder in an `empty mod` and activate the newly created mod
 > Right click the `Overwrite` folder > create `empty mod` > name it `[NoDelete]Overwrite`
 
 3. Backup your MO2 profile (If you disabled any optional mods)
