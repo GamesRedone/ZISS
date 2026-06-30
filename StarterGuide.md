@@ -1,5 +1,5 @@
 # Z.I.S.S. | Starter Guide
-<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/logo_starterguide_v1.0.png" loading="lazy">
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/logo_starterguide_v1.0.6.png" loading="lazy">
 
 <h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/README.md">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | Starter Guide | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
