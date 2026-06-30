@@ -339,7 +339,7 @@ If you did not change many settings, it may be easier to just configure them aga
 
 2. Open the ZISS Wabbajack file and click `Install`. You will get a warning `Confirm File Deletion` click `Continue`
 
-3. Launch the game, load your save and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets)
+3. Launch the game, load your save and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets), save the game.
 > Be sure to activate the new mod...<br>
 > `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` <br>
 > Deactivate after. This prevents errors when loading settings.
