@@ -487,6 +487,9 @@ Coming soon
 
 </details>
 
+***If you added any mods, make sure to mark them as `[NoDelete]` for Wabbajack***
+> Rename the mod in MO2 to `[NoDelete]MOD NAME HERE`.<br>As long as [NoDelete] is in the beginning of the name, Wabbajack will not delete the mod durring an update.
+
 <br><br>
 
 # **Help I corrupted my save**
