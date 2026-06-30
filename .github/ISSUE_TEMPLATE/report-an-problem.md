@@ -15,7 +15,7 @@ Link to Custom Preset download (MCM Recorder) :
 
 Link to Custom MO2 Profile :
 
-Discribe in detail how you can reproduce the issue/bug:
+Describe in detail how you can reproduce the issue/bug :
 
 1. When I go to '...'
 2. When I interact with '....'
