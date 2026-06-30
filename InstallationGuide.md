@@ -230,7 +230,7 @@ Installation can be completed in as little as an hour or two depending on your i
     > *([Click Here](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#antivirus-exclusions) to learn how)*
 
 5. Download `Z.I.S.S. V1.0.6.zip` from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/181971), extract, and place the `.wabbajack` file into the Wabbajack folder you made in step 1 (e.g. `C:\Wabbajack`). Double click the `.wabbajack` file to start installation.
-    > *OR you can go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead (Be sure Revision 2 is selected). It will automatically begin the install for ZISS.*
+    > *OR you can go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead (Be sure Revision 3 is selected). It will automatically begin the install for ZISS.*
 
 8. Set your installation folder to the folder you made in step 3 *(e.g. "C:\ZISS")*<br>
     > *Your downloads folder should be set automatically If it isn’t, set it to `ZISS\downloads`*<br>
