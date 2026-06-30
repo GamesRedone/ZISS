@@ -263,7 +263,6 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 | **[QuickLoot IE - Favourites style](https://www.nexusmods.com/skyrimspecialedition/mods/51017)** | [LeSwagueMasque](https://www.nexusmods.com/skyrimspecialedition/users/2390394) | *(Disabled with default MO2 profile)* "Retexture of the Quick Loot menu to match SkyUI's menu colour scheme and layout." | YES |
 | **[Disarmless](https://www.nexusmods.com/skyrimspecialedition/mods/12631)** | [Anqayas](https://www.nexusmods.com/skyrimspecialedition/users/46531697) | "Removes Disarm shout from Draugrs only." | YES |
 | **[Slaughterfish are Extinct](https://www.nexusmods.com/skyrimspecialedition/mods/19987)** | [Ranzitho](https://www.nexusmods.com/skyrimspecialedition/users/3288013) | "Simply removes all slaughterfish from the game." | YES |
-| **[Spell Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/15558)** | [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094) | "Easily add, remove, and hide learned spells." *(Removes some abilities from some mods)* | YES |
 
 </details>
 
@@ -368,7 +367,7 @@ Don't like the balancing within the ZISS presets? Change it right from the MCM! 
 | Mod Name | Category | Setting(s) | Description |
 | :--- | :--- | :--- | :--- |
 | **[Save System Overhaul 2](https://www.nexusmods.com/skyrimspecialedition/mods/70179)** | MISC | `Time Between Saves (in seconds)` | Change how often the game saves. Only change the `Time Between Saves` setting. Do *NOT* change any other setting. |
-| **[Spell Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/15558)** | MISC | `Auto-Remove` | Remove spells from the auto-remove list to add the removed abilities back to the game. *(I removed some abilities from some mods)* |
+| **[AutoExec Console Commands](https://www.nexusmods.com/skyrimspecialedition/mods/157827)** | MISC | `Auto-Remove` | SETTINGS NOT AVAILABLE IN MCM *(Advanced Config)*. This mod runs console commands at the start of your session, or when loading a game. It is used to remove somes spells that are added from some mods included in ZISS. It also fixes [Issue #4](https://github.com/GamesRedone/ZISS/issues/4). If you would add back the spells removed, remove all of the lines that contain `removespell` within the `.txt` files contained in *(e.g.)* `C:\ZISS\mods\AutoExec`. |
 | **[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)** | Alternative Death System | `Nemeses` & `Defeat` | Change how the alternative death system functions, or turn it off altogether. Can be fully disabled from MCM. |
 | **[Skald's Mail](https://www.nexusmods.com/skyrimspecialedition/mods/31791)** | Mailboxes | `Base Shipping Time` | Change the costs related to mailboxes and how long it takes to send/recieve items. |
 | **[Dirt & Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886)** | Dirt/Blood | `Soap is Required for Baths` | Toggle on or off the requirement for soap when bathing. |
