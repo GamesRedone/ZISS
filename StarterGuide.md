@@ -607,7 +607,7 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 - **OPTIONS: Obsidian Weathers** *(Options for seasons may require patching, **NOT** recommended)*
 - **OPTIONS: Hunterborn**
 
->*If you would like to enable any of these abilities, you can do so by either [deactivating Spell Organizer](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods) in MO2 or by adding the spells back to your spellbook [in the MCM under Spell Organizer](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#key-balancing-changes).*
+>*If you would like to enable any of these abilities, you can add them back with [AutoExec](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#key-balancing-changes).*
 
 </details>
 
