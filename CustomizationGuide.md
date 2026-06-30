@@ -1,5 +1,5 @@
 # Z.I.S.S. | Customization Guide
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/logo_customizationguide_v1.0.6.png)
+![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/logo_customizationguide_v1.0.6.0.png)
 
 <h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/tree/main">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | Customization Guide </h4>
 
