@@ -664,7 +664,7 @@ You'll need to switch out the [Reshade](#reshade)/[KreatE](#kreate) presets if y
 
 <br>
 
-[Reshade](#reshade) has many different effects and is rather modular like CS. Only the reshade effects required for the "Amethyst - Reshade" preset have been installed. This means is if you want to install a different Reshade preset, you must be reinstall Reshade.
+[Reshade](#reshade) has many different effects and is rather modular like CS. Only the reshade effects required for the "Amethyst - Reshade" preset have been installed. This means is if you want to install a different Reshade preset, you must also reinstall Reshade.
 
 <br>
 
