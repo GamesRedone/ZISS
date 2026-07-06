@@ -34,6 +34,14 @@
 
 - [Savings your MCM settings (MCM Recorder)](#Saving-your-settings-with-MCM-Recorder)
 
+- [Community Shaders](#community-shaders)
+
+	- [Reshade](#reshade)
+
+	- [KreatE](#kreate)
+
+- [Visual Tweaker (CS/ENB)](#visual-tweaker)
+
 - [Optional Mods](#Optional-Mods)
 
 - [Key Combat Modifiers](#Key-Combat-Modifiers)
@@ -43,6 +51,14 @@
 - [Performance Tweaks](#Performance-Tweaks)
 
 - [Adding Mods](#Adding-Mods)
+
+- [Advanced Configuration](#advanced-configuration)
+
+	- [Main Menu Customizer](#main-menu-customizer)
+
+	- [How to change the weather mod](#how-to-change-the-weather-mod)
+
+	- [How to change the Reshade preset](#how-to-change-the-reshade-preset)
 
 - [Help I corrupted my save](#help-i-corrupted-my-save)
 
@@ -65,8 +81,8 @@ Often there are many different mods that do the same / similar thing. The ones i
 <br><br>
 
 :floppy_disk: It's always a good idea to backup your save files first, just in case your save files get corrupted.
-> MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (e.g. `ZISS\profiles\ZISS - Default\saves`)<br><br>
-> If you are not using Profile Specific Saves with your MO2 Profile, your files are found in<br>`Documents\My Games\Skyrim Special Edition\Saves`
+> *MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (e.g. `ZISS\profiles\ZISS - ENB\saves` or `ZISS\profiles\ZISS - Community Shaders\saves`)<br><br>*
+> *If you are not using Profile Specific Saves with your MO2 Profile, your files are found in<br>`Documents\My Games\Skyrim Special Edition\Saves`*
 
 :no_entry_sign: Do *NOT* `Right Click` > `Reinstall` or change the load order any of the mods in MO2. Always be sure to have `ZISS - Settings loader` active in MO2.
 > *This will save you a lot of headaches since many `.ini` files have been been modified to make everything work nicely together.*
@@ -74,7 +90,7 @@ Often there are many different mods that do the same / similar thing. The ones i
 :warning: Many mods store their configuration files tied to your save file and you must save your game for any changes to save.
 >*Do not forget to [reset your MCM settings](#Resetting-MCM-settings-and-Switching-Between-Difficulty-presets) when switching between difficulty presets. If you would like to save your settings so they can be used across multiple saves or with a new save, checkout the [Saving your settings (MCM Recorder)](#Saving-your-settings-with-MCM-Recorder) section. MCM Recorder will *NOT* take a snapshot of your current settings. It works by recording every button press or value you enter into the MCM.*
 
-<br>
+<br><br>
 
 # **Custom Controller Keybinds**
 
@@ -94,10 +110,10 @@ ZISS uses [Complete Controller Setup](https://www.nexusmods.com/skyrimspecialedi
 **How to customize the D-Pad *"combo"* buttons**
 
 1. Open the Mod Configuration Menu and go to `Gamepad++` > `Combo Key 1`
-	> Do *NOT* change any of the settings in the `Keys & Settings` / `Action Keys` tabs
+	> *Do *NOT* change any of the settings in the `Keys & Settings` / `Action Keys` tabs*
 
 2. Enter your keybinds
-	> Do *NOT* change `A` + `D-Pad: Right` (`Combo + Single Press`)
+	> *Do *NOT* change `A` + `D-Pad: Right` (`Combo + Single Press`)*
 
 3. Go to the presets tab and click `Save Preset`
 
@@ -120,8 +136,8 @@ you are changing from one save file to another and they are both use different d
 **You must reset your MCM settings**
 
 1. Before you launch the game you must [disable the preset your currently using and enable the preset you want to use in MO2](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#selecting-a-preset).
-	> If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br><br>
- 	> As of v1.0.4 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.	
+	> *If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br><br>*
+ 	> *As of v1.0.4 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.*	
 
 2. Launch the game, load your save, and reset MCM settings in Skyrim's console. If you get a 
 
@@ -134,7 +150,7 @@ you are changing from one save file to another and they are both use different d
 	> *Ensure you are in a safe spot, it may take a few minutes, if interrupted you must start from `Step 1`. Wait for the settings to load.*
 
 ⚠️ When switching between presets you may also get a [false positive save corrupted message](#help-i-corrupted-my-save), don't worry your save should be fine.
-> (e.g.) Says your save is corrupt but there really is no issue.
+> *(e.g.) Says your save is corrupt but there really is no issue.*
 
 <br><br>
 
@@ -149,24 +165,24 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 <br>
 
 :raised_hand: I recommend modifying an [existing Difficulty Preset's settings](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#preset-settings-comparison) if you want to create your own preset.
-> This will save you a lot of headaches since many `.ini` files have been been modified to make everything work nicely together.
+> *This will save you a lot of headaches since many `.ini` files have been been modified to make everything work nicely together.*
 
 <br>
 
 **How to modify a Difficulty Preset's existing settings**
 
 1. [Ensure the preset you wish to modify is active in Mod Organizer 2 before you launch the game.](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#selecting-a-preset)
-	> To modify the Default Preset only enable `ZISS - Settings Loader`.<br><br>
-	> I would create a ".txt" file noting what preset you used because it will need to be active when Resetting MCM Settings & Switching Between Difficulty Presets.
+	> *To modify the Default Preset only enable `ZISS - Settings Loader`.<br><br>*
+	> *I would create a ".txt" file noting what preset you used because it will need to be active when Resetting MCM Settings & Switching Between Difficulty Presets.*
 
 3. Launch the game, create a new character and wait for MCM recorder to finish running. Then save the game.
-	> This just ensures the settings get saved correctly, so don't worry, you can load them back up on your existing save when your done.
+	> *This just ensures the settings get saved correctly, so don't worry, you can load them back up on your existing save when your done.*
 
 4. Open the Mod Configuration Menu and go to `MCM Recorder` click on `1 ZISS - Settings Loader`. Click `Yes` on the pop up and close the MCM.
 
 5. Click `Add to recording`. You will get a pop up letting you know that the recording has restarted. You can now begin to make changes in the MCM.
-	>If you click on `Run` by mistake, load the save you created in `Step 2`. This happened to me at times when using a controller. Mouse and keyboard is recommend for this part.<br><br>
-	>Sometimes you will get a notification that MCM recorder cannot record a setting. This is because of how the mod author has set up their mod. In order to save the settings for these mods you will have to manually configure the mod's `.ini` file, if it has one. This is a little more advanced and files are located in various places depending on the mod, so I won't be covering how to do this in this guide.
+	>*If you click on `Run` by mistake, load the save you created in `Step 2`. This happened to me at times when using a controller. Mouse and keyboard is recommend for this part.<br><br>*
+	>*Sometimes you will get a notification that MCM recorder cannot record a setting. This is because of how the mod author has set up their mod. In order to save the settings for these mods you will have to manually configure the mod's `.ini` file, if it has one. This is a little more advanced and files are located in various places depending on the mod, so I won't be covering how to do this in this guide.*
 
 6. When you are done making the changes to your settings, return to `MCM Recorder` in the MCM and click `FINISH RECORDING`
 
@@ -180,6 +196,84 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 > *You can find the files in your MO2 `Overwrite` folder under `McmRecorder` > `1 ZISS - Settings Loader`. If you want to backup these files, create an `empty mod` in MO2 and drag the `McmRecorder` folder from `Overwrite` to the `empty mod`. GamerPoets has a [great video](https://www.youtube.com/watch?v=Ksp_yPq637s) describing how. Do NOT rename the folder `1 ZISS - Settings Loader` within the `MCMRecorder` Folder. You can rename your `empty mod` whatever you'd like (e.g. "My Custom Preset") just include [NoDelete] at the start of the name (e.g. `[NoDelete]My Custom Preset`) so Wabbajack skips over the files. Be sure to load the mod you create LAST in your load order (the bottom).*
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_overwrite.jpg)
+
+<br><br>
+
+# **Community Shaders**
+
+*[If you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+
+Not familiar with CS? [Click here!](https://www.youtube.com/watch?v=Mxq3Tv25-CA)
+
+<br>
+
+**As of ZISS v1.1.0 you can choose between ENB with [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796) preset and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) or...**
+
+**[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) with the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) Reshade/KreatE presets and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).**
+
+<br>
+
+👍 Switching between ENB and CS is simple. Just choose between the one of the two MO2 profiles.
+
+<details><summary>Show Guide</summary>
+
+![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_switchtocs.gif)
+
+</details>
+
+<br>
+
+⚠️ Save files are specific to ENB and CS, you will need to clear your overwrite folder and create a new save file after switching profiles.
+> *Backup your overwrite folder to prevent having to [reset your settings](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets) when switching between ENB and CS. You still will need to reset your settings when updating.<br><br>Don't worry about backing up your save files, those are specific to each profile.<br><br>To backup your overwrite folder right click the `Overwrite` folder > `create empty mod` > name it something like `[NoDelete]Overwrite ENB` and activate the newly created mod.*
+
+💾 When using CS you may want to also backup your shader cache seperately from your Overwrite folder. That way you don't have to wait for shaders to compile again.
+> *Create an `empty mod` name it something like `[NoDelete]ShaderCache` > Right click `Overwrite` > `Open in explorer` > Copy the entire folder named `ShaderCache` > Paste the folder into the `empty mod` you just created (e.g. `[NoDelete]ShaderCache`) and activate the newly created mod.*
+
+:question: Wait, what's [ENB](http://enbdev.com/)?
+> *It was main graphics mod ZISS was using prior to v1.1.0.*
+
+<br>
+
+Press the `END` key while in game to open the CS menu.
+
+<br><br>
+
+## ***Reshade***
+
+*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+
+What is [Reshade](https://reshade.me/) and why is it needed with CS?
+
+Community Shaders handles advanced 3D rendering (Global Illumination and Complex Light), ReShade on the other hand is used to apply post-processing color grading, and adjust contrast without the heavy performance cost of traditional ENBs.
+
+For most users what this means is, you can now have even more control over the appearance of the game.
+
+Press the `HOME` key while in game to open the Reshade menu.
+
+<br><br>
+
+## ***KreatE***
+
+*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+
+What is [Kreate](https://www.nexusmods.com/skyrimspecialedition/mods/83757) and why is it needed with CS and Reshade?
+
+Reshade and CS improve the overall appearance of game while Kreate improves the appearance of specific weather/time control features. Allowing you to change the appearance of weather conditions and even create patches for specific weather mods.
+
+For most users what this means is, you can now control how specific weather conditions appear.
+
+Press the `INS` key while in game to open the KreatE menu. 
+> *Do not open the menu when the game is compiling shaders or from the main menu.*
+
+<br><br>
+
+# **Visual Tweaker**
+
+[Visual Tweaker](https://www.nexusmods.com/skyrimspecialedition/mods/67070) by [LeucisticDinosaur](https://www.nexusmods.com/skyrimspecialedition/users/63547561) allows you to change the brightness, contrast, saturation, bloom, and sunlight effects displayed by the game at any time through the MCM.
+
+***This works with both [ENB](http://enbdev.com/) and [CS](https://www.nexusmods.com/skyrimspecialedition/mods/86502).*** 
+
+If you don't like the general appearance of the game, I would start here. The tweaks available in this mod make a huge difference and are far easier to change then messing with CS or ENB settings.
 
 <br><br>
 
@@ -197,12 +291,12 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 
 :raised_hand: Before you start deactivating any mods it is best to create a new profile in MO2 so you can revert back if anything goes wrong
 
-1. Click the dropdown next to `Profile` in top section of MO2 where it says `"ZISS - Default"` and click `Manage`
-2. Select `"ZISS - Default"` and click `Copy`
+1. Click the dropdown next to `Profile` in top section of MO2 where it says `"ZISS - ENB"` or `"ZISS - Community Shaders"` and click `Manage`
+2. Select `"ZISS - ENB"` or `"ZISS - Community Shaders"` and click `Copy`
 3. Enter any name you'd like and click `OK`
 
 :floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
-> MO2 profiles are located in your `profiles` folder (e.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
+> *MO2 profiles are located in your `profiles` folder (e.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.*
 
 <br>
 
@@ -217,13 +311,13 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 
 <details><summary>Click Here to Show Mods</summary>
 	
-> Many optional mods are not located in the `Optional` section on the mod list. This is due to load order restrictions. To locate and disable these mods, use the search bar within MO2 at the bottom of the mod list.<br><br>Do ***NOT*** change the load order any of the mods.
+> *Many optional mods are not located in the `Optional` section on the mod list. This is due to load order restrictions. To locate and disable these mods, use the search bar within MO2 at the bottom of the mod list.<br><br>Do ***NOT*** change the load order any of the mods.*
 
 :mag: Checkout the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md) to learn more about what these mods do
 
 :floppy_disk: It's always a good idea to backup your save files first, just in case your save files get corrupted.
-> MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (e.g. `ZISS\profiles\ZISS - Default\saves`)<br><br>
-> If you are not using Profile Specific Saves with your MO2 Profile, your files are found in<br>`Documents\My Games\Skyrim Special Edition\Saves`
+> *MO2 Profile Specific Save Files are found in your `ZISS\profiles` folder. (e.g. `ZISS\profiles\ZISS - ENB\saves` or `ZISS\profiles\ZISS - Community Shaders\saves`)<br><br>*
+> *If you are not using Profile Specific Saves with your MO2 Profile, your files are found in<br>`Documents\My Games\Skyrim Special Edition\Saves`*
 
 | Mod Name | Category |  New Save Required? |
 | :--- | :--- | :--- |
@@ -457,24 +551,27 @@ This guide does not go in depth about how to add mods to MO2 but GildyBoye has a
 
 :warning: If you add any mods to ZISS, and run into issues, your issue/bug reports may be ignored. Modify at your own risk!
 
-:no_entry: Do not add any animation or texture / mesh mods that are incompatible with Nemesis or PGPatcher. If you do add any animations or texture / mesh mods, run Nemesis to load the animations and PGPatcher to load the meshes and textures (Parallax Gen).
-> *Here is a guide by SoftGaming on using [Nemesis](https://youtu.be/--W1jhyKHU0?t=146) and a guide by Darkfox127 on how to use [PGPatcher](https://youtu.be/-ZbQBQ05_Ss?t=556). Do not mess with the settings in Nemesis or PGPatcher unless you know what your doing. **THIS CAN BREAK THE GAME**.*
-
-:no_entry: Do *NOT* `Right Click` > `Reinstall` or change the load order any of the mods in MO2.
-
-:heavy_check_mark: Always be sure to have `ZISS - Settings loader` active in MO2.
-> *This will save you a lot of headaches since many `.ini` files have been been modified to make everything work nicely together.*
-
 <br>
 
 :raised_hand: Before you start adding any mods it is best to create a new profile in MO2 so you can revert back if anything goes wrong.
 
-1. Click the dropdown next to `Profile` in top section of MO2 where it says `"ZISS - Default"` and click `Manage`
-2. Select `"ZISS - Default"` and click `Copy`
+1. Click the dropdown next to `Profile` in top section of MO2 where it says `"ZISS - ENB"`or `"ZISS - Community Shaders"` and click `Manage`
+2. Select `"ZISS - ENB"`or `"ZISS - Community Shaders"` and click `Copy`
 3. Enter any name you'd like and click `OK`
 
 :floppy_disk: If you update ZISS you will lose all MO2 profiles you have created. You must backup these files in a seperate folder from your ZISS installation.
-> MO2 profiles are located in your `profiles` folder (e.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.
+> *MO2 profiles are located in your `profiles` folder (e.g. `ZISS\profiles\My Custom Profile\`). Backup the entire folder. Drag the folder back into the `profiles` folder after update.<br><br>*
+> *Rename any mods you add in MO2 to `[NoDelete]MOD NAME HERE`. As long as [NoDelete] is in the beginning of the name, Wabbajack will not delete the mod durring an update.*
+
+<br>
+
+***General guidelines for adding mods***
+
+1. Do not add any animation or texture / mesh mods that are incompatible with Nemesis or PGPatcher. If you do add any animations or texture / mesh mods, run Nemesis to load the animations and PGPatcher to load the meshes and textures (Parallax Gen).
+> *Here is a guide by SoftGaming on using [Nemesis](https://youtu.be/--W1jhyKHU0?t=146) and a guide by Darkfox127 on how to use [PGPatcher](https://youtu.be/-ZbQBQ05_Ss?t=556). Do not mess with the settings in Nemesis or PGPatcher unless you know what your doing. **THIS CAN BREAK THE GAME**.*<br><br>Be sure to backup your `PGPatcher Output` and `Nemesis Output` by renaming them `[NoDelete]PGPatcher Output` and `[NoDelete]Nemesis Output` so your new outputs are not deleted when ZISS updates.
+2. Do *NOT* `Right Click` > `Reinstall` or change the load order any of the mods in MO2.
+3. Always be sure to have `ZISS - Settings loader` active in MO2.
+> *This will save you a lot of headaches since many `.ini` files have been been modified to make everything work nicely together.*
 
 <br>
 
@@ -486,8 +583,124 @@ Coming soon
 
 </details>
 
-***If you add any mods, make sure to mark them as `[NoDelete]` for Wabbajack so they are not deleted in an update***
-> Rename the mod in MO2 to `[NoDelete]MOD NAME HERE`.<br>As long as [NoDelete] is in the beginning of the name, Wabbajack will not delete the mod durring an update.
+<br><br>
+
+# **Advanced Configuration**
+
+A lot could go wrong here, only go this route if you want to build your own modlist.
+
+✋ **If anything does go wrong I would recommend reinstalling ZISS, so create backups!**
+> *Review the [How to update](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#how-to-update) section of the Installation Guide to learn more about backing up your customizations.*
+
+<br><br>
+
+## ***Main Menu Customizer***
+
+*[If you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+
+<br>
+
+In v1.1.0 you can now customize the main menu with the [Main Menu Customizer](https://www.nexusmods.com/skyrimspecialedition/mods/103278) mod by [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094).
+
+Edit what text/links/images appear on the main menu!
+> *Full guide coming soon, but there is some great info in the mod's [Nexus discription](https://www.nexusmods.com/skyrimspecialedition/mods/103278)!*
+
+<br>
+
+✋ To ensure your customizations are saved follow these 3 steps.
+
+1. Create a custom MO2 profile
+2. Install a fresh copy of [Main Menu Customizer](https://www.nexusmods.com/skyrimspecialedition/mods/103278) and name it `[NoDelete]Main Menu Customizer`
+4. Disable `RS - Main Menu Customizer (Menu for Update v1.1.0 Rough Season)` and activate `[NoDelete]Main Menu Customizer`
+
+Now your good to edit the `.ini` file `Supporters.txt` file etc. within Main Menu Customizer.
+
+<br>
+
+<br><br>
+
+## ***How to change the weather mod***
+
+*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+
+*This is more for advanced users looking to create their own modlists.*
+
+<br>
+
+I personally perfer the skyboxes of [Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125) plus the built in seasons feature, but [NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/139567) is a great alternative.
+
+You'll need to switch out the [Reshade](#reshade)/[KreatE](#kreate) presets if you want to use a different weather mod.
+
+<br>
+
+:warning: If you add/disable any mods, and run into issues, your issue/bug reports may be ignored. Modify at your own risk!
+> *A lot could go wrong here, only change the weather mod if you feel confident that you know what you are doing.*
+
+💾 Make sure to create a new profile in MO2 to backup your changes. Checkout the [Optional Mods](#optional-mods) section to learn how.
+> *Some of these changes can not be simply reverted by switching back to one of the ZISS MO2 profiles, so be warned. If something goes wrong you will need to uninstall and reinstall ZISS.*
+
+<br>
+
+**How to switch to NAT.CS III**
+
+1. Disable all `Obsidian Weathers` mods, as well as the `Amethyst - KreatE Preset`
+2. Install [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567) and its dependencies
+3. I would recommend installing the [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
+4. Change your Reshade preset *(read this first)*
+	> *Disable `Amethyst - Reshade` (Made for Obsidian Weathers), and install your Reshade preset of choice.*<br>
+	> *Make sure the preset you choose works well with NAT 3 and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).*
+5. Delete your shader cache, load into the game, and ensure that the Reshade/KreatE presets are active
+	> *Open the in game GUI for Reshade with the `HOME` key and the KreatE GUI with the `INS` key.*
+6. Backup your MO2 profile, overwrite folder, and mark the weather mods/Reshade/KreatE presets you add as `[NoDelete]` for Wabbajack so your changes are saved when ZISS updates.
+	> *Review the [How to update](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#how-to-update) section of the Installation Guide to learn more about backing up your customizations.*<br>
+
+<br><br>
+
+## ***How to change the Reshade preset***
+
+*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+
+*This is more for advanced users looking to create their own modlists.*
+
+<br>
+
+[Reshade](#reshade) has many different effects and is rather modular like CS. Only the reshade effects required for the "Amethyst - Reshade" preset have been installed. This means is if you want to install a different Reshade preset, you must be reinstall Reshade.
+
+<br>
+
+:warning: If you add/disable any mods, and run into issues, your issue/bug reports may be ignored. Modify at your own risk!
+> *A lot could go wrong here, only change the Reshade preset if you feel confident that you know what you are doing.*
+
+💾 Make sure to create a new profile in MO2 to backup your changes. Checkout the [Optional Mods](#optional-mods) section to learn how.
+> *Some of these changes can not be simply reverted by switching back to one of the ZISS MO2 profiles, so be warned. If something goes wrong you will need to uninstall and reinstall ZISS.*
+
+<br>
+
+Reshade normally in installed in the base game folder, but Wabbajack requires the base game folder
+to be completely clean of any modifications. ZISS uses [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) to do so.
+
+<br>
+
+***How to reinstall Reshade with Root Builder***
+
+1. Go to your Skyrim SE folder and copy `SkyrimSE.exe`
+	> *(e.g. `D:\SteamLibrary\steamapps\common\Skyrim Special Edition`)*
+2. Delete the contents of the "Root" folder within `Reshade (If you install a different Reshade preset read the 'README.txt' file within)` and paste "SkyrimSE.exe" within. 
+	> *(e.g. `C:\ZISS\mods\Reshade (If you install a different Reshade preset read the 'README.txt' file within)\Root`)*
+3. Go to [The Reshade website](https://reshade.me/) and download the version of Reshade you need.
+4. Place the Reshade `.exe` file you download anywhere ***EXCEPT*** any default Windows folders like `Desktop`, `Downloads` or `Program Files`
+5. Run the Reshade `.exe`, ***DO NOT*** select "SkyrimSE.exe" from the list. Navigate to the location you pasted `SkyrimSE.exe` in Step 3.
+	> *(e.g. "C:\ZISS\mods\Reshade (If you install a different Reshade preset read the 'README.txt' file within)\Root")*<br>
+	> *If you are not sure what effects you need, just download them all*
+6. Delete the 'SkyrimSE.exe' from the 'Root' folder.
+	> *(e.g. "C:\ZISS\mods\Reshade (If you install a different Reshade preset read the 'README.txt' file within)\Root")*
+7. Install your Reshade preset.
+	> *Disable `Amethyst - Reshade` (Made for Obsidian Weathers), and install your Reshade preset of choice.*<br>
+	> *Make sure the preset you choose works well with NAT 3 and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).*
+8. Delete your shader cache, load into the game, and ensure that the Reshade preset is active.
+	> *Open the in game GUI for Reshade with the `HOME` key.*
+9. Backup your MO2 profile, overwrite folder, and mark the Reshade mod and Reshade preset you added as `[NoDelete]` for Wabbajack so your changes are saved when ZISS updates.
+	> *Review the [How to update](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#how-to-update) section of the Installation Guide to learn more.*
 
 <br><br>
 
