@@ -646,7 +646,7 @@ You'll need to switch out the [Reshade](#reshade)/[KreatE](#kreate) presets if y
 1. Disable all `Obsidian Weathers` mods, as well as the `Amethyst - KreatE Preset`
 2. Install [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567) and its dependencies
 3. I would recommend installing the [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
-4. Change your Reshade preset *(read this first)*
+4. Change your Reshade preset *[(read this first)](#how-to-change-the-reshade-preset)*
 	> *Disable `Amethyst - Reshade` (Made for Obsidian Weathers), and install your Reshade preset of choice.*<br>
 	> *Make sure the preset you choose works well with NAT 3 and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).*
 5. Delete your shader cache, load into the game, and ensure that the Reshade/KreatE presets are active
