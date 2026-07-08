@@ -135,7 +135,7 @@ you are changing from one save file to another and they are both use different d
 
 **You must reset your MCM settings**
 
-1. Before you launch the game you must [disable the preset your currently using and enable the preset you want to use in MO2](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#selecting-a-preset).
+1. Before you launch the game you must [disable the preset your currently using and enable the preset you want to use in MO2](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#selecting-a-preset).
 	> *If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br><br>*
  	> *As of v1.0.4 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.*	
 
@@ -164,14 +164,14 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 
 <br>
 
-:raised_hand: I recommend modifying an [existing Difficulty Preset's settings](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#preset-settings-comparison) if you want to create your own preset.
+:raised_hand: I recommend modifying an [existing Difficulty Preset's settings](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#preset-settings-comparison) if you want to create your own preset.
 > *This will save you a lot of headaches since many `.ini` files have been been modified to make everything work nicely together.*
 
 <br>
 
 **How to modify a Difficulty Preset's existing settings**
 
-1. [Ensure the preset you wish to modify is active in Mod Organizer 2 before you launch the game.](https://github.com/GamesRedone/ZISS/edit/main/StarterGuide.md#selecting-a-preset)
+1. [Ensure the preset you wish to modify is active in Mod Organizer 2 before you launch the game.](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#selecting-a-preset)
 	> *To modify the Default Preset only enable `ZISS - Settings Loader`.<br><br>*
 	> *I would create a ".txt" file noting what preset you used because it will need to be active when Resetting MCM Settings & Switching Between Difficulty Presets.*
 
@@ -224,7 +224,7 @@ Not familiar with CS? [Click here!](https://www.youtube.com/watch?v=Mxq3Tv25-CA)
 <br>
 
 ⚠️ Save files are specific to ENB and CS, you will need to clear your overwrite folder and create a new save file after switching profiles.
-> *Backup your overwrite folder to prevent having to [reset your settings](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets) when switching between ENB and CS. You still will need to reset your settings when updating.<br><br>Don't worry about backing up your save files, those are specific to each profile.<br><br>To backup your overwrite folder right click the `Overwrite` folder > `create empty mod` > name it something like `[NoDelete]Overwrite ENB` and activate the newly created mod.*
+> *Backup your overwrite folder to prevent having to [reset your settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets) when switching between ENB and CS. You still will need to reset your settings when updating.<br><br>Don't worry about backing up your save files, those are specific to each profile.<br><br>To backup your overwrite folder right click the `Overwrite` folder > `create empty mod` > name it something like `[NoDelete]Overwrite ENB` and activate the newly created mod.*
 
 💾 When using CS you may want to also backup your shader cache seperately from your Overwrite folder. That way you don't have to wait for shaders to compile again.
 > *Create an `empty mod` name it something like `[NoDelete]ShaderCache` > Right click `Overwrite` > `Open in explorer` > Copy the entire folder named `ShaderCache` > Paste the folder into the `empty mod` you just created (e.g. `[NoDelete]ShaderCache`) and activate the newly created mod.*
@@ -484,6 +484,8 @@ Don't like the balancing within the ZISS presets? Change it right from the MCM! 
 
 # **Performance Tweaks**
 
+Before tweaking anything, it is recommended to switch to [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) first. CS offers better performance and stability overall.
+
 Some Performance tweaks will effect existing saves. If you are unsure about ZISS running well on your system it is best to run a quick test before you play.
 
 1. From the game's main menu press the `"~"` key
@@ -715,7 +717,7 @@ You most likely you have not corrupted your save.
 Just press enter on the error messages and load your save again. The error message may occur multiple times before the save loads.
 
 
-⚠️ If you disable/enable or add any mods to or from the mod list *(Other then the ZISS mods/presets)* you may actaully corrupt your save file. Always create a MO2 profile and [backup your save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) before doing so. The Optional Mods section goes over [how to create a profile in MO2](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#optional-mods).
+⚠️ If you disable/enable or add any mods to or from the mod list *(Other then the ZISS mods/presets)* you may actaully corrupt your save file. Always create a MO2 profile and [backup your save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) before doing so. The Optional Mods section goes over [how to create a profile in MO2](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods).
 
 ❓ A full list of all FAQs can be found [in our Discord's FAQs channel](https://discord.com/invite/WejTdPFBbk).
 
