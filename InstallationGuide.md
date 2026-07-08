@@ -70,7 +70,7 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 :warning: ZISS was created to be performance friendly, but you should not expect high FPS *(>60 FPS)* at the minimum specs.
 <br>
 
->*When running at the minimum specs it is recommended to disable any in-game overlays you may use such as [Steam](https://www.wikihow.com/Disable-Steam-Overlay) or [NVIDIA](https://www.wikihow.com/Disable-Nvidia-Overlay) overlays. Also ensure to follow all the steps in the [Recommended Preparations](#Recommended-Preparations) section of the this guide for the best experience.*
+>*When running at the minimum specs it is recommended to disable any in-game overlays you may use such as [Steam](https://www.wikihow.com/Disable-Steam-Overlay) or [NVIDIA](https://www.wikihow.com/Disable-Nvidia-Overlay) overlays. Also ensure to follow all the steps in the [Recommended Preparations](#Recommended-Preparations) section of the this guide for the best experience. Switching to [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) will also provide better performance and stability overall.*
 
 <br>
 
@@ -80,13 +80,13 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 | **Processor** | [Intel Core i7-11800H](https://www.cpubenchmark.net/cpu.php?id=4358&cpu=Intel+Core+i7-11800H+%40+2.30GHz) / [AMD Ryzen 7 5800h](https://www.cpubenchmark.net/cpu.php?id=3907&cpu=AMD+Ryzen+7+5800H) | - |
 | **Graphics** | [NVIDIA GeForce RTX 3050 Ti Laptop](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+Ti+Laptop+GPU&id=4393) / [Radeon RX 7900M](https://www.notebookcheck.net/AMD-Radeon-RX-7900M-GPU-Benchmarks-and-Specs.760883.0.html) | - |
 | **Memory** | 16 GB RAM | 24 GB RAM |
-| **Storage (Pre-Install)** | ~100 GB SATA SSD | ~100 GB NVMe SSD |
-| **Storage (Post-Install)** | ~50 GB SATA SSD | ~50 GB NVMe SSD |
+| **Storage (Pre-Install)** | ~112 GB SATA SSD | ~112 GB NVMe SSD |
+| **Storage (Post-Install)** | ~62 GB SATA SSD | ~62 GB NVMe SSD |
 
 <br><br>
-ZISS itself is lightweight and only requires a total of ~50 GB durring installation, and roughly ~30gb post installation. 
+ZISS itself is lightweight and only requires a total of ~62 GB durring installation, and roughly ~36gb post installation. 
 
-> You can delete the downloads folder once the list has successfully and installed to free back up ~20gb. (e.g. `ZISS/downloads`)
+> You can delete the downloads folder once the list has successfully and installed to free back up ~26gb. (e.g. `ZISS/downloads`)
 
 Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation and the game files themselves are ~20 GB.
 
@@ -98,7 +98,7 @@ ZISS requires the [Steam version](https://store.steampowered.com/sub/626153/) of
 
 Follow these five steps to ensure you have the correct required game files installed on your system.
 <br><br><br>
-:warning: If mods are *NOT* downloading and you have already tried the [stuck download/missing archive fix](https://github.com/GamesRedone/ZISS/edit/main/InstallationGuide.md#having-problems-with-installation). OR you are unable to download `Skyrim_Default.ini`, you probably have the wrong game files installed on your system.
+:warning: If mods are *NOT* downloading and you have already tried the [stuck download/missing archive fix](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#having-problems-with-installation). OR you are unable to download `Skyrim_Default.ini`, you probably have the wrong game files installed on your system.
 
 <br><br><br>1. **Check what version of the game you own**
 
@@ -238,7 +238,28 @@ Installation can be completed in as little as an hour or two depending on your i
 9. Launch ZISS through MO2, create a new character, and let MCM recorder run
     > *If MCM recorder is interrupted for any reason, either start over by creating a new character, or [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets)*
 
-[Downloading stuck? Installation failed due to missing archives? Having some other issue?](https://github.com/GamesRedone/ZISS/edit/main/InstallationGuide.md#having-problems-with-installation)
+**The ENB profile will be selected by default.**
+
+<br>
+
+👍 Switching between ENB and CS is simple. Just choose between the one of the two MO2 profiles.
+
+<br>
+
+<details><summary>Show Guide</summary>
+
+![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_switchtocs.gif)
+
+</details>
+
+<br>
+
+:warning: Save files are specific to ENB and CS, you will need to create a new save file after switching profiles.
+> Checkout the [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how backup your overwrite folder and shader cache.
+
+<br>
+
+[Downloading stuck? Installation failed due to missing archives? Having some other issue?](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#having-problems-with-installation)
 
 <br><br>
 ## ***Antivirus Exclusions***
@@ -331,6 +352,8 @@ If you did not change many settings, it may be easier to just configure them aga
 4. If you added any mods, make sure to mark them as `[NoDelete]` for Wabbajack
 > Rename the mod in MO2 to `[NoDelete]MOD NAME HERE`.<br>As long as [NoDelete] is in the beginning of the name, Wabbajack will not delete the mod durring an update.
 
+5. *(Optional)* Wabbajack will not delete your save files, but checkout the [Where are the screenshots and save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) section of the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md) if you would like to back those up.
+
 </details>
 
 <br>
@@ -340,7 +363,7 @@ If you did not change many settings, it may be easier to just configure them aga
 2. Open the ZISS Wabbajack file and click `Install`. You will get a warning `Confirm File Deletion` click `Continue`
 
 3. Launch the game, load your save and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets), save the game.
-> Be sure to activate the new mod...<br>
+> Be sure to activate the mod...<br>
 > `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` <br>
 > Deactivate after. This prevents errors when loading settings.
 
