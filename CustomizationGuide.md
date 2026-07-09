@@ -240,7 +240,7 @@ Press the `END` key while in game to open the CS menu.
 
 ## ***Reshade***
 
-*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+*[[Only for CS](#community-shaders)]*
 
 What is [Reshade](https://reshade.me/) and why is it needed with CS?
 
@@ -254,7 +254,7 @@ Press the `HOME` key while in game to open the Reshade menu.
 
 ## ***KreatE***
 
-*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
+*[[Only for CS](#community-shaders)]*
 
 What is [Kreate](https://www.nexusmods.com/skyrimspecialedition/mods/83757) and why is it needed with CS and Reshade?
 
