@@ -161,6 +161,16 @@ The **[Progression](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.m
  
 <br><br><br><br>
 
+# Community Shaders is here!
+
+**As of ZISS v1.1.0, you can choose between ENB with [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796) preset and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) or...**
+
+**[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) with the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) Reshade/KreatE presets and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).**
+
+Checkout the [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn more.
+
+<br><br><br><br>
+
 ## **List Contents**
 
 The full list of mods can be found on [Load Order Library](https://loadorderlibrary.com/lists/z-i-s-s-v1-0).  
@@ -175,7 +185,7 @@ Checkout the main changes ZISS makes to Skyrim in the [Starter Guide](https://gi
 
 ## **Common Issues & Bugs**
 
-As of ZISS v1.0.6 most known issues and bugs from closed testing have been resolved.
+As of ZISS v1.1.0 most known issues and bugs from closed testing have been resolved.
 
 That does not mean you won't run into bugs or other issues, it just is far less likely. Earlier versions of ZISS were only tested on 4 separate systems, so there will most likely be some issues you may run into that we may not have in closed testing.
 
@@ -284,6 +294,10 @@ schlangster for SkyUI
 Fhaarkas for SkyHud
 
 GiraPomba for Helmet Toggle 2
+
+Edryu for Simple Degradation
+
+shazdeh2 for AutoExec
 
 mrowrpurr for MCM Recorder
 
