@@ -1,5 +1,5 @@
 # Z.I.S.S. | Starter Guide
-<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/logo_starterguide_v1.0.6.png" loading="lazy">
+<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/logo_starterguide_v1.1.0.png" loading="lazy">
 
 <h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/README.md">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | Starter Guide | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
@@ -271,6 +271,13 @@ ZISS has been configured controller users in mind. Keyboard and mouse users will
 - `H` (Do *NOT* change) = Calls horse *(No matter what horse you have it will run to you)*
 - `0/)` = Toggle helmet/hood on/off
 - `-/_` = Toggle Photo Mode (Checkout the [FAQs section](#where-are-the-screenshots-and-save-files) to see where these are saved)
+- `END` = Community Shaders GUI
+- `HOME` = Reshade GUI
+- `INS` = KreatE GUI
+
+<br>
+
+🔍 Checkout the [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn more about CS, Reshade and KreatE.
 
 <br><br>
 <img src="https://github.com/GamesRedone/ZISS/blob/main/Images/controls_controller.jpg" loading="lazy">
