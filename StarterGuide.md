@@ -98,13 +98,14 @@ Each preset has a (No Survival) version for all the enhancements ZISS brings, mi
 ✏️ If you don't like any of these settings below you can tweak most of them in game from the MCM. With a majority of these settings being able to be set to the Vanilla Values.
 > *Checkout the [Key Balancing Changes](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes), [Key Combat Modifiers](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-combat-modifiers), and [Optional Mods](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods) section of the [Customization-Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn what mods control these settings and how to change them.*
 
+⚔️ Rough Season has the same settings as the Hardcore Preset as listed below, but with some some new challenges.
+> *Checkout the [Rough Season](#rough-season) section for more info.*
+
 <br>
 
 **Combat Settings**
 
 <details><summary>Click Here to Show the Settings Comparison</summary>
-
-Rough Season has the same settings as the Hardcore Preset, but it adds some new challenges. Checkout the [Rough Season](#rough-season) section for more info.
 
 |  | **Default (Survival)** | **Vanilla+ (Survival)** | **Hardcore (Survival)** | **Default/Vanilla+/Hardcore (No Survival)** |
 | :--- | :--- | :--- | :--- | :--- |
