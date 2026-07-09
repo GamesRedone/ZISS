@@ -203,13 +203,11 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 
 # **Community Shaders**
 
-*[If you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
-
 Not familiar with CS? [Click here!](https://www.youtube.com/watch?v=Mxq3Tv25-CA)
 
 <br>
 
-**As of ZISS v1.1.0 you can choose between ENB with [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796) preset and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) or...**
+**Choose between ENB with [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796) preset and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) or...**
 
 **[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) with the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) Reshade/KreatE presets and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).**
 
@@ -600,11 +598,9 @@ A lot could go wrong here, only go this route if you want to build your own modl
 
 ## ***Main Menu Customizer***
 
-*[If you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
-
 <br>
 
-In v1.1.0 you can now customize the main menu with the [Main Menu Customizer](https://www.nexusmods.com/skyrimspecialedition/mods/103278) mod by [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094).
+You can customize the main menu with the [Main Menu Customizer](https://www.nexusmods.com/skyrimspecialedition/mods/103278) mod by [MaskedRPGFan](https://www.nexusmods.com/skyrimspecialedition/users/22822094).
 
 Edit what text/links/images appear on the main menu!
 > *Full guide coming soon, but there is some great info in the mod's [Nexus discription](https://www.nexusmods.com/skyrimspecialedition/mods/103278)!*
@@ -624,8 +620,6 @@ Now your good to edit the `.ini` file `Supporters.txt` file etc. within Main Men
 <br><br>
 
 ## ***How to change the weather mod***
-
-*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
 
 *This is more for advanced users looking to create their own modlists.*
 
@@ -661,8 +655,6 @@ You'll need to switch out the [Reshade](#reshade)/[KreatE](#kreate) presets if y
 <br><br>
 
 ## ***How to change the Reshade preset***
-
-*[[Only for CS](#community-shaders), if you are reading this, update 1.1.0 will be releasing on Wednesday at 4:00PM (CT) | 7/08/26]*
 
 *This is more for advanced users looking to create their own modlists.*
 
