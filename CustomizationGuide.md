@@ -44,9 +44,11 @@
 
 - [Optional Mods](#Optional-Mods)
 
-- [Key Combat Modifiers](#Key-Combat-Modifiers)
+- [Main Settings](#Main-Settings)
 
-- [Key Balancing Changes](#Key-Balancing-Changes)
+	- [Key Combat Modifiers](#Key-Combat-Modifiers)
+
+	- [Key Balancing Changes](#Key-Balancing-Changes)
 
 - [Performance Tweaks](#Performance-Tweaks)
 
@@ -362,7 +364,11 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 
 <br><br>
 
-# **Key Combat Modifiers**
+# **Main Settings**
+
+<br>
+
+## ***Key Combat Modifiers***
 
 Change almost every key combat modifier right from the MCM.
 
@@ -401,7 +407,7 @@ Change almost every key combat modifier right from the MCM.
 
 <br><br>
 
-# **Key Balancing Changes**
+## ***Key Balancing Changes***
 
 Don't like the balancing within the ZISS presets? Change it right from the MCM! These are the main mods that have been used to balance the game, as well as some other notable settings you might be looking for.
 
@@ -461,7 +467,6 @@ Don't like the balancing within the ZISS presets? Change it right from the MCM! 
 | Mod Name | Category | Setting(s) | Description |
 | :--- | :--- | :--- | :--- |
 | **[Save System Overhaul 2](https://www.nexusmods.com/skyrimspecialedition/mods/70179)** | MISC | `Time Between Saves (in seconds)` | Change how often the game saves. Only change the `Time Between Saves` setting. Do *NOT* change any other setting. |
-| **[AutoExec Console Commands](https://www.nexusmods.com/skyrimspecialedition/mods/157827)** | MISC | `Auto-Remove` | SETTINGS NOT AVAILABLE IN MCM *(Advanced Config)*. This mod runs console commands at the start of your session, or when loading a game. It is used to remove somes spells that are added from some mods included in ZISS. It also fixes [Issue #4](https://github.com/GamesRedone/ZISS/issues/4). If you would add back the spells removed, remove all of the lines that contain `removespell` within the `.txt` files contained in *(e.g.)* `C:\ZISS\mods\AutoExec`. |
 | **[Shadow of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/65136)** | Alternative Death System | `Nemeses` & `Defeat` | Change how the alternative death system functions, or turn it off altogether. Can be fully disabled from MCM. |
 | **[Skald's Mail](https://www.nexusmods.com/skyrimspecialedition/mods/31791)** | Mailboxes | `Base Shipping Time` | Change the costs related to mailboxes and how long it takes to send/recieve items. |
 | **[Dirt & Blood](https://www.nexusmods.com/skyrimspecialedition/mods/38886)** | Dirt/Blood | `Soap is Required for Baths` | Toggle on or off the requirement for soap when bathing. |
@@ -469,8 +474,12 @@ Don't like the balancing within the ZISS presets? Change it right from the MCM! 
 | **[Skyrim Reputation](https://www.nexusmods.com/skyrimspecialedition/mods/22374)** | Reputation System | `Output Options` & `Input Options` | Change how reputation is earned/lost and what happens as a result or turn off the reputation system altogether by toggling off all options. |
 | **[Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900)** | Hunting | `Enable Skrimshaw` | Many features of Hunterborn are not enabled in the ZISS presets. You can enable Skrimshaw, and tweak hunting. Can be fully disabled from MCM. |
 | **[Wait Carriage in Inns](https://www.nexusmods.com/skyrimspecialedition/mods/83044)** | Carriage/Ferry System | `Enabled Destinations` | Across all the difficulty presets, only the major cities are enabled. You can enable many other locations. |
-| **[Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015)** | Crafting/Enchanting for hire | `Allow crafting / enchanting` | Tweak who can craft/enchant and what they can craft/enchant. |
+| **[Wounds](https://www.nexusmods.com/skyrimspecialedition/mods/12125)** | Seasons | `Seasons FX` | Toggles on or off the seasons feature of Obsidian Weathers. |
+| **[Diseased Remastered](https://www.nexusmods.com/skyrimspecialedition/mods/40115)** | Diseases | `Infection Chance` | Change the chance of getting various types of infections. |
+| **[Simple Degradation](https://www.nexusmods.com/skyrimspecialedition/mods/74790)** | Gear Durability | `Rates` | Change the rate at which gear degrades or turn off degradation altoegther. |
+| **[Honed Metal](https://www.nexusmods.com/skyrimspecialedition/mods/61015)** | Crafting/Enchanting | `Allow crafting / enchanting` | Tweak who can craft/enchant and what they can craft/enchant. |
 | **[Fossil Mining](https://www.nexusmods.com/skyrimspecialedition/mods/14107)** | Fossils | `Drop Rate` | Change the drop rate of various kinds of fossils. |
+| **[Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/12125)** | Seasons | `Seasons FX` | Toggles on or off the seasons feature of Obsidian Weathers. |
 
 </details>
 
