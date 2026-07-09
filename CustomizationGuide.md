@@ -361,7 +361,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 | **[QuickLoot IE - Favourites style](https://www.nexusmods.com/skyrimspecialedition/mods/51017)** | [LeSwagueMasque](https://www.nexusmods.com/skyrimspecialedition/users/2390394) | *(Disabled with default MO2 profile)* "Retexture of the Quick Loot menu to match SkyUI's menu colour scheme and layout." | YES |
 | **[Disarmless](https://www.nexusmods.com/skyrimspecialedition/mods/12631)** | [Anqayas](https://www.nexusmods.com/skyrimspecialedition/users/46531697) | "Removes Disarm shout from Draugrs only." | YES |
 | **[Slaughterfish are Extinct](https://www.nexusmods.com/skyrimspecialedition/mods/19987)** | [Ranzitho](https://www.nexusmods.com/skyrimspecialedition/users/3288013) | "Simply removes all slaughterfish from the game." | YES |
-| **[AutoExec](https://www.nexusmods.com/skyrimspecialedition/mods/157827)** | [shazdeh2](https://www.nexusmods.com/skyrimspecialedition/users/43518332) | "Run console commands at the start of your session, or when loading a game." I would recommend looking into [changing these settings](autoExec-console-commands) rather than disabling. I use this mod to prevent a bug, if disabled [Issue #4](https://github.com/GamesRedone/ZISS/issues/4) may arise. | YES |
+| **[AutoExec](https://www.nexusmods.com/skyrimspecialedition/mods/157827)** | [shazdeh2](https://www.nexusmods.com/skyrimspecialedition/users/43518332) | "Run console commands at the start of your session, or when loading a game." I would recommend looking into [changing these settings](#autoExec-console-commands) rather than disabling. I use this mod to prevent a bug, if disabled [Issue #4](https://github.com/GamesRedone/ZISS/issues/4) may arise. | YES |
 
 </details>
 
