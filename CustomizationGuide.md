@@ -721,4 +721,33 @@ Just press enter on the error messages and load your save again. The error messa
 
 ❓ A full list of all FAQs can be found [in our Discord's FAQs channel](https://discord.com/invite/WejTdPFBbk).
 
+<br><br>
+
+# **How to enter the preset contest**
+
+Skyrim can be anything you want it to be... with mods.
+
+Rather then creating *MY* perfect version of Tamriel, I left the door open for you.
+
+No preset is the best and every playstyle is welcome!
+
+
+:mag:  **Checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section to learn how to create your own preset. **
+
+***MCM recorder makes it easy.***
+
+##  :envelope: You can Submit yours in the Monthly Preset Contest through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf9Y9X3xX7NtfLYjjDRwnCthQHpRYIGpofWKkpGwiD2M2JC1w/viewform?usp=header)
+
+Winners will have their preset featured in the next update!
+
+<br>
+
+:hand_splayed: **All submission must include a link to a Nexus mod page containing the files for the preset.**
+
+<br>
+
+The creator of MCM recorder has shared their work with [open permissions](https://www.nexusmods.com/skyrimspecialedition/mods/61719), not even requiring a by line. Meaning you can upload your preset without having to worry about asking for permission from the [mod author](https://www.nexusmods.com/skyrimspecialedition/users/121646123) of MCM recorder. Please give them some credit though!
+
+*The information provided on copywrite permissions is for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals and review the Nexus [File Submission Guidelines](https://help.nexusmods.com/article/28-file-submission-guidelines).*
+
 <br><br><br><br><br><br><br><br>
