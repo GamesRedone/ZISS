@@ -782,7 +782,7 @@ Winners will have their preset featured in the next update!
 ⛔ **Due to all the .ini files included in ZISS settings loader, only a modified difficulty preset created with MCM recorder will be accepted.**
 > *Review "How to modify a Difficulty Preset's existing settings" within the [Saving your settings with MCM Recorder](#saving-your-settings-with-mcm-recorder) section to learn more.*
 
-✋ **All submissions must include a link to a Nexus mod page containing the files for the preset**
+✋ **All submission must be uploaded to Nexus, this ensures the safety of our community.**
 
 <br><br>
 
