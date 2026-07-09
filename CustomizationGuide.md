@@ -198,7 +198,7 @@ MCM Recorder changes that. It allows you to easily record any changes you make i
 
 ⚠️ If you update ZISS you will lose any existing settings you may have saved. You must mark these files in an `empty mod` so Wabbajack skips over them durring an update.
 
-:floppy_disk: MCM recorder saves all of the steps of all recordings as `.json` files named after the mod they configure. *(This is what you need to upload to enter in the [preset contest](#how-to-enter-the-preset-contest)*
+:floppy_disk: MCM recorder saves all of the steps of all recordings as `.json` files named after the mod they configure.
 > *You can find the files in your MO2 `Overwrite` folder under `McmRecorder` > `1 ZISS - Settings Loader`. If you want to backup these files, create an `empty mod` in MO2 and drag the `McmRecorder` folder from `Overwrite` to the `empty mod`. GamerPoets has a [great video](https://www.youtube.com/watch?v=Ksp_yPq637s) describing how. Do NOT rename the folder `1 ZISS - Settings Loader` within the `MCMRecorder` Folder. You can rename your `empty mod` whatever you'd like (e.g. "My Custom Preset") just include [NoDelete] at the start of the name (e.g. `[NoDelete]My Custom Preset`) so Wabbajack skips over the files. Be sure to load the mod you create LAST in your load order (the bottom).*
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_overwrite.jpg)
