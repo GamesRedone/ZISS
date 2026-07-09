@@ -85,6 +85,7 @@ The Default Preset is automatically loaded if no preset is selected.
 - **The Default Preset** was created to add an extra challenge to the game while not making things overly difficult.
 - **The Vanilla+ Preset** leaves many modifiers at their default Vanilla values.
 - **The Hardcore Preset** offers a true challenge to those looking for one.
+- **[Rough Season](#rough-season)** brings it. If Hardcore is not enough for you, this preset might be.
 
 Each preset has a (No Survival) version for all the enhancements ZISS brings, minus the Survival.
 
@@ -102,6 +103,8 @@ Each preset has a (No Survival) version for all the enhancements ZISS brings, mi
 **Combat Settings**
 
 <details><summary>Click Here to Show the Settings Comparison</summary>
+
+Rough Season has the same settings as the Hardcore Preset, but it adds some new challenges. Checkout the [Rough Season](#rough-season) section for more info.
 
 |  | **Default (Survival)** | **Vanilla+ (Survival)** | **Hardcore (Survival)** | **Default/Vanilla+/Hardcore (No Survival)** |
 | :--- | :--- | :--- | :--- | :--- |
@@ -178,6 +181,12 @@ The selected difficulty preset can be changed at any time with *NO ISSUES* to ex
 :warning: The *Default (Survival) Difficulty Preset* is applied automatically with `ZISS - Settings Loader` if you do not select a Preset.
 
 :floppy_disk: If you end up changing any of your settings, be sure to [save your changes with MCM recorder](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder) so you don't have to go through setup again on another character.
+
+<br><br><br>
+
+## ***Rough Season***
+
+*If your seeing this, the update just launched.* A full guide for Rough Season will be here tomorrow (7/9/2026).
 
 <br><br><br>
 
@@ -579,7 +588,9 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 - **Instincts** |  Nearby harvestable resources, wood nodes, animals, people, and dead bodies to glow. 
 - **Primitive Cooking** | Use sticks and rocks to cook basic recipes
 - **Create Item** | Craft useful items from anywhere
+- **Weathersense** | Get a sense for the weather
 - **Citizens Control** | Access in game menu for immersive citizens
+- **MINPCs settings spell** | Access in game menu for MINPCs
 - **MINPCs Party Teleport Debug Spell** | Teleport MINPCs Party to you
 - **Remove Projectiles** | Removes fallen projectiles from the game *(Only use if the game is running very poorly)*
 
@@ -598,9 +609,7 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 - **Forage** *(Use the expanded instincts ability to forage instead)*
 - **Track** *(Use the expanded instincts ability to hunt instead)*
 - **Harvest Wood** *(Harvest wood directly from trees instead)*
-- **Weathersense**
 - **Sense Direction**
-- **MINPCs settings spell**
 - **OPTIONS: Obsidian Weathers** *(Options for seasons may require patching, **NOT** recommended)*
 - **OPTIONS: Hunterborn**
 
@@ -908,7 +917,7 @@ If you enter encounter zones whose minimum level is higher than the player's cur
 💾 When using the Default ZISS MO2 Profile, save files are profile specific. 
 
 These are located in your ZISS folder (e.g. `"C:\ZISS"`) 
-> *(e.g. `ZISS\profiles\ZISS - Default\saves`)*
+> *(e.g. `ZISS\profiles\ZISS - ENB\saves` or `ZISS\profiles\ZISS - Community Shaders\saves`)*
 
 If you are not using Profile Specific Saves with your MO2 Profile, your files are found in...
 > *`Documents\My Games\Skyrim Special Edition\Saves`*
