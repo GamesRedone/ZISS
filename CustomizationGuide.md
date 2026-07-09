@@ -1,7 +1,7 @@
 # Z.I.S.S. | Customization Guide
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/logo_customizationguide_v1.0.6.0.png)
 
-<h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/tree/main">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | Customization Guide </h4>
+<h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/README.md">Read Me</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | Customization Guide </h4>
 
 <p align="center">
 <a href="https://discord.com/invite/WejTdPFBbk">
@@ -56,6 +56,8 @@
 
 - [Advanced Configuration](#advanced-configuration)
 
+	- [AutoExec Console Commands](#AutoExec-Console-Commands)
+	
 	- [Main Menu Customizer](#main-menu-customizer)
 
 	- [How to change the weather mod](#how-to-change-the-weather-mod)
@@ -359,6 +361,7 @@ All mods that are *NOT* considered optional can either be [tweaked/turned off fr
 | **[QuickLoot IE - Favourites style](https://www.nexusmods.com/skyrimspecialedition/mods/51017)** | [LeSwagueMasque](https://www.nexusmods.com/skyrimspecialedition/users/2390394) | *(Disabled with default MO2 profile)* "Retexture of the Quick Loot menu to match SkyUI's menu colour scheme and layout." | YES |
 | **[Disarmless](https://www.nexusmods.com/skyrimspecialedition/mods/12631)** | [Anqayas](https://www.nexusmods.com/skyrimspecialedition/users/46531697) | "Removes Disarm shout from Draugrs only." | YES |
 | **[Slaughterfish are Extinct](https://www.nexusmods.com/skyrimspecialedition/mods/19987)** | [Ranzitho](https://www.nexusmods.com/skyrimspecialedition/users/3288013) | "Simply removes all slaughterfish from the game." | YES |
+| **[AutoExec](https://www.nexusmods.com/skyrimspecialedition/mods/157827)** | [shazdeh2](https://www.nexusmods.com/skyrimspecialedition/users/43518332) | "Run console commands at the start of your session, or when loading a game." I would recommend looking into [changing these settings](autoExec-console-commands) rather than disabling. I use this mod to prevent a bug, if disabled [Issue #4](https://github.com/GamesRedone/ZISS/issues/4) may arise. | YES |
 
 </details>
 
@@ -602,6 +605,34 @@ A lot could go wrong here, only go this route if you want to build your own modl
 
 ✋ **If anything does go wrong I would recommend reinstalling ZISS, so create backups!**
 > *Review the [How to update](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#how-to-update) section of the Installation Guide to learn more about backing up your customizations.*
+
+<br><br>
+
+## ***AutoExec Console Commands***
+
+Honestly amazed this mod does not have millions of downloads.
+
+👏 Thank you [shazdeh2](https://www.nexusmods.com/skyrimspecialedition/users/43518332) for [AutoExec](https://www.nexusmods.com/skyrimspecialedition/mods/157827). 
+
+This mod allows you to setup console commands that run automatically at the start of your session, or when loading a game.
+
+There are many ways to use this tool. I use it too ensure the movement speed is reset when loading a save, as well as to remove various unwanted spells/abbilities added by various mods.
+
+<br>
+
+***If you would like to add back some of the spells/abilities I removed, or create your own custom commands, you must overwrite the commands I wrote.***
+
+<br>
+
+1. Create an `empty mod` name is whatever you would like as long as `[NoDelete]` proceeds it. (e.g. `[NoDelete]My Custom Commands`)
+1. Right click the Autoxec mod in MO2
+2. Copy `autoxec_launch.txt`, `autoex_load.txt`, and `autoex_new_game.txt`
+3. Paste the files into the newly created `empty mod`
+4. Place your mod last in your load order *(the bottom)*. Ensure it overwrites `ZISS - Settings Loader` and `ZISS - Rough Season Preset` if you are using it.
+
+Now you are all set up, there are instructions inside the `.txt` files on how to use AutoExec.
+
+<br>
 
 <br><br>
 
