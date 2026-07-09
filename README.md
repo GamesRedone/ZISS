@@ -189,7 +189,7 @@ Checkout the main changes ZISS makes to Skyrim in the [Starter Guide](https://gi
 
 As of ZISS v1.1.0 most known issues and bugs from closed testing have been resolved.
 
-That does not mean you won't run into bugs or other issues, it just is far less likely. Earlier versions of ZISS were only tested on 4 separate systems, so there will most likely be some issues you may run into that we may not have in closed testing.
+That does not mean you won't run into bugs or other issues, it just is far less likely.
 
 <br>
 
@@ -207,15 +207,15 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 ### **Known Issues**
 
-- **Vanilla Landscape Corrections.esp** has been disabled because it causes the game to crash, currently working on a fix.
+- **[Vanilla Landscape Corrections.esp](https://www.nexusmods.com/skyrimspecialedition/mods/104962)** has been disabled because it causes crashes, currently working on a fix.
 
-- **First Person Eating/Drinking animations** do not currently show up / sometimes clip with camera. This is due to the "fNearDistance" settings. Currently working on a fix so that the animations show up properly without causing [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting).
+- **[First Person Eating/Drinking animations](https://www.nexusmods.com/skyrimspecialedition/mods/42602?tab=files)** do not currently show up / sometimes clip with camera. This is due to the "fNearDistance" settings. Currently working on a fix so that the animations show up properly without causing [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting).
 
-- **Photo Mode** sometimes breaks idle animations (character stuck on certain idle animation) when you use the "Expressions" feature. This is a known issue of Photo Mode and I ***MIGHT*** work on a compatibility patch if requested. For now, you can correct the issue by simply reloading your previous save, or by advoiding the "Expressions" feature altogether.
+- **[Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)** sometimes breaks idle animations (character stuck on certain idle animation) when you use the "Expressions" feature. This is a known issue of Photo Mode and I ***MIGHT*** work on a compatibility patch if requested. For now, you can correct the issue by simply reloading your previous save, or by advoiding the "Expressions" feature altogether.
 
-- **FrostSpellsNoSlow.esp** has been added in v1.0.1 due to vanilla frost / slow bug that is exacerbated by the animation mods included in ZISS. I will ***NOT*** be working on a fix unless requested. I always found the slow effect rather an annoying feature with the increased difficulty and the soulslike combat of ZISS, so I personally don't see the need to have this feature included.
+- **[FrostSpellsNoSlow.esp](https://www.nexusmods.com/skyrimspecialedition/mods/66786)** has been added in v1.0.1 due to vanilla frost / slow bug that is exacerbated by the animation mods included in ZISS. I will ***NOT*** be working on a fix unless requested. I always found the slow effect rather an annoying feature with the increased difficulty and the soulslike combat of ZISS, so I personally don't see the need to have this feature included.
 
-- **RaceMenu** has be disabled because it causes the players head to disappear at times when using the "Presets" feature. This is a known issue of RaceMenu and I will ***NOT*** be working on a fix, even if requested. If you would like to use RaceMenu, just do ***NOT*** use the "Presets" feature. Support will not be offered if you enable RaceMenu.
+- **[RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) mod** has be disabled because it causes the players head to disappear at times when using the "Presets" feature. This is a known issue of RaceMenu and I will ***NOT*** be working on a fix, even if requested. If you would like to use RaceMenu, just do ***NOT*** use the "Presets" feature. Support will not be offered if you enable RaceMenu.
 
 <br><br><br>
 
