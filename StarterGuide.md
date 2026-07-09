@@ -490,9 +490,6 @@ The following dungeons have been nearly doubled in size and are now much more in
 
 | Mod Name | Mod Author | Discription |
 | :--- | :--- | :--- |
-| **[ENB](http://enbdev.com/download_mod_tesskyrimse.html)** | [Boris Vorontsov](http://enbdev.com/contact_en.htm) | "Alters the game's render functions to drastically improve lighting, shadows, and add effects like Ambient Occlusion and Depth of Field.  |
-| **[Rudy ENB](https://www.nexusmods.com/skyrimspecialedition/mods/4796)** | [rudy102](https://www.nexusmods.com/skyrimspecialedition/users/93362) | "Semi realistic preset for popular weather and lighting mods."  |
-| **[Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158)** | [GGUNIT](https://www.nexusmods.com/skyrimspecialedition/users/1898189) | "Consistent and complete rework of Skyrim interiors lighting."  |
 | **[Embers XD](https://www.nexusmods.com/skyrimspecialedition/mods/37085)** | [mindflux](https://www.nexusmods.com/skyrimspecialedition/users/3211380) | "An overhaul of campfires and other fire sources."  |
 | **[Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)** | [mindflux](https://www.nexusmods.com/skyrimspecialedition/users/3211380) | "A water modification that takes full advantage of advanced features offered by ENBSeries and Community Shaders."  |
 | **[Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125)** | [DrJacopo](https://www.nexusmods.com/skyrimspecialedition/users/50222836) | "Sharp, ominous, and atmospheric weathers that accentuate proximal detail while obscuring distant landscapes with mysterious fogs."  |
@@ -607,7 +604,7 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 - **OPTIONS: Obsidian Weathers** *(Options for seasons may require patching, **NOT** recommended)*
 - **OPTIONS: Hunterborn**
 
->*If you would like to enable any of these abilities, you can add them back with [AutoExec](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#key-balancing-changes).*
+>*If you would like to enable any of these abilities, you can add them back with [AutoExec](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes).*
 
 </details>
 
@@ -884,7 +881,7 @@ The vanilla quicksave & autosave features do not properly halt active scripts be
 
 :warning: It is highly recommended you do *NOT* disable any of the mods that disable the quicksave feature. 
 
-:pencil2: You can configure how often your game saves in the MCM under [SafeSave System Overhaul](https://github.com/GamesRedone/ZISS/edit/main/CustomizationGuide.md#key-balancing-changes).
+:pencil2: You can configure how often your game saves in the MCM under [SafeSave System Overhaul](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes).
 
 >*I would not recommend decreasing the time between saves too much. Since all saves with SafeSave System Overhaul are hard-saves, you may expereince a slight stutter when the game saves. SafeSave System Overhaul tries to do this when you are not moving or are in a safe place, but if the time between saves is too short you may start to notice the stutter.*
 
