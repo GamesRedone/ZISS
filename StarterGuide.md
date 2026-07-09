@@ -614,7 +614,7 @@ Survival Skills allow you to build longer-lasting campfires, find more resources
 - **OPTIONS: Obsidian Weathers** *(Options for seasons may require patching, **NOT** recommended)*
 - **OPTIONS: Hunterborn**
 
-> *(Advanced Config) If you would like to enable any of these abilities, checkout the [AutoExec](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#autoexec) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md).*
+> *(Advanced Config) If you would like to enable any of these abilities, checkout the [AutoExec Console Commands](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#autoexec-console-commands) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md).*
 
 </details>
 
