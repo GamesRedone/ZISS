@@ -167,6 +167,8 @@ The **[Progression](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.m
 
 **[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) with the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) Reshade/KreatE presets and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).**
 
+<br>
+
 Checkout the [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn more.
 
 <br><br><br><br>
