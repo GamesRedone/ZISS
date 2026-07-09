@@ -731,18 +731,21 @@ Rather then creating *MY* perfect version of Tamriel, I left the door open for y
 
 No preset is the best and every playstyle is welcome!
 
+<br>
 
-:mag:  **Checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section to learn how to create your own preset. **
+:mag:  **Checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section to learn how to create your own preset.**
 
 ***MCM recorder makes it easy.***
 
-##  :envelope: You can Submit yours in the Monthly Preset Contest through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf9Y9X3xX7NtfLYjjDRwnCthQHpRYIGpofWKkpGwiD2M2JC1w/viewform?usp=header)
+<br>
+
+###  :envelope: You can Submit yours in the Monthly Preset Contest through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf9Y9X3xX7NtfLYjjDRwnCthQHpRYIGpofWKkpGwiD2M2JC1w/viewform?usp=header)
 
 Winners will have their preset featured in the next update!
 
 <br>
 
-:hand_splayed: **All submission must include a link to a Nexus mod page containing the files for the preset.**
+✋ **All submission must include a link to a Nexus mod page containing the files for the preset**
 
 <br>
 
