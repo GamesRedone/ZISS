@@ -62,6 +62,8 @@
 
 - [Help I corrupted my save](#help-i-corrupted-my-save)
 
+- [How to enter the preset contest](#how-to-enter-the-preset-contest)
+
 <br>
 
 # **Introduction**
@@ -751,6 +753,6 @@ Winners will have their preset featured in the next update!
 
 The creator of MCM recorder has shared their work with [open permissions](https://www.nexusmods.com/skyrimspecialedition/mods/61719), not even requiring a by line. Meaning you can upload your preset without having to worry about asking for permission from the [mod author](https://www.nexusmods.com/skyrimspecialedition/users/121646123) of MCM recorder. Please give them some credit though!
 
-*The information provided on copywrite permissions is for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you to consult with the appropriate professionals and review the Nexus [File Submission Guidelines](https://help.nexusmods.com/article/28-file-submission-guidelines).*
+*The information provided on copywrite permissions is for general informational and educational purposes only and is not a substitute for professional advice. Accordingly, before taking any actions based upon such information, we encourage you review the Nexus [File Submission Guidelines](https://help.nexusmods.com/article/28-file-submission-guidelines).*
 
 <br><br><br><br><br><br><br><br>
