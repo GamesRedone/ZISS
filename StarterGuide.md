@@ -187,7 +187,7 @@ The selected difficulty preset can be changed at any time with *NO ISSUES* to ex
 
 ## ***Rough Season***
 
-*If your seeing this, the update just launched.* A full guide for Rough Season will be here tomorrow (7/9/2026).
+*If your seeing this, the update just launched.* A full guide for Rough Season will be comming this week.
 
 <br><br><br>
 
