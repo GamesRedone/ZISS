@@ -217,7 +217,7 @@ Not familiar with CS? [Click here!](https://www.youtube.com/watch?v=Mxq3Tv25-CA)
 
 <br>
 
-You can also choose to [download ZISS without ENB](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=files) (CS Only).
+You can also choose to [download ZISS without ENB](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=files) (CS ONLY).
 
 <br>
 
