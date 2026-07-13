@@ -215,7 +215,10 @@ Not familiar with CS? [Click here!](https://www.youtube.com/watch?v=Mxq3Tv25-CA)
 
 **[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) with the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) Reshade/KreatE presets and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).**
 
-You can also choose to [download ZISS without ENB](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=files) altogether (CS Only).
+<br>
+
+You can also choose to [download ZISS without ENB](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=files) (CS Only).
+
 <br>
 
 👍 Switching between ENB and CS is simple. Just choose between the one of the two MO2 profiles.
