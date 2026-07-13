@@ -207,6 +207,9 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 ### **Known Issues**
 
+- ***If ENB is the only Missing Archive,*** this may mean that the ENB has had silent update. Meaning, the version of ENB has changed without changing the version number. Please send me a message letting me know on [Nexus](https://www.nexusmods.com/profile/GamesRedone), or reach out in the help channel of our [Discord](discord.com/invite/WejTdPFBbk) for even faster help. I will correct the issue.
+  > *You can also choose to [download ZISS without ENB (CS ONLY)](https://www.nexusmods.com/skyrimspecialedition/mods/181971), that way you don't have to deal with this problem at all.*
+
 - **[Vanilla Landscape Corrections.esp](https://www.nexusmods.com/skyrimspecialedition/mods/104962)** has been disabled because it causes crashes, currently working on a fix.
 
 - **[First Person Eating/Drinking animations](https://www.nexusmods.com/skyrimspecialedition/mods/42602?tab=files)** do not currently show up / sometimes clip with camera. This is due to the "fNearDistance" settings. Currently working on a fix so that the animations show up properly without causing [Z-fighting](https://en.wikipedia.org/wiki/Z-fighting).
