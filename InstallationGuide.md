@@ -299,8 +299,16 @@ This is because of how they inject code, rewrite game memory, and modify core ga
     If downloads are stuck DO NOT CLICK CANCEL, this will restart the entire installation. 
     > *Instead, close Wabbajack and open the ZISS `.wabbajack` file again. Don't worry it will pick up where you left off. Just click `Install` once it is running to continue.*
 
-    If installation failed due to missing archives...
-    > *You can click "Retry", typically this will fix this issue.<br><br>If the issue persists...<br><br>Click `Show Missing Archives` to view the download links to all of the missing files. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`), close Wabbajack, open the ZISS `.wabbajack` file, and click `Install` to continue.*
+- **If installation failed due to missing archives**
+
+    You can click "Retry", typically this will fix this issue. If the issue persists...
+    > Click `Show Missing Archives` to view the download links to all of the missing files. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`), close Wabbajack, open the ZISS `.wabbajack` file, and click `Install` to continue.*
+
+- **If ENB is the only Missing Archive**
+
+    > This may mean that the ENB has had silent update, changing the version of ENB without changing the version number. Please send me a message letting me know on [Nexus](https://www.nexusmods.com/profile/GamesRedone), or reach out in the Help channel of the [Discord](discord.com/invite/WejTdPFBbk) for even faster help. I will correct the issue.
+
+    You can also choose to download ZISS without ENB (CS ONLY), that way you don't have to deal with this problem at all.
 
 - **Mods are not downloading or unable to download `Skyrim_Default.ini`**
 
@@ -325,7 +333,7 @@ This is because of how they inject code, rewrite game memory, and modify core ga
 
   Just know that if you do this...
   
-  When you update ZISS all mods, not just the changes from the last update, will have to be downloaded and installed again.
+  When you update ZISS, all mods, not just the changes from the last update, will have to be downloaded and installed again.
 
 <br><br>
 
