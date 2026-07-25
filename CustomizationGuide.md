@@ -28,7 +28,9 @@
 
 - [Introduction](#Introduction)
 
-- [Custom Controller Keybinds](#Custom-Controller-Keybinds)
+- [Keybinds](#Keybinds)
+
+	- [Custom Controller Keybinds](#Custom-Controller-Keybinds)
 
 - [Resetting MCM settings & switching between difficulty presets](#Resetting-MCM-settings-and-switching-between-difficulty-presets)
 
@@ -98,7 +100,11 @@ Often there are many different mods that do the same / similar thing. The ones i
 
 <br><br>
 
-# **Custom Controller Keybinds**
+# **Keybinds**
+
+<br><br>
+
+## ***Custom Controller Keybinds***
 
 ZISS uses [Complete Controller Setup](https://www.nexusmods.com/skyrimspecialedition/mods/99978) by [ROYGBIVx420](https://www.nexusmods.com/skyrimspecialedition/users/187780980) as the main mod to map the keybinds for the controller.
 
@@ -135,7 +141,7 @@ If you are trying to change the difficulty preset of an existing save file...
 
 ***or***
 
-you are changing from one save file to another and they are both use different difficulty preset...
+you are changing from one save file to another and they both use different difficulty presets...
 
 <br>
 
@@ -145,7 +151,7 @@ you are changing from one save file to another and they are both use different d
 	> *If you followed along the guide in the Saving your settings (MCM Recorder) section; `ZISS - Settings Loader`, any preset you may be using, and your mod (If you made one) should be active.<br><br>*
  	> *As of v1.0.4 you can enable `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` Deactivate after. This prevents errors when loading settings.*	
 
-2. Launch the game, load your save, and reset MCM settings in Skyrim's console. If you get a 
+2. Launch the game, load your save, and reset MCM settings in Skyrim's console.
 
         1. Press [~] while in game
         2. Type: "setstage ski_configmanagerinstance 1"
