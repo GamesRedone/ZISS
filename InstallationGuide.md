@@ -70,7 +70,7 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 :warning: ZISS was created to be performance friendly, but you should not expect high FPS *(>60 FPS)* at the minimum specs.
 <br>
 
->*When running at the minimum specs it is recommended to disable any in-game overlays you may use such as [Steam](https://www.wikihow.com/Disable-Steam-Overlay) or [NVIDIA](https://www.wikihow.com/Disable-Nvidia-Overlay) overlays. Also ensure to follow all the steps in the [Recommended Preparations](#Recommended-Preparations) section of the this guide for the best experience. Switching to [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) will also provide better performance and stability overall.*
+>*When running at the minimum specs it is recommended to disable any in-game overlays you may use such as [Steam](https://www.wikihow.com/Disable-Steam-Overlay) or [NVIDIA](https://www.wikihow.com/Disable-Nvidia-Overlay) overlays. Also ensure to follow all the steps in the [Recommended Preparations](#Recommended-Preparations) section of the this guide for the best experience.<br><br>Switching to [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) will also provide better performance and stability overall.*
 
 <br>
 
@@ -238,7 +238,7 @@ Installation can be completed in as little as an hour or two depending on your i
 9. Launch ZISS through MO2, create a new character, and let MCM recorder run
     > *If MCM recorder is interrupted for any reason, either start over by creating a new character, or [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets)*
 
-**The ENB profile will be selected by default.**
+**The Community Shaders profile will be selected by default.**
 
 <br>
 
@@ -302,11 +302,11 @@ This is because of how they inject code, rewrite game memory, and modify core ga
 - **If installation failed due to missing archives**
 
     You can click "Retry", typically this will fix this issue. If the issue persists...
-    > Click `Show Missing Archives` to view the download links to all of the missing files. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`), close Wabbajack, open the ZISS `.wabbajack` file, and click `Install` to continue.*
+    > *Click `Show Missing Archives` to view the download links to all of the missing files. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`), close Wabbajack, open the ZISS `.wabbajack` file, and click `Install` to continue.*
 
 - **If ENB is the only Missing Archive**
 
-    > This may mean that the ENB has had silent update, changing the version of ENB without changing the version number. Please send me a message letting me know on [Nexus](https://www.nexusmods.com/profile/GamesRedone), or reach out in the Help channel of the [Discord](discord.com/invite/WejTdPFBbk) for even faster help. I will correct the issue.
+    > *This may mean that the ENB has had silent update, changing the version of ENB without changing the version number. Please send me a message letting me know on [Nexus](https://www.nexusmods.com/profile/GamesRedone), or reach out in the Help channel of the [Discord](discord.com/invite/WejTdPFBbk) for even faster help. I will correct the issue.*
 
     You can also choose to [download ZISS without ENB (CS ONLY)](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=files), that way you don't have to deal with this problem at all.
 
@@ -346,6 +346,8 @@ If you have not used Wabbajack before, don't worry, unless you have deleted your
 
 <details><summary>Show Guide</summary><br>
 
+---
+
 If you did not change many settings, it may be easier to just configure them again once the update completes.
 
 1. [Backup your MCM Recording in an `empty mod`](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder)
@@ -361,6 +363,8 @@ If you did not change many settings, it may be easier to just configure them aga
 > Rename the mod in MO2 to `[NoDelete]MOD NAME HERE`.<br>As long as [NoDelete] is in the beginning of the name, Wabbajack will not delete the mod durring an update.
 
 5. *(Optional)* Wabbajack will not delete your save files, but checkout the [Where are the screenshots and save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) section of the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md) if you would like to back those up.
+
+---
 
 </details>
 
