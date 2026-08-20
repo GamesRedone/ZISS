@@ -218,6 +218,10 @@ Installation can be completed in as little as an hour or two depending on your i
 
 <br>
 
+**SKYRIM AE JUST GOT AN UPDATE.** [Please review the comment on the ZISS mod page.](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=posts)
+
+<br>
+
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder at the root of your drive, such as `C:\Wabbajack`
     > *Do not place it in your Program Files, or in any default Windows folders like "Desktop" or "Downloads"*
 
