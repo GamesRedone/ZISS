@@ -769,34 +769,42 @@ Just press enter on the error messages and load your save again. The error messa
 
 # **How to enter the preset contest**
 
-Skyrim can be anything you want it to be... with mods.
+### ***Help shape the next update of ZISS!***
 
-Rather then creating *MY* perfect version of Tamriel, I left the door open for you.
-
+Skyrim can be anything you want it to be... with mods. Rather then creating *MY* perfect version of Tamriel, I left the door open for you.<br>
 No preset is the best and every playstyle is welcome!
 
-<br>
-
-:mag:  **Checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section to learn how to create your own preset.**
-
-***MCM recorder makes it easy.***
+Submit your preset for chance to have it featured in the next update!
 
 <br>
 
-###  :envelope: You can Submit yours in the Monthly Preset Contest through [this form](https://docs.google.com/forms/d/e/1FAIpQLSf9Y9X3xX7NtfLYjjDRwnCthQHpRYIGpofWKkpGwiD2M2JC1w/viewform?usp=header)
+**Early Supporters will play test submitted presets and vote on their favorite ones.**
 
-Winners will have their preset featured in the next update!
+If you need any help, feel free to reach out in our [Discord](discord.com/invite/WejTdPFBbk)!
 
 <br>
 
-⛔ **Due to all the .ini files included in ZISS settings loader, only a modified difficulty preset created with MCM recorder will be accepted.**
-> *Review "How to modify a Difficulty Preset's existing settings" within the [Saving your settings with MCM Recorder](#saving-your-settings-with-mcm-recorder) section to learn more.*
+:mag:  **If you haven't already, checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section of [customization guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how to create your own preset.**
 
-✋ **All submission must be uploaded to Nexus, this ensures the safety of our community.**
+<br>
+
+###  :envelope: [Click Here to Submit your preset in the Preset Contest](https://tally.so/r/dWJQNV) 
+### **The theme of the next update is *"Surprises"***
 
 <br><br>
 
-### **How to prepare the files for upload to Nexus**
+⛔ **Due to all the .ini files included in ZISS settings loader, only a modified difficulty preset created with MCM recorder will be accepted.**
+> *Review "How to modify a Difficulty Preset's existing settings" within the [Saving your settings with MCM Recorder](#saving-your-settings-with-mcm-recorder) section to learn more.*
+> *Do *NOT* include any settings for mods that are not currently present in ZISS.
+> You can suggest a mod by clicking `New Issue` on the [Issues Page](https://github.com/GamesRedone/ZISS/issues).*
+
+✋ **All submission must be uploaded to Nexus, this ensures the safety of our community.**
+> *Want some help before you upload? If your preset is selected as the winner, I will help you make sure it is setup right.*
+> *You can upload what you got so far directly through the [submission form](https://tally.so/r/dWJQNV).*
+
+<br><br>
+
+## ***How to prepare the files for upload to Nexus***
 
 *Files for your MCM recordings can be found in the `Overwrite` folder under `McmRecorder` > `1 ZISS - Settings Loader`.*
 
