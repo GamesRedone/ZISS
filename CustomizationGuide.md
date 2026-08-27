@@ -784,7 +784,7 @@ If you need any help, feel free to reach out in our [Discord](discord.com/invite
 
 <br>
 
-:mag:  **If you haven't already, checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section of [customization guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how to create your own preset.**
+:mag:  **Checkout the[ Saving Your Settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Saving-your-settings-with-MCM-Recorder) section of [customization guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn how to create your own preset.**
 
 <br>
 
@@ -811,7 +811,6 @@ If you need any help, feel free to reach out in our [Discord](discord.com/invite
 <br>
 
 1. Create an `empty mod` in MO2 and drag the `McmRecorder` folder from `Overwrite` to the `empty mod`. 
-	> *GamerPoets has a [great video](https://www.youtube.com/watch?v=Ksp_yPq637s) describing how.*
 
 2. Do NOT rename the folder `1 ZISS - Settings Loader` within the `MCMRecorder` Folder. You can rename your `empty mod` whatever you'd like (e.g. "My Custom Preset") just include [NoDelete] at the start of the name so Wabbajack skips over the files.
 	> *(e.g. `[NoDelete]My Custom Preset`)* 
