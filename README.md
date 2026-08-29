@@ -306,6 +306,8 @@ shazdeh2 for AutoExec
 
 mrowrpurr for MCM Recorder
 
+Patrorex for Skyrim MO2 Storage Optimizer
+
 > All of the mods listed here must be downloaded from their original source for ZISS to function.
 
 <br><br><br><br><br><br><br><br>
