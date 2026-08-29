@@ -80,13 +80,13 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 | **Processor** | [Intel Core i7-11800H](https://www.cpubenchmark.net/cpu.php?id=4358&cpu=Intel+Core+i7-11800H+%40+2.30GHz) / [AMD Ryzen 7 5800h](https://www.cpubenchmark.net/cpu.php?id=3907&cpu=AMD+Ryzen+7+5800H) | - |
 | **Graphics** | [NVIDIA GeForce RTX 3050 Ti Laptop](https://www.videocardbenchmark.net/gpu.php?gpu=GeForce+RTX+3050+Ti+Laptop+GPU&id=4393) / [Radeon RX 7900M](https://www.notebookcheck.net/AMD-Radeon-RX-7900M-GPU-Benchmarks-and-Specs.760883.0.html) | - |
 | **Memory** | 16 GB RAM | 24 GB RAM |
-| **Storage (Pre-Install)** | ~112 GB SATA SSD | ~112 GB NVMe SSD |
-| **Storage (Post-Install)** | ~62 GB SATA SSD | ~62 GB NVMe SSD |
+| **Storage (Pre-Install)** | ~132 GB SATA SSD | ~132 GB NVMe SSD |
+| **Storage (Post-Install)** | ~77 GB SATA SSD | ~77 GB NVMe SSD |
 
 <br><br>
-ZISS itself is lightweight and only requires a total of ~62 GB durring installation, and roughly ~36gb post installation. 
+ZISS itself is relatively lightweight and only requires a total of ~82 GB durring installation, and roughly ~55gb post installation. 
 
-> You can delete the downloads folder once the list has successfully and installed to free back up ~26gb. (e.g. `ZISS/downloads`)
+> You can delete the downloads folder once the list has successfully and installed to free back up ~27gb. (e.g. `ZISS/downloads`)
 
 Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation and the game files themselves are ~20 GB.
 
