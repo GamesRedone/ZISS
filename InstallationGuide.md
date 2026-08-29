@@ -94,7 +94,7 @@ Wabbajack requires around 30 GB of extra space on your main drive for temporary 
 
 # **Required Game Files**
 
-ZISS requires the [Steam version](https://store.steampowered.com/sub/626153/) of `Skyrim Anniversary Edition v1.6.117` *(The newest version)*
+ZISS requires the [Steam version](https://store.steampowered.com/sub/626153/) of `Skyrim Anniversary Edition v1.7.104` *(The newest version)*
 
 Follow these five steps to ensure you have the correct required game files installed on your system.
 <br><br><br>
@@ -218,10 +218,7 @@ Installation can be completed in as little as an hour or two depending on your i
 
 <br>
 
-**SKYRIM AE JUST GOT AN UPDATE.**
-
-I will be updating ZISS for Skyrim 1.7.99 this Monday (8/24/26). In the meantime, you can [downgrade to Skyrim v1.6.117](https://www.nexusmods.com/skyrimspecialedition/mods/188916?tab=description) to install ZISS.
-Be sure to read the comments in the [posts tab](https://www.nexusmods.com/skyrimspecialedition/mods/188916?tab=posts).
+**ZISS REQUIRES SKYRIM v1.7.104 (The newest release)**
 
 <br>
 
