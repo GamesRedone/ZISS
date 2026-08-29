@@ -308,12 +308,6 @@ This is because of how they inject code, rewrite game memory, and modify core ga
     You can click "Retry", typically this will fix this issue. If the issue persists...
     > *Click `Show Missing Archives` to view the download links to all of the missing files. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`), close Wabbajack, open the ZISS `.wabbajack` file, and click `Install` to continue.*
 
-- **If ENB is the only Missing Archive**
-
-    > *This may mean that the ENB has had silent update, changing the version of ENB without changing the version number. Please send me a message letting me know on [Nexus](https://www.nexusmods.com/profile/GamesRedone), or reach out in the Help channel of the [Discord](discord.com/invite/WejTdPFBbk) for even faster help. I will correct the issue.*
-
-    You can also choose to [download ZISS without ENB (CS ONLY)](https://www.nexusmods.com/skyrimspecialedition/mods/181971?tab=files), that way you don't have to deal with this problem at all.
-
 - **Mods are not downloading or unable to download `Skyrim_Default.ini`**
 
     If you have already tried to fix stuck downloads and missing archives, this most likely is caused by not having the correct game files installed on your system.
