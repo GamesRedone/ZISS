@@ -86,7 +86,7 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 <br><br>
 ZISS itself is relatively lightweight and only requires a total of ~82 GB durring installation, and roughly ~55gb post installation. 
 
-> You can delete the downloads folder once the list has successfully and installed to free back up ~27gb. (e.g. `ZISS/downloads`)
+> You can delete the downloads folder once the list has successfully installed to free back up ~27gb. (e.g. `ZISS/downloads`)
 
 Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation and the game files themselves are ~20 GB.
 
@@ -234,7 +234,7 @@ Installation can be completed in as little as an hour or two depending on your i
     > *([Click Here](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#antivirus-exclusions) to learn how)*
 
 5. Download the latest version of ZISS from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/181971), extract, and place the `.wabbajack` file into the Wabbajack folder you made in step 1 (e.g. `C:\Wabbajack`). Double click the `.wabbajack` file to start installation.
-    > *OR you can go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead (Be sure Revision 3 is selected). It will automatically begin the install for ZISS.*
+    > *OR you can go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead (Be sure the newest Revision is selected). It will automatically begin the install for ZISS.*
 
 8. Set your installation folder to the folder you made in step 3 *(e.g. "C:\ZISS")*<br>
     > *Your downloads folder should be set automatically If it isn’t, set it to `ZISS\downloads`*<br>
