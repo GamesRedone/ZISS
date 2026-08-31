@@ -35,9 +35,7 @@
 <br><br>
 ## **Introduction**
 
-ZISS is a lightweight, highly configurable, collection of mods that transforms Skyrim AE into a modern survival RPG. With a focus on improving gameplay and visuals, and the option to turn off survival mode, this modlist does not turn Skyrim into another game.
-
-ZISS is here to enhance the Vanilla Skyrim experience, not change it.
+Z.I.S.S. is a lightweight, highly configurable, collection of mods that transforms Skyrim into a modern survival RPG. With a focus on gameplay and graphics, ZISS enhances the Vanilla experience without changing it.
 
 <br><br>
 
@@ -161,15 +159,23 @@ The **[Progression](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.m
  
 <br><br><br><br>
 
-# Community Shaders is here!
-
-**As of ZISS v1.1.0, you can choose between ENB with [Rudy's](https://www.nexusmods.com/skyrimspecialedition/mods/4796) preset and [Lux](https://www.nexusmods.com/skyrimspecialedition/mods/43158) or...**
-
-**[Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) with the [Amethyst](https://www.nexusmods.com/skyrimspecialedition/mods/99450) Reshade/KreatE presets and [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424).**
+# Many Modding Tools are now included in ZISS!
 
 <br>
 
-Checkout the [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn more.
+**As of ZISS v1.2.0, the following tools are installed and *(mostly)* preconfigured :**
+
+- **[BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875)**
+- **[Skyrim MO2 Storage Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/185040)**
+- **[Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)**
+- **[Bethesda Archive Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/974)**
+- **[Synthesis](https://mutagen-modding.github.io/Synthesis/)**
+- **[xEdit (SSEEdit)](https://www.nexusmods.com/skyrimspecialedition/mods/164)**
+- **[Wrye Bash](https://www.nexusmods.com/site/mods/591)**
+
+You will find a file named `HOW TO USE WITH ZISS.txt` within the mod folder for each tool.
+
+Checkout the [Modding Tools](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#modding-tools) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md) to learn more.
 
 <br><br><br><br>
 
@@ -187,7 +193,9 @@ Checkout the main changes ZISS makes to Skyrim in the [Starter Guide](https://gi
 
 ## **Common Issues & Bugs**
 
-As of ZISS v1.1.0 most known issues and bugs from closed testing have been resolved.
+As of ZISS v1.2.0 most known issues and bugs have been resolved.
+
+> *Checkout the [changelogs](https://www.nexusmods.com/skyrimspecialedition/mods/181971) on the mod page for more info.*
 
 That does not mean you won't run into bugs or other issues, it just is far less likely.
 
@@ -206,9 +214,6 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 <br>
 
 ### **Known Issues**
-
-- ***If ENB is the only Missing Archive,*** this may mean that the ENB has had silent update. Meaning, the version of ENB has changed without changing the version number. Please send me a message letting me know on [Nexus](https://www.nexusmods.com/profile/GamesRedone), or reach out in the help channel of our [Discord](discord.com/invite/WejTdPFBbk) for even faster help. I will correct the issue.
-  > *You can also choose to [download ZISS without ENB (CS ONLY)](https://www.nexusmods.com/skyrimspecialedition/mods/181971), that way you don't have to deal with this problem at all.*
 
 - **[Vanilla Landscape Corrections.esp](https://www.nexusmods.com/skyrimspecialedition/mods/104962)** has been disabled because it causes crashes, currently working on a fix.
 
@@ -236,29 +241,26 @@ Support is ***NOT*** provided in regards to :
 - Bugs, crashes, and issues present in the Vanilla game
 - Gameplay guidance
 - Refusal to read provided instructions
+- Heavily Modified Load Orders
+  > Specifically Load Orders that have disabled mods that are ***NOT*** listed as [Optional](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods).<br>
+  > As well as load orders that have mods that were ***ADDED***.<br><br>
+  > [Click Here](https://github.com/GamesRedone/ZISS/edit/main/README.md#modified-load-orders) to learn how to get support with a Modified Load Order.
 
 <br>
 
-**As of v1.0 ZISS is stable, but if your game does crash, a crash log will appear in a `.txt` file open on your screen.**
+**As of v1.2.0 ZISS is stable, but if your game does crash, a crash log will appear in a `.txt` file open on your screen.**
 
 > Please include this when [reporting a crash related issue](https://github.com/GamesRedone/ZISS/issues).<br><br>
 > Microsoft OneDrive users should pause OneDrive syncing or explicitly exclude your `My Games/Skyrim Special Edition` directory from OneDrive's backup scope. Otherwise the log may not appear.<br><br>
-> You can find the logs in...<br>`C:\Users\[YOUR USERNAME]\Documents\My Games\Skyrim Special Edition\SKSE`<br> Search this folder with the term "crash"
+> You can also find the logs in...<br>`C:\Users\[YOUR USERNAME]\Documents\My Games\Skyrim Special Edition\SKSE`<br> Search this folder with the term "crash"
+
+<br><br><br>
+
+### ***Modified Load Orders***
 
 <br>
 
-**If you changed you MCM settings/disabled any mods and did *NOT* create a custom difficulty preset and/or MO2 profile, I will *NOT* be able to help you.**
-
-If your game will not launch or something else is really messed up...
-
-**...and you did *NOT* create a custom preset/profile...**
-
-I would recommend you clear the `Overwrite` folder and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets), or reinstall ZISS. 
->Delete the specific folder where the modlist was installed to uninstall (e.g. `C:\ZISS`)
-
-<br>
-
-**You must upload a copy of your custom preset and/or profile for support.**
+**You must upload a copy of your custom preset and/or profile for support with a modified load order.**
 
 💾 MCM recorder saves all presets as `.json` files
 
@@ -267,6 +269,19 @@ I would recommend you clear the `Overwrite` folder and [reset your MCM settings]
 :open_file_folder: MO2 Profiles are saved in your ZISS folder (i.g. `C:\ZISS\profiles`)
 
 > I need a `.7z` file of the entire folder for the profile (i.g. `C:\ZISS\profiles\PROFILE NAME`)
+
+<br><br>
+
+**If you changed you MCM settings or disabled any mods and did *NOT* create a custom difficulty preset and/or MO2 profile...**<br><br>**I will *NOT* be able to help you.**
+
+<br>
+
+**If your game will not launch or something else is really messed up...**
+
+**...and you did *NOT* create a custom preset/profile...**
+
+I would recommend you clear the `Overwrite` folder and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets), or reinstall ZISS. 
+>Delete the specific folder where the modlist was installed to uninstall (e.g. `C:\ZISS`)
 
 <br><br><br>
 
@@ -308,6 +323,7 @@ mrowrpurr for MCM Recorder
 
 Patrorex for Skyrim MO2 Storage Optimizer
 
-> All of the mods listed here must be downloaded from their original source for ZISS to function.
+> All of the mods listed here must be downloaded from their original source for ZISS to function.<br><br>
+> *Don't worry, Wabbajack does that for you.*
 
 <br><br><br><br><br><br><br><br>
