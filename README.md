@@ -159,7 +159,11 @@ The **[Progression](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.m
  
 <br><br><br><br>
 
+<div align="center">
+
 # Many Modding Tools are now included in ZISS!
+
+</div>
 
 <br>
 
