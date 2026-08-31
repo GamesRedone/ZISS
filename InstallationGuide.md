@@ -65,12 +65,12 @@ While not required, it is highly recommended that your purchase [Nexus Premium](
 
 To get even more frames checkout the [Performance Tweaks](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#performance-tweaks) section of the [Customization Guide](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md).
 
-You may be able to run ZISS at lower specs then the minimum processor and graphics requirements but you will not be able to run ZISS with less then 16 GB of RAM.
+You may be able to run ZISS at lower specs then the minimum processor and graphics requirements, but you will not be able to run ZISS with less then 16 GB of RAM.
 <br><br><br>
-:warning: ZISS was created to be performance friendly, but you should not expect high FPS *(>60 FPS)* at the minimum specs.
+:warning: Do not expect high FPS *(>60 FPS)* at the minimum specs.
 <br>
 
->*When running at the minimum specs it is recommended to disable any in-game overlays you may use such as [Steam](https://www.wikihow.com/Disable-Steam-Overlay) or [NVIDIA](https://www.wikihow.com/Disable-Nvidia-Overlay) overlays. Also ensure to follow all the steps in the [Recommended Preparations](#Recommended-Preparations) section of the this guide for the best experience.<br><br>Switching to [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) will also provide better performance and stability overall.*
+>*When running at the minimum specs it is recommended to disable any in-game overlays you may use such as [Steam](https://www.wikihow.com/Disable-Steam-Overlay) or [NVIDIA](https://www.wikihow.com/Disable-Nvidia-Overlay) overlays. Also ensure to follow all the steps in the [Recommended Preparations](#Recommended-Preparations) section of the this guide for the best experience.<br><br>Switching to [Community Shaders](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#community-shaders) will provide better performance and stability overall.*
 
 <br>
 
@@ -84,23 +84,25 @@ You may be able to run ZISS at lower specs then the minimum processor and graphi
 | **Storage (Post-Install)** | ~77 GB SATA SSD | ~77 GB NVMe SSD |
 
 <br><br>
-ZISS itself is relatively lightweight and only requires a total of ~82 GB durring installation, and roughly ~55gb post installation. 
+ZISS itself is relatively lightweight, requiring a total of ~82 GB durring installation, and roughly ~55gb post installation. 
 
-> You can delete the downloads folder once the list has successfully installed to free back up ~27gb. (e.g. `ZISS/downloads`)
+> You can delete the downloads folder once the list has successfully installed to free back up ~27gb. (e.g. `C:/ZISS/downloads`)<br><br>
+> *Just know that if you do this...* <br>
+> When you update ZISS, all mods will have to be downloaded and installed again.
 
-Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation and the game files themselves are ~20 GB.
+Wabbajack requires around 30 GB of extra space on your main drive for temporary and working files during installation.
+
+The Skyrim game files themselves are ~20 GB.
 
 <br><br>
 
 # **Required Game Files**
 
-ZISS requires the [Steam version](https://store.steampowered.com/sub/626153/) of `Skyrim Anniversary Edition v1.7.104` *(The newest version)*
+ZISS requires the [Steam version](https://store.steampowered.com/sub/626153/) of `Skyrim Anniversary Edition v1.7.104`
 
 Follow these five steps to ensure you have the correct required game files installed on your system.
-<br><br><br>
-:warning: If mods are *NOT* downloading and you have already tried the [stuck download/missing archive fix](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#having-problems-with-installation). OR you are unable to download `Skyrim_Default.ini`, you probably have the wrong game files installed on your system.
 
-<br><br><br>1. **Check what version of the game you own**
+<br><br>1. **Check what version of the game you own**
 
   > ZISS utilizes some of the Creation Club content included in the `Skyrim Anniversary Upgrade`<br>
   > So it is required that you purchase either a copy of...<br><br>
@@ -119,13 +121,13 @@ Follow these five steps to ensure you have the correct required game files insta
 >[All mods will be installed completely separate from your Steam installation of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/31720), so a fresh install is required to ensure ZISS runs smoothly. This is especially true if you have ever modded Skyrim in the past and have used [ENB](http://enbdev.com/download.html) or [SKSE](https://skse.silverlock.org/) before.<br><br>
 >To fully uninstall Skyrim, uninstall through Steam and delete the Skyrim Special Edition folder that Steam was using.<br>As well as the Skyrim Special Edition folder inside `\Documents\My Games`.<br><br>
 
-✋ You can install the game in any location ***EXCEPT*** Program files.
+✋ You can install the game in any location ***EXCEPT*** Program files, My Documents, or any other Windows Managed File Path.
 > If you have multiple drives you can simply install it on to the secondary drive. If you do not have a secondary drive you can [follow this guide](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide#step-1-download-the-tool) to install it in a seperate location on your `C:\` drive.<br><br>Do ***NOT*** use an external hard drive.
 
 :no_entry: ***DO NOT* "Verify Integrity of Game Files" through Steam.**
 > *If you ever have, or are unsure if you ever have, you should remove fully remove all game files (see step 2), and reinstall the game.*
 
-<br>3. **Launch the game and check that all Creation Club content has been downloaded**
+<br>3. **Launch the game and download the Creation Club content**
 > The game should prompt you to download all Creation Club content included with Aniversary Edition. If for whatever reason you are missing some of the content, or you just want to make sure you have all the content, follow the 3 steps below.
 
     1. Launch the game and select `"Creations"` from the `Main Menu`.
@@ -138,7 +140,12 @@ Follow these five steps to ensure you have the correct required game files insta
 🔍 **Check your `Skryrim Special Edition\Data` folder to ensure you have the correct version of these files :**<br><br>
 **`ccBGSSSE037-curios.esl` and `ccBGSSSE037-curios.bsa`**
 > The version you need must be spelled with a ***LOWER CASE*** `c` (e.g. `ccBGSSSE037-curios.esl` ***NOT*** `ccBGSSSE037-Curios.esl`)<br>
-> If you have the wrong version, delete these two files, launch the game, select `"Creations"` from the `Main Menu`, search for `Rare Curios` and download.
+> If you have the wrong version follow the 4 steps below. 
+
+    1. Delete the `curios` files you currently have
+    2. Launch the game
+    3. Select `Creations` from the `Main Menu`
+    4. Search for `"Rare Curios"` and download
 
 <br>4. **Stop Steam from automatically updating**
 
@@ -173,7 +180,7 @@ These preparations are not required but will ensure you have the best overall ex
 
 ### **Crash Prevention**
 
-As of v1.0 ZISS is stable, but just like many other large mod lists,  ZISS requires a lot of memory. Sometimes if there isn't enough memory in the moment it is needed a memory-related crash will occur, typically in the form of `"EXCEPTION_ACCESS_VIOLATION"`
+As of v1.2.0 ZISS is stable, but just like many other large modlists,  ZISS requires a lot of memory. Sometimes if there isn't enough memory in the moment it is needed a memory-related crash will occur, typically in the form of `"EXCEPTION_ACCESS_VIOLATION"`
 <br><br>
 In order to prevent this from happening, you can create virtual memory by increasing your pagefile size.
 
@@ -181,10 +188,10 @@ In order to prevent this from happening, you can create virtual memory by increa
 2. Go to `Advanced tab > Performance Section > Settings`
 3. In the new window, go to `Advanced tab > Virtual Memory section > Change...`
 4. Disable `Automatically manage paging file size` for all drives
-5. Select your disk drive, ideally your fasted SSD Under the Custom Size: option, change `Initial Size (MB)` and `Maximum Size (MB)` to `"20480"`
-6. Click `Set`
-7. Click `OK`, then `Apply` and `OK`
-8. Restart your computer
+5. Select your drive, ideally your fastest SSD
+6. Under the Custom Size option, change `Initial Size (MB)` and `Maximum Size (MB)` to `"20480"` and click `Set`
+8. Click `OK`, then `Apply` and `OK`
+9. Restart your computer
 <br>
 
 ![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/howto_pagefile.jpg)
@@ -195,7 +202,7 @@ If your game does crash, thanks to [Crash Logger SSE AE VR - PDB support](https:
 
 ### **Shader Cache**
 
-If you have an NVIDIA graphics card you should increase your shader cache size to reduce micro-stutters and smooth out frame drops.
+If you have an NVIDIA graphics card, you should increase your shader cache size to reduce micro-stutters and smooth out frame drops.
 
 1. Open your `NVIDIA Control Panel`
 2. Click `Manage 3D settings`
@@ -218,12 +225,12 @@ Installation can be completed in as little as an hour or two depending on your i
 
 <br>
 
-**ZISS REQUIRES SKYRIM v1.7.104 (The newest release)**
+**ZISS REQUIRES SKYRIM v1.7.104 (The newest version)**
 
 <br>
 
 1. Download the latest version of [Wabbajack](https://www.wabbajack.org/) and place it in a folder at the root of your drive, such as `C:\Wabbajack`
-    > *Do not place it in your Program Files, or in any default Windows folders like "Desktop" or "Downloads"*
+    > *Do not place it in your Program Files, or in any Windows Managed File Path like "Desktop" or "Downloads"*
 
 2. Launch `Wabbajack.exe`, it will download the most updated version of Wabbajack, after it finishes downloading close it
 
@@ -234,10 +241,10 @@ Installation can be completed in as little as an hour or two depending on your i
     > *([Click Here](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#antivirus-exclusions) to learn how)*
 
 5. Download the latest version of ZISS from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/181971), extract, and place the `.wabbajack` file into the Wabbajack folder you made in step 1 (e.g. `C:\Wabbajack`). Double click the `.wabbajack` file to start installation.
-    > *OR you can go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead (Be sure the newest Revision is selected). It will automatically begin the install for ZISS.*
+    > *OR you can go to the [Nexus Collections page](https://www.nexusmods.com/games/skyrimspecialedition/collections/wdztqv) and click "Add to Wabbajack" instead (Be sure the newest Revision is selected).<br>It will automatically begin the install for ZISS.*
 
 8. Set your installation folder to the folder you made in step 3 *(e.g. "C:\ZISS")*<br>
-    > *Your downloads folder should be set automatically If it isn’t, set it to `ZISS\downloads`*<br>
+    > *Your downloads folder should be set automatically. If it isn’t, set it to (e.g.`C:\ZISS\downloads`)*<br>
 
 9. Launch ZISS through MO2, create a new character, and let MCM recorder run
     > *If MCM recorder is interrupted for any reason, either start over by creating a new character, or [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#Resetting-MCM-settings-and-switching-between-difficulty-presets)*
@@ -246,7 +253,7 @@ Installation can be completed in as little as an hour or two depending on your i
 
 <br>
 
-👍 Switching between ENB and CS is simple. Just choose between the one of the two MO2 profiles.
+👍 Switching between ENB and CS is simple. Just choose between one of the two MO2 profiles.
 
 <br>
 
@@ -263,7 +270,7 @@ Installation can be completed in as little as an hour or two depending on your i
 
 <br>
 
-[Downloading stuck? Installation failed due to missing archives? Having some other issue?](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#having-problems-with-installation)
+[Download stuck? Installation failed due to missing archives? Having some other issue?](https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md#having-problems-with-installation)
 
 <br><br>
 ## ***Antivirus Exclusions***
@@ -296,21 +303,24 @@ This is because of how they inject code, rewrite game memory, and modify core ga
 <br><br>
 ## ***Having Problems with Installation***
 
-- **Downloading Stuck or Missing Archives**
+- **Download Stuck**
 
     This typically happens if you have a slow internet connection.
 
     If downloads are stuck DO NOT CLICK CANCEL, this will restart the entire installation. 
-    > *Instead, close Wabbajack and open the ZISS `.wabbajack` file again. Don't worry it will pick up where you left off. Just click `Install` once it is running to continue.*
+    > *Instead, close Wabbajack and open the ZISS `.wabbajack` file again.<br>Don't worry it will pick up where you left off. Just click `Install` once it is running to continue.*
 
-- **If installation failed due to missing archives**
+- **Missing Archives**
 
     You can click "Retry", typically this will fix this issue. If the issue persists...
-    > *Click `Show Missing Archives` to view the download links to all of the missing files. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`), close Wabbajack, open the ZISS `.wabbajack` file, and click `Install` to continue.*
+    
+        1. Click `Show Missing Archives` to view the download links to all of the missing files.
+        2. Download each missing file manually and place them all into the downloads folder (e.g. `ZISS/downloads`)
+        3. Close Wabbajack, open the ZISS `.wabbajack` file again, and click `Install` to continue.
 
-- **Mods are not downloading or unable to download `Skyrim_Default.ini`**
+- **Specific Mods are not downloading or unable to download `Skyrim_Default.ini`**
 
-    If you have already tried to fix stuck downloads and missing archives, this most likely is caused by not having the correct game files installed on your system.
+    If you have already tried the fixes listed above for a stuck download or missing archive, this most likely is caused by not having the correct game files installed on your system.
     > *Go through the [five steps](#Required-Game-Files) to ensure your have the correct game files.*
     
     It could also be a Nexus connection issue.
@@ -327,55 +337,64 @@ This is because of how they inject code, rewrite game memory, and modify core ga
 <br><br>
 ## ***Freeing Up Storage Space Post Installation***
 
-  You can delete the downloads folder once the list has successfully and installed to free back up ~20gb. (e.g. `ZISS/downloads`)
+  You can delete the downloads folder once the list has successfully and installed to free back up ~27gb. (e.g. `ZISS/downloads`)
 
   Just know that if you do this...
   
-  When you update ZISS, all mods, not just the changes from the last update, will have to be downloaded and installed again.
+  When you update ZISS, all mods will have to be downloaded and installed again.
 
 <br><br>
 
 ## ***How to update***
 
-If you have not used Wabbajack before, don't worry, unless you have deleted your to downloads folder, you will not need to download and install all the mods again. Only the changes download, and your save will be good.
+If you have not used Wabbajack before, don't worry, unless you have deleted your downloads folder, you do not need to download and install all the mods again. Only the changes download and your save files will be preserved.
 
-⚠️ **Be sure to backup any customizations you have made within the MCM or MO2.**
+<br>
 
-
+⚠️ **Be sure to backup any customizations you have made within the MCM or MO2.**<br>
 <details><summary>Show Guide</summary><br>
 
 ---
 
 If you did not change many settings, it may be easier to just configure them again once the update completes.
 
-1. [Backup your MCM Recording in an `empty mod`](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder)
-> If you already have modified a Difficulty Preset's existing settings
+1. **Backup your [Custom Difficulty Preset](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder)'s mod folder**
+    > Mod folders are located in your mods folder (e.g. `C:\ZISS\mods\My Custom Difficulty Preset\`).<br><br>Backup the entire mod folder (e.g. My Custom Difficulty Preset).<br><br>Drag the folder back into the mods folder, ***AFTER*** updating ZISS, ***BEFORE*** launching MO2<br><br>
+    > **WARNING** : If you have ***NOT*** created a Custom MO2 Profile, your Custom Difficulty Preset will be found deactivated at the bottom of your load order after the update.
 
-2. Backup your Overwrite folder in an `empty mod` and activate the newly created mod
-> Right click the `Overwrite` folder > create `empty mod` > name it `[NoDelete]Overwrite`
+2. **Backup your Custom MO2 Profile *(If you disabled/added any mods)***
+    > MO2 profiles are located in your profiles folder (e.g. `C:\ZISS\profiles\My Custom Profile\`).<br><br>Backup the entire profile folder (e.g. My Custom Profile).<br><br>Drag the folder back into the profiles folder, ***AFTER*** updating ZISS, ***BEFORE*** launching MO2<br><br>
+    > **WARNING** : Sometimes mods are added, activated/deactivated or renamed by Games Redone between updates.
+    >
+    > For the Official ZISS MO2 profiles (CS and ENB), this causes no issues.<br>Your Custom MO2 Profile on the other hand, will not be expecting these changes.<br>
+    > - All mods added or renamed by Games Redone will be found deactivated at the bottom of your load order after the update.<br>
+    > - Any mods that were activated/deactivated by Games Redone will remain in their previous state after the update.<br>*(e.g. If a mod was deactivated between updates it will still be active in your Custom profile).*<br>
+    > - Every update, starting with v1.2.1, will note these changes in the [changelogs](https://www.nexusmods.com/skyrimspecialedition/mods/181971) on the mod page.
 
-3. Backup your MO2 profile (If you disabled any optional mods)
-> MO2 profiles are located in your profiles folder (i.g. `ZISS\profiles\My Custom Profile\`).<br><br>Backup the entire folder.<br><br>Drag the folder back into the profiles folder after update ***BEFORE*** launching MO2
+3. **If you added any mods, make sure to mark them as `[NoDelete]` for Wabbajack**
+    > Backing up your Custom MO2 Profile will ***NOT*** backup mods you add.<br>Rename any added mod in MO2 to `[NoDelete]MOD NAME HERE`.<br><br>As long as [NoDelete] is at the beginning of the name, Wabbajack will not delete the mod during an update.<br><br>
+    > **WARNING** : If you have ***NOT*** created a Custom MO2 Profile, any mods marked `[NoDelete]` will be found deactivated at the bottom of your load order after the update.<br>
 
-4. If you added any mods, make sure to mark them as `[NoDelete]` for Wabbajack
-> Rename the mod in MO2 to `[NoDelete]MOD NAME HERE`.<br>As long as [NoDelete] is in the beginning of the name, Wabbajack will not delete the mod durring an update.
-
-5. *(Optional)* Wabbajack will not delete your save files, but checkout the [Where are the screenshots and save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) section of the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md) if you would like to back those up.
+4. *(Optional)* Wabbajack will not delete your save files, but checkout the [Where are the screenshots and save files](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#where-are-the-screenshots-and-save-files) section of the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md) if you would like to back them up.
 
 ---
 
 </details>
 
+⛔ **Do ***NOT*** backup your Shader Cache or Overwrite folder when updating.**
+> Backing up your shader cache saves load times, although it is only valid for that update.<br><br>
+> Backing up your Overwrite folder is also a big time saver, but it also is only valid for that update.
+
 <br>
 
-1. [Download ZISS (Most recent version, Main File)](https://www.nexusmods.com/skyrimspecialedition/mods/181971) and place the `.wabbajack` file in Wabbajack folder (e.g. `C"\Wabbajack"`)
+1. [Download ZISS (Most recent version, Main File)](https://www.nexusmods.com/skyrimspecialedition/mods/181971) and place the `.wabbajack` file in the Wabbajack folder (e.g. `C"\Wabbajack"`)
 
 2. Open the ZISS Wabbajack file and click `Install`. You will get a warning `Confirm File Deletion` click `Continue`
 
 3. Launch the game, load your save and [reset your MCM settings](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#resetting-mcm-settings-and-switching-between-difficulty-presets), save the game.
-> Be sure to activate the mod...<br>
-> `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` <br>
-> Deactivate after. This prevents errors when loading settings.
+    > Be sure to activate the mod...<br>
+    > `I JUST UPDATED and I have an existing save - OR - I WANT TO RESET MY MCM SETTINGS` <br>
+    > Deactivate after. This prevents errors when loading settings.
 
   
 <br><br><br><br><br><br><br><br>
