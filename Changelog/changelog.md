@@ -1,5 +1,7 @@
 # ZISS | Changelog
 
+<br>
+
 ## v1.2.0 : The Resourceful Drifter
 
 **:tada: Congrats @indigogogirl, the winner of this update's [Preset Contest](https://tally.so/r/dWJQNV)!**
