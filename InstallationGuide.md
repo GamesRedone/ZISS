@@ -366,10 +366,13 @@ If you did not change many settings, it may be easier to just configure them aga
     > MO2 profiles are located in your profiles folder (e.g. `C:\ZISS\profiles\My Custom Profile\`).<br><br>Backup the entire profile folder (e.g. My Custom Profile).<br><br>Drag the folder back into the profiles folder, ***AFTER*** updating ZISS, ***BEFORE*** launching MO2<br><br>
     > **WARNING** : Sometimes mods are added, activated/deactivated or renamed by Games Redone between updates.
     >
-    > For the Official ZISS MO2 profiles (CS and ENB), this causes no issues.<br>Your Custom MO2 Profile on the other hand, will not be expecting these changes.<br>
-    > - All mods added or renamed by Games Redone will be found deactivated at the bottom of your load order after the update.<br>
-    > - Any mods that were activated/deactivated by Games Redone will remain in their previous state after the update.<br>*(e.g. If a mod was deactivated between updates it will still be active in your Custom profile).*<br>
-    > - Every update, starting with v1.2.1, will note these changes in the [changelogs](https://www.nexusmods.com/skyrimspecialedition/mods/181971) on the mod page.
+    > When ZISS gets updated, your Custom MO2 profile will also need to be updated.<br>
+    > Every update, starting with v1.2.1, will have these changes noted in [diffs.md](https://github.com/GamesRedone/ZISS/blob/main/Changelog/diffs.md)<br><br>
+    > - If a mod is added or renamed by Games Redone, the mod will be found deactivated at the bottom of your load order after the update.<br><br>
+    > - Any mods that were activated/deactivated by Games Redone will remain in their previous state after the update.<br>
+    > *(e.g. If a mod was deactivated between updates it will still be active in your Custom profile)*<br><br>
+    > You do *NOT* have to update your Custom MO2 Profile for mods that were removed.<br>
+    > Removed mods will be removed automatically from your Custom MO2 Profile after the update.<br><br>
 
 3. **If you added any mods, make sure to mark them as `[NoDelete]` for Wabbajack**
     > Backing up your Custom MO2 Profile will ***NOT*** backup mods you add.<br>Rename any added mod in MO2 to `[NoDelete]MOD NAME HERE`.<br><br>As long as [NoDelete] is at the beginning of the name, Wabbajack will not delete the mod during an update.<br><br>
