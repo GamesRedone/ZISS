@@ -2,6 +2,52 @@
 
 <br>
 
+## ZISS v1.2.1 : Hotfix Update
+[Download v1.2.1](https://www.nexusmods.com/skyrimspecialedition/mods/181971)
+
+
+:warning: Checkout the [How to Update](https://github.com/GamesRedone/ZISS/edit/main/InstallationGuide.md#how-to-update) section of the Installation Guide. 
+  > *I have included some **IMPORTANT** additional context to backing up your customizations.*
+  > 
+  > I also no longer recommend backing up your `Overwrite` folder.<br>
+  > While you ***CAN*** do this, it may cause issues depending on the changes in the update.
+
+<br>
+
+Ran into a [Rare Wabbajack Bug](https://discord.com/channels/1513567232590876823/1514271359847632987/1544691307841192016) last night during compiling. Worth checking out if you are creating your own modlist.<br>
+  > *(Would not let me upload to Nexus Collections)*
+
+<br>
+
+This update corrects a few issues that came up after the last update.
+
+:white_check_mark:  Fixed the Conditional Crash issue with the addition of this [mod](https://www.nexusmods.com/skyrimspecialedition/mods/116220)
+  > This issue ***ONLY*** effected isolated, specific areas of the map when specific conditions are met. *(Primarily around Whiterun)*<br>
+  > There was a horse in the wrong place at the wrong time *(Pathing/Havok issue)*.
+
+:white_check_mark:  Fixed *"Going through map when walking on incline"* issue
+
+:white_check_mark:  Changed the default MO2 profile back to Community Shaders
+
+:white_check_mark:  Activated the Wrye Bash Output for the ENB profile so it's good to go out of the box
+
+:white_check_mark:  Updated the `README.MD` and `InstallationGuide.md`
+  > I am holding off on updating the Starter Guide and Customization Guide until later today.<br>
+  > ***[There is going to be a Playtest this weekend for a future version of ZISS if you are interested.](https://discord.com/channels/1513567232590876823/1514270132451410072/1544742137214533672)***
+
+:white_check_mark:  The [Changelogs](https://github.com/GamesRedone/ZISS/tree/main/Changelog) can now be found on GitHub
+  > There is a new `diffs.md` changelog for users that would like to track the changes between updates.<br>
+  > *(Important for those that are using a Custom MO2 Profile)*
+
+:white_check_mark:  Cleaned up and organized the Compiler Settings
+  > Only really helpful for those that are building their own modlist. I removed all the settings that are no longer used.
+
+<br>
+
+Update v1.2.1 will ***NOT*** effect existing saves.
+
+<br>
+
 ## v1.2.0 : The Resourceful Drifter
 
 **:tada: Congrats @indigogogirl, the winner of this update's [Preset Contest](https://tally.so/r/dWJQNV)!**
