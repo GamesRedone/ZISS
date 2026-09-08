@@ -1,5 +1,10 @@
+<div align="center">
+
 # Z.I.S.S. (Zora's Immersive Survival Souls)
+
 ![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/logo_v1.1.0.0.png)
+
+</div>
 
 <h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | Read Me | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
