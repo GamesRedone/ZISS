@@ -1,7 +1,7 @@
 # Z.I.S.S. (Zora's Immersive Survival Souls)
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/logo_v1.1.0.0.png)
+![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/logo_v1.1.0.0.png)
 
-<h4 align="center"><h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | Read Me | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
+<h4 align="center"><a href="https://www.nexusmods.com/skyrimspecialedition/mods/181971">Download</a> | Read Me | <a href="https://github.com/GamesRedone/ZISS/blob/main/InstallationGuide.md">Installation Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md">Starter Guide</a> | <a href="https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md">Customization Guide</a> </h4>
 
 <p align="center">
 <a href="https://discord.com/invite/WejTdPFBbk">
@@ -16,7 +16,7 @@
 <br>
 
 <a href="https://ko-fi.com/gamesredone">
-<img src="https://github.com/GamesRedone/ZISS/blob/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
+<img src="https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/support_me_on_kofi_badge_beige.png" width="15%">
 </a>
 
 <br><br>
@@ -24,13 +24,13 @@
 ## **Navigation**
 <br>
 
-- [Introduction](#Introduction)
+- [Introduction](#introduction)
 
-- [List Contents](#List-Contents)
+- [List Contents](#list-contents)
 
-- [Common Issues / Bugs](#Common-Issues-&-Bugs)
+- [Common Issues / Bugs](#common-issues-bugs)
 
-- [Reporting Issues](#Reporting-Issues)
+- [Reporting Issues](#reporting-issues)
 
 <br><br>
 ## **Introduction**
@@ -62,11 +62,11 @@ Z.I.S.S. is a lightweight, highly configurable, collection of mods that transfor
 
 <br><br>
 
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/readme03_v1.0.png)
+![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/readme03_v1.0.png)
 
 <div align="center">
 
-# :crossed_swords: ***Fair and Balanced Souls Like Combat***
+# ⚔️ ***Fair and Balanced Souls Like Combat***
 
 </div>
 
@@ -88,11 +88,11 @@ Learn more about them in the **[Starter Guide](https://github.com/GamesRedone/ZI
 
 <br><br><br><br>
 
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/readme01_v1.0.png)
+![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/readme01_v1.0.png)
 
 <div align="center">
 
-# :milky_way: ***Explore a lively version of Tamriel***
+# 🌌 ***Explore a lively version of Tamriel***
 
 </div>
 
@@ -109,11 +109,11 @@ Learn about how AI was improved and all there is to explore in the [Starter Guid
 
 <br><br><br><br>
 
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/readme02_v1.0.png)
+![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/readme02_v1.0.png)
 
 <div align="center">
 
-# :video_game: ***Revamped Survival Mode & New Gameplay Features***
+# 🎮 ***Revamped Survival Mode & New Gameplay Features***
 
 </div>
 
@@ -136,10 +136,10 @@ If you'd like to take a more in depth look at the gameplay changes ZISS makes to
 Checkout the **[Survival Mode & New Gameplay Features](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#survival-mode-and-new-gameplay-features)** section of the **[Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md)**.
 <br><br><br>
 
-![Alt text](https://github.com/GamesRedone/ZISS/blob/main/Images/readme04_v1.0.png)
+![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/readme04_v1.0.png)
 <div align="center">
 
-# :chart_with_upwards_trend: ***Reworked Progression***
+# 📈 ***Reworked Progression***
 
 </div>
 
@@ -151,7 +151,7 @@ Checkout the **[Survival Mode & New Gameplay Features](https://github.com/GamesR
 
 <br>
 
-:thumbsup: **The locations of artifacts have *NOT* been changed.**
+👍 **The locations of artifacts have *NOT* been changed.**
 
 No longer can you just plow through every enemy you come across. With the default difficulty preset loot will be harder to find and leveling up will prove to be more of a goal to work towards in the beginning. With loot spawns, encounter zones, experience gain, and XP scaling all balanced. The game feels challenging yet fair.
 
@@ -189,7 +189,7 @@ The full list of mods can be found on [Load Order Library](https://loadorderlibr
 
 Some mods may not be in the *"right"* category on Load Order Library, this is due to load order restrictions.
 
-:no_entry: Do *NOT* change the load order in MO2.
+⛔ Do *NOT* change the load order in MO2.
 
 Checkout the main changes ZISS makes to Skyrim in the [Starter Guide](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md).
 
@@ -209,9 +209,9 @@ That does not mean you won't run into bugs or other issues, it just is far less 
 
 👍 If you do run into an issue or a bug, reloading your previous save typically corrects the issue temporarily.
 
-:incoming_envelope: Please [report any issue or bug you run into](#Reporting-Issues) so It can be permanently corrected.
+📨 Please [report any issue or bug you run into](#reporting-issues) so It can be permanently corrected.
 
-:no_entry: Do *NOT* use any console commands such as `"set gamehour to"` or `"coc"` in normal gameplay.
+⛔ Do *NOT* use any console commands such as `"set gamehour to"` or `"coc"` in normal gameplay.
 
 > Reload to a previous save if you have. You will run into issues with NPC buildup and/or quests.
 
@@ -270,7 +270,7 @@ Support is ***NOT*** provided in regards to :
 
 > Checkout the last part of [Saving your settings with MCM Recorder](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#saving-your-settings-with-mcm-recorder) for more info.<br><br>I need a `.7z` file of your `empty mod`.
 
-:open_file_folder: MO2 Profiles are saved in your ZISS folder (i.g. `C:\ZISS\profiles`)
+📂 MO2 Profiles are saved in your ZISS folder (i.g. `C:\ZISS\profiles`)
 
 > I need a `.7z` file of the entire folder for the profile (i.g. `C:\ZISS\profiles\PROFILE NAME`)
 
@@ -325,7 +325,7 @@ shazdeh2 for AutoExec
 
 mrowrpurr for MCM Recorder
 
-Patrorex for Skyrim MO2 Storage Optimizer
+Patrorex for Skyrim MO2 Storage Optimizer
 
 > All of the mods listed here must be downloaded from their original source for ZISS to function.<br><br>
 > *Don't worry, Wabbajack does that for you.*
