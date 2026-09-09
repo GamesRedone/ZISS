@@ -44,8 +44,6 @@ Z.I.S.S. is a lightweight, highly configurable, collection of mods that transfor
 
 <br><br>
 
----
-
 <div align="center">
 
 **You can choose from one of the [six balanced and play tested difficulty presets](https://github.com/GamesRedone/ZISS/blob/main/StarterGuide.md#difficulty-presets) ranging from Vanilla+ to Hardcore, with options to turn off survival altogether...**
@@ -59,8 +57,6 @@ Z.I.S.S. is a lightweight, highly configurable, collection of mods that transfor
 **You can create your own adventure, with [almost every key gameplay modifier being able to be tweaked](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes) in-game from the mod configuration menu. As well as many [optional mods](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods).**
 
 </div>
-
----
 
 <br>
 
