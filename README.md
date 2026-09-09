@@ -54,7 +54,7 @@ Z.I.S.S. is a lightweight, highly configurable, collection of mods that transfor
 
 <div align="center">
 
-**You can create your own adventure, with [almost every key gameplay modifier being able to be tweaked](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes) in-game from the mod configuration menu. As well as many [optional mods](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods).**
+**You can create your own adventure, with [almost every key gameplay modifier being able to be tweaked](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#key-balancing-changes) in-game from the mod configuration menu.<br>As well as many [optional mods](https://github.com/GamesRedone/ZISS/blob/main/CustomizationGuide.md#optional-mods).**
 
 </div>
 
