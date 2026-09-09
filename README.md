@@ -1,6 +1,6 @@
-<div align="center">
-
 # Z.I.S.S. (Zora's Immersive Survival Souls)
+
+<div align="center">
 
 ![Alt text](https://raw.githubusercontent.com/GamesRedone/ZISS/main/Images/logo_v1.1.0.0.png)
 
