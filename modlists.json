@@ -26,7 +26,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/GamesRedone/ZISS/refs/heads/main/Images/ziss_thumbnail_wj.webp",
       "readme": "https://github.com/GamesRedone/ZISS/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/ZISS (Zora\u0027s Immersive Survival Souls).wabbajack_e4763f3e-3fd5-448b-a9ce-6c887a95ed3a",
+      "download": "https://authored-files.wabbajack.org/ZISS (Zora\u0027s Immersive Survival Souls).wabbajack_ecfbcc0f-60b9-46a9-a0a4-1876fad68675",
       "machineURL": "ZISS",
       "discordURL": "https://discord.com/invite/WejTdPFBbk",
       "websiteURL": "",
@@ -38,17 +38,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "L5+ZdWy5vWM=",
-      "Size": 277674019,
-      "NumberOfArchives": 848,
-      "SizeOfArchives": 49647126301,
-      "NumberOfInstalledFiles": 154295,
-      "SizeOfInstalledFiles": 69310880795,
-      "TotalSize": 118958007096
+      "Hash": "5Xe0W7fi/7Q=",
+      "Size": 277883227,
+      "NumberOfArchives": 849,
+      "SizeOfArchives": 49601287235,
+      "NumberOfInstalledFiles": 154297,
+      "SizeOfInstalledFiles": 69311073816,
+      "TotalSize": 118912361051
     },
-    "version": "1.2.2",
+    "version": "1.2.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-20T21:47:43.4207253Z",
+    "dateUpdated": "2026-09-21T21:20:53.9043789Z",
     "repositoryName": ""
   }
 ]
