@@ -21,7 +21,7 @@ Security updates and critical fixes are provided on a best-effort basis for the 
 
 | Version | Supported |
 | :--- | :--- |
-| v1.2.1 | Yes |
+| v1.2.3 | Yes |
 
 ## Terms of Use & Liability
 
