@@ -11,10 +11,15 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 - Enabled: 0
 - Disabled: 0
 - Renamed: 0
+- Repositioned: 1
 
 ### Added
 
 - Attack MCO unarmed PA fix
+
+### Repositioned
+
+- ENB - Wheeler Valhalla Icons
 
 ## v1.2.1 → v1.2.2
 
@@ -25,6 +30,7 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 - Enabled: 0
 - Disabled: 0
 - Renamed: 0
+- Repositioned: 0
 
 ### Added
 
@@ -45,6 +51,7 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 - Enabled: 0
 - Disabled: 0
 - Renamed: 1
+- Repositioned: 0
 
 ### Added
 
