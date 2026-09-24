@@ -4,8 +4,6 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 
 ## v1.2.2 → v1.2.3
 
-### Summary
-
 ### Added (1)
 
 - [ MOD ] Attack MCO unarmed PA fix
@@ -16,8 +14,6 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 - [ PLUGIN ] DragonbornsBestiaryMCM.esp
 
 ## v1.2.1 → v1.2.2
-
-### Summary
 
 ### Added (4)
 
@@ -31,8 +27,6 @@ The renamed mods found within this changelog are used by [MOPU](https://www.game
 - [ MOD ] Wheeler Valhalla Icons
 
 ## v1.2.0 → v1.2.1
-
-### Summary
 
 ### Added (4)
 
