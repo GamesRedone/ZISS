@@ -1,21 +1,5 @@
 # Changes to the Load Order of ZISS
-This changelog shows all the changes from one version of ZISS to the next.
-
-<br>
-
-👍 Use this list of differences to update your Custom MO2 profile.
-
-<br>
-
-When ZISS gets updated, your Custom MO2 profile will also need to be updated.
-
-- If a mod is added or renamed by Games Redone, the mod will be found deactivated at the bottom of your load order after the update.
-
-- Any mods that were activated/deactivated by Games Redone will remain in their previous state after the update.
-  > *(e.g. If a mod was deactivated between updates it will still be active in your Custom profile)*
-
-You do *NOT* have to update your Custom MO2 Profile for mods that were removed.<br>
-> Removed mods will be removed automatically from your Custom MO2 Profile after the update.
+The renamed mods found within this changelog are used by [MOPU](https://www.gamesredone.com/mopu/) to update your Custom MO2 Profile.
 
 <br>
 
