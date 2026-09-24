@@ -386,8 +386,6 @@ Expressive Facegen Morphs.esl
 *mihailrieklinghead.esp
 *mihailbeessting.esp
 *MissivesExpansion.esp
-*Harrald_TraintoSandbox.esp
-*DragonbornsBestiaryMCM.esp
 *FWMF for Fantasy Paper Maps.esp
 *MCM for FWMF.esp
 *DisarmlessDraugr.esp
